@@ -1,0 +1,18 @@
+DateTable =
+ADDCOLUMNS(
+    CALENDAR(DATE(2023,1,1), DATE(2025,12,31)),
+    "Year", YEAR([Date]),
+    "Month No", MONTH([Date]),
+    "Month", FORMAT([Date], "MMM"),
+    "Quarter", "Q" & QUARTER([Date])
+)
+
+Total Revenue = SUM(vw_sales[revenue])
+Total Profit = SUM(vw_sales[profit])
+Profit Margin % = DIVIDE([Total Profit], [Total Revenue])
+Total Orders = DISTINCTCOUNT(vw_sales[order_id])
+Total Customers = DISTINCTCOUNT(vw_sales[customer_id])
+Avg Order Value = DIVIDE([Total Revenue], [Total Orders])
+Revenue LY = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(DateTable[Date]))
+YoY Growth % = DIVIDE([Total Revenue] - [Revenue LY], [Revenue LY])
+Revenue YTD = TOTALYTD([Total Revenue], DateTable[Date])
