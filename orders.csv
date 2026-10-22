@@ -1,0 +1,5001 @@
+order_id,customer_id,order_date,order_status,payment_mode
+1,212,2025-06-23,Delivered,COD
+2,341,2024-09-03,Delivered,Credit Card
+3,382,2024-09-06,Delivered,Credit Card
+4,482,2025-06-11,Delivered,UPI
+5,189,2025-05-20,Delivered,Debit Card
+6,425,2025-07-31,Delivered,UPI
+7,93,2024-07-08,Delivered,Net Banking
+8,111,2025-03-19,Delivered,COD
+9,483,2024-06-16,Delivered,UPI
+10,249,2025-01-31,Delivered,COD
+11,146,2024-09-05,Delivered,Net Banking
+12,307,2024-03-15,Delivered,Credit Card
+13,168,2024-04-17,Delivered,COD
+14,343,2024-11-30,Delivered,UPI
+15,472,2023-05-09,Delivered,Debit Card
+16,11,2023-11-14,Cancelled,Credit Card
+17,206,2024-09-09,Delivered,COD
+18,464,2024-10-30,Delivered,Debit Card
+19,309,2024-02-20,Delivered,UPI
+20,390,2025-03-23,Delivered,Net Banking
+21,241,2024-09-12,Delivered,Debit Card
+22,20,2024-09-27,Delivered,Debit Card
+23,197,2024-12-22,Delivered,Net Banking
+24,461,2023-10-28,Delivered,UPI
+25,313,2024-11-08,Delivered,Debit Card
+26,286,2024-06-21,Delivered,Debit Card
+27,340,2023-09-25,Delivered,Debit Card
+28,481,2024-12-22,Delivered,Net Banking
+29,360,2023-12-01,Delivered,Net Banking
+30,186,2024-07-16,Delivered,Credit Card
+31,71,2024-03-21,Delivered,Debit Card
+32,355,2024-02-02,Delivered,Credit Card
+33,386,2025-01-01,Delivered,COD
+34,463,2025-04-10,Delivered,Debit Card
+35,271,2024-08-01,Delivered,Credit Card
+36,365,2025-08-06,Delivered,UPI
+37,263,2024-09-19,Delivered,COD
+38,179,2024-09-20,Returned,COD
+39,42,2024-08-04,Delivered,UPI
+40,20,2023-12-24,Delivered,COD
+41,111,2023-05-09,Delivered,Net Banking
+42,328,2024-04-01,Delivered,COD
+43,324,2024-11-15,Delivered,Credit Card
+44,96,2024-12-07,Delivered,UPI
+45,23,2025-06-11,Delivered,Debit Card
+46,124,2023-09-01,Delivered,UPI
+47,330,2024-06-28,Delivered,COD
+48,454,2025-04-14,Delivered,Debit Card
+49,400,2024-07-12,Delivered,Debit Card
+50,381,2025-06-24,Delivered,COD
+51,474,2024-10-21,Delivered,Debit Card
+52,339,2023-09-22,Delivered,COD
+53,446,2023-07-12,Returned,Net Banking
+54,121,2023-11-29,Delivered,Debit Card
+55,231,2024-01-02,Returned,Debit Card
+56,161,2024-07-20,Delivered,Credit Card
+57,147,2025-11-25,Delivered,COD
+58,366,2024-01-24,Delivered,UPI
+59,365,2025-05-25,Delivered,Credit Card
+60,14,2025-04-14,Delivered,Net Banking
+61,34,2025-06-20,Delivered,COD
+62,329,2025-09-26,Delivered,COD
+63,222,2025-09-16,Delivered,UPI
+64,266,2025-08-22,Returned,UPI
+65,315,2025-01-09,Delivered,Net Banking
+66,22,2025-07-26,Delivered,UPI
+67,293,2024-03-05,Delivered,UPI
+68,248,2025-09-02,Delivered,COD
+69,248,2024-09-12,Delivered,Debit Card
+70,190,2023-12-05,Delivered,UPI
+71,73,2024-09-19,Delivered,Debit Card
+72,256,2025-03-28,Cancelled,COD
+73,202,2023-10-08,Delivered,Credit Card
+74,306,2024-05-11,Returned,COD
+75,136,2023-12-09,Delivered,COD
+76,186,2024-12-02,Delivered,UPI
+77,349,2025-10-31,Delivered,Credit Card
+78,20,2023-07-07,Delivered,Debit Card
+79,316,2024-08-09,Delivered,Debit Card
+80,189,2025-04-30,Delivered,UPI
+81,246,2023-08-01,Delivered,Net Banking
+82,359,2024-12-08,Delivered,UPI
+83,211,2025-02-16,Delivered,Net Banking
+84,490,2024-07-28,Delivered,Net Banking
+85,491,2024-10-12,Delivered,Net Banking
+86,361,2024-03-01,Delivered,COD
+87,347,2023-11-23,Delivered,COD
+88,383,2025-01-27,Delivered,Credit Card
+89,52,2024-03-27,Delivered,COD
+90,476,2025-09-14,Delivered,COD
+91,31,2024-05-14,Returned,UPI
+92,204,2025-11-29,Delivered,Credit Card
+93,329,2024-05-14,Delivered,COD
+94,96,2024-04-19,Delivered,Debit Card
+95,168,2024-09-03,Delivered,UPI
+96,4,2025-08-08,Delivered,Credit Card
+97,294,2024-12-14,Delivered,Debit Card
+98,473,2025-02-13,Returned,Debit Card
+99,245,2025-09-03,Delivered,Net Banking
+100,341,2024-11-16,Delivered,Credit Card
+101,58,2025-07-19,Delivered,Net Banking
+102,47,2024-12-15,Returned,COD
+103,371,2025-04-24,Delivered,Debit Card
+104,479,2025-11-16,Returned,COD
+105,329,2023-12-11,Cancelled,COD
+106,465,2025-06-08,Delivered,UPI
+107,276,2024-01-31,Delivered,Credit Card
+108,279,2025-02-06,Delivered,COD
+109,215,2025-04-26,Delivered,UPI
+110,307,2023-06-21,Delivered,UPI
+111,112,2024-03-28,Delivered,UPI
+112,295,2025-07-19,Delivered,Net Banking
+113,212,2024-11-06,Delivered,UPI
+114,498,2024-10-20,Delivered,COD
+115,276,2024-02-06,Delivered,Credit Card
+116,30,2024-09-28,Delivered,COD
+117,473,2025-01-22,Delivered,Debit Card
+118,345,2024-04-29,Delivered,UPI
+119,493,2025-08-09,Delivered,COD
+120,333,2024-09-30,Delivered,Debit Card
+121,370,2023-10-21,Delivered,Debit Card
+122,300,2024-11-26,Delivered,COD
+123,427,2024-07-30,Delivered,Net Banking
+124,252,2025-01-19,Delivered,Debit Card
+125,278,2025-07-19,Cancelled,UPI
+126,71,2023-03-16,Delivered,Credit Card
+127,192,2024-10-27,Delivered,Net Banking
+128,9,2025-10-05,Delivered,COD
+129,130,2025-01-06,Delivered,Debit Card
+130,351,2024-03-20,Delivered,UPI
+131,29,2024-11-26,Delivered,Credit Card
+132,290,2025-04-10,Cancelled,UPI
+133,461,2025-07-28,Delivered,UPI
+134,301,2025-09-09,Delivered,COD
+135,72,2025-03-24,Delivered,UPI
+136,310,2023-09-15,Delivered,Net Banking
+137,402,2025-01-14,Cancelled,COD
+138,300,2024-02-08,Delivered,UPI
+139,365,2024-01-03,Delivered,Credit Card
+140,390,2024-09-15,Delivered,Credit Card
+141,209,2024-11-27,Delivered,UPI
+142,150,2024-08-03,Delivered,UPI
+143,72,2024-07-31,Delivered,Debit Card
+144,154,2024-05-06,Delivered,UPI
+145,235,2025-01-04,Delivered,Debit Card
+146,412,2025-01-06,Delivered,COD
+147,486,2024-06-13,Delivered,COD
+148,325,2025-03-12,Delivered,Net Banking
+149,289,2023-11-12,Delivered,Net Banking
+150,363,2024-09-27,Delivered,Debit Card
+151,367,2025-01-29,Delivered,COD
+152,260,2024-08-15,Returned,COD
+153,337,2025-04-01,Delivered,Credit Card
+154,133,2023-04-07,Delivered,Net Banking
+155,302,2025-04-03,Delivered,Credit Card
+156,472,2024-05-23,Cancelled,UPI
+157,244,2024-10-12,Delivered,COD
+158,12,2025-02-27,Delivered,UPI
+159,491,2024-11-30,Delivered,COD
+160,200,2024-12-20,Delivered,Credit Card
+161,447,2023-10-26,Delivered,Debit Card
+162,251,2025-02-05,Delivered,Debit Card
+163,317,2025-05-21,Delivered,Debit Card
+164,356,2024-02-05,Delivered,COD
+165,326,2024-02-08,Delivered,Credit Card
+166,28,2024-09-20,Delivered,UPI
+167,254,2024-10-27,Delivered,COD
+168,290,2024-01-18,Delivered,Credit Card
+169,400,2024-05-17,Delivered,COD
+170,22,2025-05-05,Delivered,COD
+171,17,2025-06-12,Delivered,Debit Card
+172,324,2025-02-27,Delivered,Net Banking
+173,180,2023-08-16,Delivered,Net Banking
+174,461,2024-11-01,Delivered,UPI
+175,444,2025-11-10,Delivered,Credit Card
+176,432,2024-04-10,Delivered,COD
+177,232,2024-08-25,Delivered,UPI
+178,189,2025-08-08,Delivered,COD
+179,326,2025-09-26,Delivered,Debit Card
+180,281,2024-05-13,Delivered,Net Banking
+181,440,2023-11-26,Delivered,COD
+182,452,2025-07-12,Delivered,Credit Card
+183,85,2025-07-07,Delivered,Debit Card
+184,110,2023-10-16,Delivered,Credit Card
+185,441,2023-11-21,Delivered,Credit Card
+186,53,2025-03-10,Delivered,Debit Card
+187,5,2024-11-12,Delivered,Credit Card
+188,471,2025-03-20,Delivered,COD
+189,162,2025-09-12,Delivered,Credit Card
+190,370,2024-12-26,Delivered,UPI
+191,460,2023-08-07,Delivered,Credit Card
+192,37,2025-01-17,Delivered,UPI
+193,8,2024-12-17,Delivered,UPI
+194,276,2025-01-18,Delivered,Debit Card
+195,168,2024-01-04,Delivered,UPI
+196,474,2024-04-07,Delivered,COD
+197,71,2023-04-16,Delivered,Credit Card
+198,384,2024-07-24,Delivered,Debit Card
+199,135,2024-11-08,Delivered,Net Banking
+200,86,2025-05-31,Delivered,Debit Card
+201,7,2025-05-30,Delivered,COD
+202,440,2025-08-03,Delivered,COD
+203,423,2024-06-13,Delivered,Debit Card
+204,265,2024-03-17,Cancelled,COD
+205,168,2025-05-20,Delivered,COD
+206,379,2025-04-10,Delivered,COD
+207,390,2025-07-04,Delivered,Credit Card
+208,326,2024-11-19,Delivered,UPI
+209,48,2025-02-28,Delivered,Credit Card
+210,69,2023-10-17,Delivered,COD
+211,67,2025-01-31,Delivered,Debit Card
+212,104,2023-09-13,Delivered,Net Banking
+213,209,2024-09-30,Delivered,Debit Card
+214,309,2025-02-24,Delivered,Debit Card
+215,26,2024-08-11,Delivered,Debit Card
+216,412,2024-09-27,Delivered,UPI
+217,206,2024-02-21,Delivered,UPI
+218,66,2024-09-14,Delivered,Debit Card
+219,222,2025-07-26,Delivered,COD
+220,466,2024-07-10,Delivered,Debit Card
+221,126,2025-01-06,Delivered,COD
+222,197,2023-10-05,Delivered,Credit Card
+223,184,2025-04-09,Delivered,COD
+224,14,2024-05-01,Delivered,Credit Card
+225,242,2025-04-25,Delivered,Net Banking
+226,433,2025-08-07,Delivered,Credit Card
+227,289,2024-12-03,Returned,COD
+228,11,2024-12-26,Delivered,UPI
+229,368,2023-12-04,Delivered,Debit Card
+230,270,2023-11-08,Delivered,UPI
+231,155,2023-10-25,Delivered,Credit Card
+232,356,2025-09-20,Returned,Net Banking
+233,1,2024-01-30,Returned,Net Banking
+234,472,2024-12-27,Delivered,Net Banking
+235,382,2023-12-17,Delivered,Debit Card
+236,56,2024-04-18,Delivered,UPI
+237,253,2025-06-20,Returned,Debit Card
+238,410,2024-09-20,Delivered,Debit Card
+239,455,2024-06-30,Delivered,UPI
+240,483,2023-06-14,Delivered,Net Banking
+241,122,2024-05-11,Delivered,COD
+242,151,2024-09-03,Delivered,Net Banking
+243,150,2024-01-22,Cancelled,COD
+244,196,2024-07-23,Delivered,COD
+245,138,2024-03-20,Delivered,Credit Card
+246,498,2024-11-19,Delivered,Credit Card
+247,480,2025-02-14,Delivered,Credit Card
+248,258,2025-03-01,Delivered,Net Banking
+249,22,2024-02-15,Delivered,COD
+250,164,2024-12-22,Returned,UPI
+251,142,2024-06-18,Delivered,UPI
+252,299,2024-12-05,Delivered,UPI
+253,312,2024-10-13,Delivered,Credit Card
+254,451,2024-08-11,Delivered,Credit Card
+255,419,2023-05-14,Delivered,Debit Card
+256,154,2024-03-22,Cancelled,COD
+257,468,2024-09-13,Delivered,COD
+258,260,2024-06-05,Delivered,Net Banking
+259,471,2024-09-24,Delivered,Credit Card
+260,473,2024-08-12,Delivered,UPI
+261,243,2025-09-08,Delivered,Debit Card
+262,47,2025-05-10,Delivered,COD
+263,116,2024-03-16,Delivered,Debit Card
+264,332,2025-07-14,Delivered,UPI
+265,330,2025-09-18,Delivered,COD
+266,262,2023-10-27,Cancelled,Debit Card
+267,142,2023-08-25,Delivered,Debit Card
+268,392,2023-12-29,Delivered,UPI
+269,215,2024-04-21,Delivered,UPI
+270,402,2024-11-15,Delivered,Debit Card
+271,66,2023-10-20,Delivered,Net Banking
+272,447,2024-03-18,Delivered,Debit Card
+273,241,2025-05-25,Delivered,Net Banking
+274,349,2023-11-20,Delivered,Debit Card
+275,176,2025-11-10,Delivered,Net Banking
+276,91,2025-01-13,Delivered,UPI
+277,296,2025-04-04,Delivered,COD
+278,220,2024-09-05,Cancelled,COD
+279,8,2024-07-25,Returned,Net Banking
+280,116,2025-03-12,Delivered,Debit Card
+281,86,2024-12-18,Delivered,UPI
+282,269,2024-11-05,Delivered,Credit Card
+283,85,2025-03-21,Returned,COD
+284,302,2025-03-12,Delivered,UPI
+285,131,2025-06-13,Delivered,Net Banking
+286,25,2025-05-14,Delivered,COD
+287,106,2025-02-22,Delivered,UPI
+288,319,2024-11-05,Delivered,Credit Card
+289,61,2025-03-04,Delivered,UPI
+290,268,2024-04-24,Cancelled,Debit Card
+291,247,2025-02-15,Delivered,UPI
+292,253,2024-12-09,Delivered,UPI
+293,152,2025-10-30,Delivered,UPI
+294,411,2024-05-19,Delivered,COD
+295,169,2025-01-22,Delivered,COD
+296,436,2024-08-04,Delivered,COD
+297,214,2024-01-09,Returned,COD
+298,430,2025-02-12,Delivered,Credit Card
+299,33,2024-09-13,Delivered,Debit Card
+300,266,2025-06-11,Delivered,Net Banking
+301,347,2024-07-04,Delivered,Credit Card
+302,85,2024-10-20,Delivered,COD
+303,282,2024-10-28,Delivered,COD
+304,255,2024-06-09,Delivered,UPI
+305,423,2024-11-24,Delivered,Net Banking
+306,233,2024-03-17,Delivered,Net Banking
+307,114,2025-03-26,Delivered,Debit Card
+308,421,2024-10-18,Delivered,COD
+309,437,2023-11-22,Delivered,COD
+310,235,2025-06-26,Delivered,Net Banking
+311,284,2025-03-13,Returned,Net Banking
+312,375,2024-12-12,Delivered,UPI
+313,215,2025-06-17,Cancelled,Credit Card
+314,71,2025-04-23,Delivered,Net Banking
+315,284,2025-03-14,Delivered,Credit Card
+316,345,2024-07-03,Delivered,Credit Card
+317,293,2024-10-10,Returned,COD
+318,196,2023-11-02,Delivered,UPI
+319,75,2025-02-12,Delivered,Debit Card
+320,53,2025-04-29,Delivered,Net Banking
+321,490,2024-08-05,Delivered,Debit Card
+322,379,2024-12-18,Delivered,Credit Card
+323,377,2025-09-11,Delivered,COD
+324,434,2024-01-11,Delivered,Debit Card
+325,166,2024-01-02,Delivered,Net Banking
+326,95,2024-03-14,Delivered,Net Banking
+327,453,2024-07-06,Delivered,Debit Card
+328,244,2025-01-05,Cancelled,UPI
+329,315,2025-07-07,Returned,Credit Card
+330,229,2025-04-22,Delivered,Debit Card
+331,344,2023-08-28,Delivered,Credit Card
+332,13,2025-02-13,Delivered,Debit Card
+333,286,2025-04-16,Delivered,Credit Card
+334,274,2025-02-06,Delivered,Net Banking
+335,184,2025-05-23,Returned,UPI
+336,392,2023-10-03,Returned,COD
+337,113,2024-01-05,Delivered,COD
+338,495,2025-06-22,Delivered,Debit Card
+339,380,2024-03-04,Returned,Debit Card
+340,316,2024-02-06,Delivered,Credit Card
+341,282,2025-03-22,Delivered,Net Banking
+342,372,2023-10-21,Delivered,Debit Card
+343,36,2024-05-14,Returned,Debit Card
+344,290,2024-12-16,Delivered,Debit Card
+345,170,2025-02-10,Delivered,COD
+346,90,2024-11-25,Delivered,UPI
+347,10,2023-09-14,Delivered,UPI
+348,277,2025-06-28,Delivered,Credit Card
+349,262,2024-09-29,Delivered,Debit Card
+350,229,2024-11-01,Delivered,Net Banking
+351,33,2024-10-15,Delivered,Credit Card
+352,233,2024-10-03,Returned,UPI
+353,188,2025-01-26,Delivered,UPI
+354,250,2025-06-06,Delivered,Net Banking
+355,40,2024-01-16,Delivered,Debit Card
+356,419,2024-12-26,Delivered,Credit Card
+357,246,2025-02-07,Delivered,Credit Card
+358,69,2024-12-21,Delivered,UPI
+359,421,2025-03-09,Delivered,UPI
+360,113,2024-10-11,Delivered,Net Banking
+361,136,2025-01-29,Delivered,Debit Card
+362,466,2024-11-07,Delivered,COD
+363,67,2024-10-11,Returned,Net Banking
+364,247,2025-08-11,Delivered,COD
+365,245,2023-12-09,Delivered,UPI
+366,364,2024-02-11,Delivered,UPI
+367,210,2025-04-23,Delivered,Credit Card
+368,217,2025-05-28,Delivered,Net Banking
+369,283,2024-02-27,Delivered,COD
+370,296,2025-10-30,Delivered,COD
+371,83,2025-02-21,Delivered,Net Banking
+372,326,2024-08-06,Delivered,UPI
+373,197,2023-07-01,Returned,COD
+374,328,2025-05-03,Delivered,UPI
+375,307,2023-06-21,Delivered,Credit Card
+376,142,2023-10-03,Delivered,Debit Card
+377,372,2024-11-24,Delivered,Net Banking
+378,100,2024-12-29,Delivered,COD
+379,151,2023-09-09,Delivered,UPI
+380,398,2024-06-29,Delivered,COD
+381,410,2025-02-22,Delivered,Debit Card
+382,421,2025-02-06,Delivered,Net Banking
+383,121,2025-03-14,Delivered,Debit Card
+384,80,2025-01-05,Delivered,UPI
+385,460,2024-06-09,Cancelled,Net Banking
+386,217,2024-11-09,Delivered,Net Banking
+387,90,2025-02-14,Delivered,UPI
+388,298,2024-03-05,Delivered,Debit Card
+389,314,2024-10-04,Delivered,Credit Card
+390,187,2025-03-22,Delivered,Debit Card
+391,417,2025-02-13,Delivered,Debit Card
+392,91,2025-04-23,Delivered,Credit Card
+393,131,2024-03-10,Delivered,UPI
+394,286,2024-07-15,Returned,Debit Card
+395,494,2025-06-06,Delivered,Net Banking
+396,250,2025-02-06,Delivered,COD
+397,293,2025-01-13,Delivered,UPI
+398,150,2024-06-10,Delivered,Net Banking
+399,495,2024-12-17,Delivered,Credit Card
+400,129,2024-03-29,Returned,UPI
+401,450,2023-08-25,Delivered,UPI
+402,80,2024-04-24,Delivered,COD
+403,68,2025-01-10,Delivered,Credit Card
+404,443,2025-07-17,Delivered,Net Banking
+405,450,2025-03-20,Delivered,Net Banking
+406,158,2023-10-07,Delivered,Debit Card
+407,435,2025-04-30,Delivered,Debit Card
+408,5,2024-10-08,Delivered,Debit Card
+409,224,2025-06-18,Delivered,Credit Card
+410,321,2023-09-21,Delivered,Net Banking
+411,57,2023-12-12,Delivered,Net Banking
+412,78,2024-06-13,Delivered,Net Banking
+413,225,2023-11-27,Delivered,Credit Card
+414,160,2024-07-01,Delivered,COD
+415,431,2024-02-15,Delivered,COD
+416,395,2024-09-27,Delivered,Credit Card
+417,373,2024-01-08,Delivered,Net Banking
+418,443,2025-06-22,Delivered,UPI
+419,142,2024-01-18,Delivered,COD
+420,191,2024-12-23,Delivered,Credit Card
+421,31,2025-01-09,Delivered,Credit Card
+422,404,2025-10-14,Delivered,Debit Card
+423,249,2025-07-02,Delivered,Net Banking
+424,279,2024-12-05,Delivered,COD
+425,231,2024-11-12,Delivered,Debit Card
+426,10,2024-02-07,Delivered,Debit Card
+427,255,2024-11-08,Delivered,Credit Card
+428,35,2024-11-07,Delivered,Credit Card
+429,51,2024-10-13,Delivered,COD
+430,7,2025-03-03,Returned,Credit Card
+431,481,2024-11-29,Returned,Debit Card
+432,484,2024-05-30,Delivered,Net Banking
+433,99,2024-08-03,Delivered,Credit Card
+434,341,2024-09-25,Delivered,UPI
+435,81,2024-06-27,Delivered,Net Banking
+436,167,2025-11-07,Delivered,COD
+437,475,2025-03-30,Delivered,Debit Card
+438,114,2024-05-27,Delivered,Debit Card
+439,293,2024-10-30,Returned,Credit Card
+440,188,2023-12-15,Returned,Credit Card
+441,292,2024-12-07,Returned,UPI
+442,20,2025-01-19,Delivered,Net Banking
+443,451,2024-06-24,Delivered,COD
+444,22,2024-05-31,Delivered,Net Banking
+445,375,2023-07-30,Cancelled,COD
+446,68,2024-08-10,Delivered,COD
+447,358,2024-09-08,Delivered,Credit Card
+448,101,2025-01-25,Delivered,Net Banking
+449,351,2024-09-05,Returned,UPI
+450,165,2024-07-06,Delivered,UPI
+451,23,2023-12-24,Returned,Credit Card
+452,44,2025-03-09,Delivered,UPI
+453,148,2025-05-11,Delivered,UPI
+454,276,2024-03-03,Delivered,Net Banking
+455,10,2025-02-21,Delivered,Net Banking
+456,357,2024-02-24,Delivered,UPI
+457,340,2025-01-30,Delivered,Debit Card
+458,306,2024-10-13,Delivered,Credit Card
+459,272,2024-04-10,Delivered,COD
+460,182,2025-02-12,Delivered,Credit Card
+461,202,2024-06-30,Delivered,UPI
+462,466,2025-09-23,Delivered,COD
+463,353,2023-12-14,Delivered,Net Banking
+464,451,2024-06-11,Delivered,UPI
+465,458,2025-08-06,Delivered,Debit Card
+466,391,2024-02-07,Cancelled,Net Banking
+467,352,2024-03-26,Delivered,UPI
+468,95,2025-01-23,Delivered,COD
+469,392,2023-06-17,Cancelled,Debit Card
+470,235,2024-06-17,Returned,COD
+471,314,2024-06-07,Returned,Net Banking
+472,22,2025-05-08,Delivered,Credit Card
+473,204,2024-05-19,Returned,Debit Card
+474,354,2025-07-21,Delivered,Credit Card
+475,58,2025-03-06,Delivered,Net Banking
+476,365,2024-12-19,Returned,COD
+477,47,2025-03-12,Delivered,COD
+478,23,2024-11-25,Delivered,Debit Card
+479,27,2025-04-01,Delivered,Debit Card
+480,2,2025-09-08,Delivered,Debit Card
+481,312,2025-04-25,Returned,Credit Card
+482,41,2024-08-22,Delivered,UPI
+483,420,2025-01-11,Delivered,UPI
+484,17,2023-12-23,Delivered,Net Banking
+485,92,2023-11-05,Delivered,Debit Card
+486,154,2023-10-13,Delivered,COD
+487,141,2025-02-18,Delivered,COD
+488,323,2025-03-10,Delivered,UPI
+489,163,2024-12-30,Delivered,Net Banking
+490,149,2024-03-27,Cancelled,UPI
+491,410,2025-05-22,Delivered,COD
+492,109,2025-04-24,Delivered,Credit Card
+493,352,2023-03-15,Delivered,COD
+494,473,2025-05-12,Delivered,COD
+495,172,2024-11-16,Delivered,COD
+496,170,2024-12-11,Delivered,Debit Card
+497,193,2023-06-15,Delivered,Credit Card
+498,364,2025-05-30,Delivered,COD
+499,487,2024-09-20,Delivered,Net Banking
+500,104,2023-06-30,Returned,COD
+501,376,2025-07-26,Delivered,Debit Card
+502,236,2025-03-07,Delivered,Net Banking
+503,447,2025-05-22,Delivered,COD
+504,147,2024-02-23,Delivered,Debit Card
+505,491,2023-11-13,Delivered,Net Banking
+506,73,2024-06-11,Returned,Debit Card
+507,67,2024-09-15,Delivered,UPI
+508,361,2024-08-08,Delivered,Net Banking
+509,366,2025-05-01,Delivered,Net Banking
+510,417,2023-12-06,Delivered,COD
+511,115,2024-03-26,Delivered,Net Banking
+512,341,2025-02-21,Delivered,Debit Card
+513,246,2023-11-11,Delivered,Credit Card
+514,419,2023-10-28,Delivered,UPI
+515,237,2024-05-29,Delivered,COD
+516,175,2024-08-02,Delivered,Net Banking
+517,89,2025-02-18,Delivered,UPI
+518,421,2024-11-28,Delivered,Debit Card
+519,326,2025-07-06,Delivered,Credit Card
+520,450,2024-02-29,Delivered,Net Banking
+521,314,2024-12-15,Cancelled,COD
+522,444,2025-06-01,Delivered,COD
+523,109,2024-09-09,Delivered,COD
+524,431,2025-07-27,Delivered,Debit Card
+525,70,2024-09-10,Delivered,COD
+526,96,2024-07-11,Delivered,UPI
+527,296,2025-07-29,Delivered,UPI
+528,374,2023-09-22,Delivered,Debit Card
+529,380,2024-10-05,Delivered,UPI
+530,241,2025-04-07,Delivered,COD
+531,356,2024-01-18,Returned,Debit Card
+532,27,2024-01-20,Delivered,Debit Card
+533,130,2025-04-10,Delivered,Debit Card
+534,90,2023-11-09,Returned,Credit Card
+535,271,2024-02-02,Delivered,Debit Card
+536,432,2024-12-12,Delivered,Debit Card
+537,383,2024-05-28,Returned,Net Banking
+538,272,2024-04-24,Delivered,UPI
+539,493,2025-02-09,Delivered,UPI
+540,471,2024-09-06,Delivered,Debit Card
+541,201,2025-01-26,Delivered,Credit Card
+542,345,2024-11-23,Delivered,UPI
+543,113,2024-09-16,Delivered,Debit Card
+544,337,2025-08-11,Returned,Credit Card
+545,130,2025-02-19,Delivered,UPI
+546,38,2024-01-12,Delivered,UPI
+547,136,2025-09-01,Delivered,UPI
+548,331,2024-08-09,Delivered,Credit Card
+549,53,2025-03-02,Delivered,UPI
+550,1,2025-01-25,Returned,COD
+551,264,2024-12-10,Delivered,COD
+552,197,2024-03-20,Cancelled,COD
+553,206,2025-02-11,Delivered,UPI
+554,390,2025-05-17,Delivered,Credit Card
+555,357,2024-02-13,Delivered,UPI
+556,19,2024-02-12,Delivered,Net Banking
+557,158,2024-11-18,Delivered,COD
+558,268,2025-01-26,Delivered,Net Banking
+559,73,2023-06-29,Delivered,UPI
+560,67,2025-02-22,Delivered,UPI
+561,59,2025-05-01,Delivered,Net Banking
+562,428,2024-06-27,Cancelled,COD
+563,407,2025-05-14,Delivered,UPI
+564,357,2024-08-25,Delivered,Credit Card
+565,434,2023-10-23,Delivered,COD
+566,362,2025-07-28,Delivered,Debit Card
+567,74,2023-11-30,Delivered,Net Banking
+568,306,2025-02-17,Delivered,COD
+569,61,2024-03-30,Cancelled,UPI
+570,58,2023-08-04,Delivered,COD
+571,146,2025-01-21,Delivered,Debit Card
+572,27,2023-10-30,Returned,Credit Card
+573,459,2023-11-15,Delivered,COD
+574,167,2025-04-07,Delivered,Credit Card
+575,249,2024-10-04,Delivered,COD
+576,70,2024-08-05,Delivered,Credit Card
+577,144,2024-12-06,Delivered,COD
+578,310,2025-06-21,Delivered,Net Banking
+579,8,2024-09-28,Delivered,Credit Card
+580,468,2025-08-20,Delivered,UPI
+581,259,2025-03-12,Delivered,Net Banking
+582,43,2024-10-20,Delivered,UPI
+583,47,2025-01-22,Delivered,Debit Card
+584,71,2024-09-29,Delivered,COD
+585,325,2024-09-29,Delivered,UPI
+586,219,2023-06-19,Delivered,Net Banking
+587,377,2025-06-17,Returned,Net Banking
+588,332,2024-07-20,Delivered,UPI
+589,245,2023-11-12,Delivered,Net Banking
+590,142,2025-02-10,Delivered,Debit Card
+591,348,2025-02-27,Delivered,Debit Card
+592,235,2025-06-26,Delivered,COD
+593,105,2023-12-29,Delivered,UPI
+594,228,2024-07-04,Delivered,UPI
+595,428,2025-04-21,Returned,Debit Card
+596,357,2024-12-21,Delivered,Net Banking
+597,405,2024-06-01,Delivered,COD
+598,234,2024-07-09,Cancelled,Net Banking
+599,295,2025-11-15,Delivered,Debit Card
+600,177,2024-06-10,Delivered,COD
+601,394,2025-08-03,Delivered,COD
+602,497,2025-06-30,Returned,Net Banking
+603,21,2024-10-09,Delivered,Net Banking
+604,229,2025-05-17,Delivered,Debit Card
+605,401,2024-11-09,Returned,Debit Card
+606,45,2025-02-05,Cancelled,COD
+607,76,2024-07-16,Delivered,COD
+608,158,2024-07-03,Cancelled,Net Banking
+609,412,2025-11-11,Delivered,Credit Card
+610,244,2024-03-02,Cancelled,Net Banking
+611,469,2024-12-06,Delivered,Credit Card
+612,238,2024-11-30,Delivered,UPI
+613,458,2025-01-26,Delivered,Credit Card
+614,142,2023-11-20,Delivered,UPI
+615,499,2025-02-13,Delivered,UPI
+616,298,2024-04-21,Delivered,Debit Card
+617,140,2024-01-14,Delivered,Debit Card
+618,322,2024-02-16,Delivered,UPI
+619,353,2025-02-13,Delivered,Net Banking
+620,211,2025-04-07,Delivered,Credit Card
+621,460,2024-02-11,Delivered,Net Banking
+622,160,2024-10-09,Delivered,Credit Card
+623,356,2023-12-02,Delivered,Credit Card
+624,391,2024-09-01,Delivered,UPI
+625,17,2024-02-19,Delivered,Net Banking
+626,387,2025-02-03,Delivered,UPI
+627,143,2025-03-19,Returned,Debit Card
+628,51,2024-12-07,Delivered,UPI
+629,110,2023-10-21,Returned,COD
+630,55,2025-02-06,Delivered,Debit Card
+631,391,2023-12-11,Delivered,Debit Card
+632,308,2024-05-13,Delivered,COD
+633,439,2024-09-04,Delivered,COD
+634,347,2024-11-07,Delivered,Credit Card
+635,87,2025-07-27,Delivered,Credit Card
+636,218,2024-03-27,Delivered,Debit Card
+637,309,2024-10-07,Cancelled,COD
+638,322,2024-10-21,Returned,UPI
+639,498,2025-02-09,Delivered,Net Banking
+640,385,2023-09-16,Delivered,COD
+641,176,2024-04-23,Delivered,Net Banking
+642,437,2024-09-19,Delivered,COD
+643,221,2024-01-15,Delivered,COD
+644,277,2024-11-27,Delivered,COD
+645,316,2025-09-24,Delivered,Debit Card
+646,179,2025-05-14,Delivered,Net Banking
+647,177,2023-10-19,Cancelled,COD
+648,160,2024-03-29,Delivered,UPI
+649,216,2024-11-02,Delivered,COD
+650,251,2023-10-20,Delivered,Credit Card
+651,187,2025-01-03,Cancelled,Credit Card
+652,110,2025-05-24,Delivered,UPI
+653,381,2024-03-20,Cancelled,Net Banking
+654,272,2024-12-05,Delivered,Credit Card
+655,222,2025-04-23,Delivered,Debit Card
+656,344,2024-11-02,Delivered,Credit Card
+657,273,2025-08-09,Delivered,COD
+658,392,2025-03-19,Delivered,COD
+659,212,2024-02-27,Delivered,Debit Card
+660,126,2024-02-14,Delivered,Debit Card
+661,19,2025-01-22,Delivered,Debit Card
+662,330,2024-11-25,Delivered,COD
+663,490,2023-08-24,Delivered,Debit Card
+664,377,2023-11-09,Delivered,UPI
+665,396,2024-12-25,Delivered,Debit Card
+666,497,2024-01-27,Delivered,COD
+667,359,2024-11-14,Returned,Debit Card
+668,189,2024-10-06,Delivered,UPI
+669,344,2025-07-20,Delivered,Net Banking
+670,274,2025-02-13,Delivered,COD
+671,480,2024-05-28,Delivered,Credit Card
+672,451,2025-01-13,Delivered,COD
+673,475,2025-03-14,Delivered,COD
+674,417,2024-12-26,Delivered,Debit Card
+675,323,2025-01-19,Delivered,Credit Card
+676,57,2024-12-10,Delivered,Net Banking
+677,232,2025-08-12,Delivered,Credit Card
+678,44,2024-05-11,Delivered,Credit Card
+679,473,2025-08-22,Delivered,Net Banking
+680,26,2025-05-25,Delivered,COD
+681,223,2025-03-04,Delivered,COD
+682,196,2025-03-19,Delivered,Credit Card
+683,406,2024-02-02,Delivered,Debit Card
+684,109,2024-08-12,Delivered,COD
+685,121,2024-06-23,Delivered,Debit Card
+686,87,2024-02-01,Delivered,Debit Card
+687,66,2023-07-16,Delivered,Debit Card
+688,475,2025-05-09,Delivered,Debit Card
+689,392,2025-11-18,Cancelled,Net Banking
+690,84,2024-10-03,Delivered,COD
+691,364,2024-09-13,Delivered,COD
+692,105,2024-07-07,Delivered,Credit Card
+693,127,2025-07-23,Delivered,UPI
+694,15,2024-06-16,Delivered,COD
+695,336,2025-09-22,Delivered,COD
+696,411,2025-06-03,Delivered,Debit Card
+697,92,2024-08-13,Delivered,COD
+698,207,2024-08-06,Delivered,Credit Card
+699,159,2025-04-24,Returned,Net Banking
+700,103,2024-07-21,Delivered,COD
+701,416,2025-03-25,Delivered,Credit Card
+702,499,2024-11-01,Delivered,Credit Card
+703,41,2024-10-02,Returned,COD
+704,219,2024-04-11,Delivered,UPI
+705,339,2023-10-15,Delivered,Debit Card
+706,59,2024-10-25,Delivered,COD
+707,449,2023-09-27,Delivered,Debit Card
+708,447,2025-09-17,Delivered,Credit Card
+709,223,2025-02-06,Delivered,UPI
+710,355,2024-10-08,Delivered,Net Banking
+711,65,2024-05-29,Delivered,Credit Card
+712,247,2023-06-03,Delivered,Credit Card
+713,238,2024-05-28,Delivered,COD
+714,494,2025-02-23,Delivered,UPI
+715,366,2025-01-12,Delivered,COD
+716,271,2025-03-01,Delivered,Net Banking
+717,243,2024-08-27,Delivered,Net Banking
+718,119,2024-07-02,Delivered,Net Banking
+719,345,2025-05-12,Delivered,Debit Card
+720,342,2025-03-21,Delivered,Credit Card
+721,483,2025-04-16,Cancelled,Debit Card
+722,134,2024-07-14,Delivered,Credit Card
+723,221,2023-08-25,Delivered,Credit Card
+724,402,2025-11-14,Delivered,UPI
+725,485,2023-07-30,Delivered,COD
+726,106,2023-11-18,Returned,Credit Card
+727,79,2025-06-08,Delivered,Debit Card
+728,88,2024-05-15,Delivered,Debit Card
+729,272,2025-03-23,Delivered,Credit Card
+730,488,2025-07-01,Delivered,Debit Card
+731,85,2025-10-14,Delivered,COD
+732,349,2024-08-16,Delivered,Debit Card
+733,76,2024-12-31,Delivered,COD
+734,155,2024-02-20,Delivered,Net Banking
+735,146,2025-11-09,Delivered,Net Banking
+736,408,2023-06-06,Delivered,Debit Card
+737,259,2024-08-31,Delivered,UPI
+738,121,2024-06-28,Delivered,Net Banking
+739,367,2025-04-10,Delivered,Credit Card
+740,233,2025-04-07,Delivered,COD
+741,270,2024-07-22,Delivered,Net Banking
+742,486,2025-02-15,Delivered,COD
+743,243,2024-03-07,Delivered,Credit Card
+744,268,2024-05-18,Delivered,Debit Card
+745,406,2024-10-14,Delivered,Net Banking
+746,420,2024-03-10,Delivered,UPI
+747,247,2023-07-17,Delivered,Net Banking
+748,427,2025-05-13,Delivered,Credit Card
+749,46,2025-03-09,Delivered,Net Banking
+750,491,2024-11-19,Delivered,COD
+751,396,2025-01-12,Delivered,Net Banking
+752,385,2024-11-06,Delivered,UPI
+753,106,2024-05-05,Delivered,Net Banking
+754,252,2024-12-18,Delivered,UPI
+755,163,2025-05-31,Delivered,UPI
+756,131,2023-12-22,Delivered,Credit Card
+757,167,2025-01-03,Delivered,UPI
+758,166,2024-08-24,Delivered,UPI
+759,259,2024-10-29,Delivered,UPI
+760,248,2024-08-19,Delivered,Credit Card
+761,229,2024-12-06,Delivered,Net Banking
+762,401,2025-10-22,Delivered,COD
+763,247,2025-08-05,Delivered,Debit Card
+764,274,2024-01-11,Delivered,Debit Card
+765,285,2023-12-16,Cancelled,COD
+766,326,2025-08-19,Delivered,COD
+767,492,2024-03-05,Delivered,UPI
+768,357,2024-11-28,Delivered,COD
+769,498,2023-11-25,Delivered,Net Banking
+770,480,2024-09-28,Delivered,UPI
+771,184,2025-07-23,Delivered,Net Banking
+772,464,2024-05-10,Delivered,Net Banking
+773,292,2025-06-08,Delivered,Credit Card
+774,133,2023-08-27,Returned,Credit Card
+775,233,2024-12-01,Delivered,COD
+776,141,2025-11-20,Delivered,Net Banking
+777,143,2024-03-19,Returned,Net Banking
+778,451,2024-06-25,Delivered,UPI
+779,414,2024-10-10,Delivered,Debit Card
+780,484,2025-04-16,Delivered,Net Banking
+781,470,2025-09-30,Delivered,Debit Card
+782,222,2025-01-01,Delivered,UPI
+783,404,2025-06-04,Delivered,UPI
+784,174,2025-01-06,Delivered,UPI
+785,305,2023-10-27,Delivered,Net Banking
+786,372,2024-08-30,Delivered,Credit Card
+787,300,2023-12-01,Delivered,Debit Card
+788,309,2024-10-03,Delivered,Debit Card
+789,97,2023-09-02,Delivered,COD
+790,233,2024-01-12,Delivered,UPI
+791,118,2024-03-17,Delivered,Credit Card
+792,106,2025-03-15,Delivered,UPI
+793,73,2024-11-27,Delivered,Credit Card
+794,113,2024-05-13,Returned,Credit Card
+795,91,2024-02-19,Delivered,UPI
+796,454,2025-01-27,Delivered,Credit Card
+797,88,2024-07-24,Returned,Net Banking
+798,192,2024-07-29,Delivered,COD
+799,408,2023-08-04,Delivered,Credit Card
+800,385,2024-10-29,Returned,Net Banking
+801,192,2024-06-14,Delivered,COD
+802,299,2025-07-23,Delivered,Credit Card
+803,112,2024-03-28,Delivered,COD
+804,152,2025-03-22,Delivered,Debit Card
+805,219,2025-01-07,Delivered,COD
+806,13,2024-05-03,Delivered,Credit Card
+807,257,2024-05-22,Delivered,UPI
+808,103,2023-07-03,Delivered,Debit Card
+809,71,2025-02-24,Cancelled,Net Banking
+810,336,2024-12-13,Delivered,Net Banking
+811,161,2025-04-15,Delivered,COD
+812,192,2024-11-30,Delivered,Credit Card
+813,428,2025-04-27,Delivered,Credit Card
+814,276,2025-04-07,Delivered,Net Banking
+815,488,2024-01-02,Cancelled,Net Banking
+816,97,2024-11-14,Delivered,Debit Card
+817,17,2024-11-26,Delivered,Net Banking
+818,198,2025-07-14,Delivered,Credit Card
+819,266,2023-08-13,Delivered,Debit Card
+820,490,2023-09-03,Returned,Credit Card
+821,341,2025-05-01,Delivered,Net Banking
+822,74,2024-02-25,Delivered,COD
+823,21,2024-09-28,Delivered,Debit Card
+824,415,2025-01-02,Delivered,COD
+825,338,2024-08-03,Delivered,Net Banking
+826,81,2025-06-21,Delivered,Net Banking
+827,462,2025-03-08,Delivered,COD
+828,54,2023-09-16,Delivered,Debit Card
+829,237,2024-10-27,Delivered,COD
+830,20,2024-02-17,Delivered,UPI
+831,43,2024-09-27,Delivered,Credit Card
+832,430,2024-01-11,Delivered,UPI
+833,391,2023-09-18,Delivered,Debit Card
+834,458,2025-03-01,Delivered,Credit Card
+835,228,2025-02-16,Delivered,UPI
+836,123,2024-07-26,Delivered,UPI
+837,343,2024-02-15,Delivered,UPI
+838,418,2024-10-31,Delivered,Net Banking
+839,55,2024-03-27,Delivered,Credit Card
+840,235,2024-08-06,Delivered,Debit Card
+841,307,2024-05-28,Delivered,UPI
+842,348,2025-02-19,Returned,Credit Card
+843,35,2025-02-02,Delivered,Net Banking
+844,389,2023-05-17,Returned,Debit Card
+845,71,2023-09-21,Delivered,Debit Card
+846,473,2023-07-02,Delivered,COD
+847,213,2025-04-15,Delivered,Debit Card
+848,470,2023-08-06,Delivered,Credit Card
+849,34,2025-01-12,Delivered,UPI
+850,160,2025-03-07,Delivered,Credit Card
+851,230,2024-05-14,Cancelled,Credit Card
+852,185,2025-08-26,Delivered,Credit Card
+853,489,2024-01-05,Delivered,UPI
+854,284,2024-11-16,Delivered,Debit Card
+855,311,2024-07-26,Delivered,Debit Card
+856,3,2025-07-18,Delivered,Net Banking
+857,192,2025-09-23,Delivered,Debit Card
+858,290,2024-08-03,Delivered,COD
+859,125,2025-03-13,Delivered,Debit Card
+860,484,2024-12-28,Delivered,Debit Card
+861,48,2023-11-16,Delivered,COD
+862,449,2025-07-12,Delivered,COD
+863,211,2024-06-03,Delivered,UPI
+864,384,2023-12-20,Delivered,COD
+865,357,2023-09-05,Delivered,COD
+866,102,2025-02-23,Delivered,Net Banking
+867,447,2025-10-16,Delivered,Net Banking
+868,194,2024-05-21,Delivered,UPI
+869,390,2024-10-13,Delivered,UPI
+870,406,2024-03-05,Delivered,Net Banking
+871,190,2024-09-05,Delivered,Debit Card
+872,234,2023-10-24,Delivered,COD
+873,487,2024-11-12,Delivered,Credit Card
+874,97,2024-08-24,Delivered,Debit Card
+875,348,2025-03-13,Delivered,Net Banking
+876,477,2024-09-03,Returned,COD
+877,45,2024-10-22,Delivered,Net Banking
+878,359,2025-08-18,Delivered,COD
+879,70,2023-11-25,Returned,COD
+880,295,2024-03-18,Delivered,Net Banking
+881,372,2025-03-17,Delivered,Net Banking
+882,294,2025-08-15,Delivered,Debit Card
+883,408,2025-02-10,Delivered,Net Banking
+884,483,2023-12-22,Delivered,Credit Card
+885,383,2024-05-13,Delivered,UPI
+886,254,2025-05-09,Delivered,COD
+887,108,2025-05-08,Delivered,Credit Card
+888,338,2025-10-20,Returned,Credit Card
+889,100,2025-02-19,Delivered,Net Banking
+890,444,2025-04-14,Delivered,Debit Card
+891,150,2025-02-19,Returned,Credit Card
+892,186,2025-01-24,Delivered,Net Banking
+893,219,2025-08-25,Delivered,Credit Card
+894,77,2024-09-08,Delivered,COD
+895,353,2024-10-15,Delivered,Credit Card
+896,228,2025-01-13,Delivered,UPI
+897,261,2025-02-04,Delivered,Net Banking
+898,197,2024-12-21,Delivered,COD
+899,466,2023-08-24,Delivered,Net Banking
+900,275,2024-11-28,Delivered,Net Banking
+901,495,2025-03-23,Delivered,UPI
+902,410,2024-11-27,Delivered,UPI
+903,436,2024-12-02,Delivered,UPI
+904,151,2025-07-07,Delivered,COD
+905,181,2025-07-13,Delivered,Net Banking
+906,73,2023-06-29,Delivered,Credit Card
+907,463,2024-08-01,Delivered,COD
+908,105,2023-12-21,Delivered,Debit Card
+909,310,2023-05-31,Delivered,Debit Card
+910,46,2024-06-20,Delivered,Debit Card
+911,114,2025-10-09,Delivered,UPI
+912,251,2025-05-04,Delivered,Debit Card
+913,485,2024-01-22,Delivered,Credit Card
+914,133,2024-12-20,Delivered,Net Banking
+915,328,2025-07-21,Cancelled,Credit Card
+916,147,2024-10-02,Delivered,COD
+917,161,2024-08-19,Delivered,UPI
+918,44,2024-12-10,Delivered,Net Banking
+919,98,2023-04-21,Returned,UPI
+920,87,2024-09-18,Delivered,Net Banking
+921,88,2024-10-20,Delivered,UPI
+922,393,2024-11-17,Delivered,Debit Card
+923,324,2023-02-14,Delivered,Credit Card
+924,153,2024-09-26,Delivered,UPI
+925,52,2024-07-11,Delivered,Credit Card
+926,250,2023-11-26,Delivered,Debit Card
+927,457,2024-07-18,Delivered,Debit Card
+928,383,2023-12-16,Delivered,Debit Card
+929,462,2025-03-18,Delivered,Credit Card
+930,400,2025-03-22,Returned,Net Banking
+931,80,2023-05-17,Delivered,UPI
+932,378,2025-10-03,Delivered,COD
+933,317,2024-09-04,Delivered,Net Banking
+934,359,2024-04-25,Delivered,COD
+935,313,2025-03-10,Delivered,Net Banking
+936,99,2024-05-04,Returned,COD
+937,209,2023-07-31,Delivered,Credit Card
+938,330,2024-10-30,Delivered,UPI
+939,164,2024-08-27,Returned,Credit Card
+940,144,2024-05-14,Returned,UPI
+941,58,2024-06-24,Delivered,UPI
+942,271,2025-04-07,Delivered,Credit Card
+943,309,2025-01-12,Delivered,Net Banking
+944,370,2024-02-25,Delivered,Credit Card
+945,465,2025-05-26,Delivered,Debit Card
+946,357,2024-12-25,Cancelled,Debit Card
+947,98,2025-09-26,Delivered,COD
+948,261,2024-09-10,Delivered,COD
+949,293,2023-02-26,Delivered,UPI
+950,283,2025-02-26,Delivered,Credit Card
+951,483,2025-01-18,Returned,Credit Card
+952,422,2025-10-10,Delivered,UPI
+953,362,2023-09-27,Returned,Debit Card
+954,375,2024-07-11,Cancelled,Credit Card
+955,196,2025-03-19,Returned,Debit Card
+956,440,2025-01-12,Delivered,Credit Card
+957,246,2023-12-27,Delivered,Credit Card
+958,483,2024-12-07,Delivered,Debit Card
+959,312,2024-08-10,Delivered,Credit Card
+960,52,2025-09-23,Delivered,Credit Card
+961,424,2023-05-15,Delivered,UPI
+962,322,2023-12-20,Delivered,UPI
+963,170,2024-01-13,Delivered,Credit Card
+964,11,2024-11-20,Delivered,UPI
+965,198,2024-03-21,Delivered,Debit Card
+966,422,2025-06-20,Returned,COD
+967,145,2025-09-02,Delivered,Net Banking
+968,92,2024-12-28,Delivered,Debit Card
+969,179,2025-05-01,Delivered,Debit Card
+970,164,2025-01-27,Delivered,COD
+971,373,2024-09-03,Delivered,UPI
+972,164,2024-08-03,Delivered,COD
+973,255,2024-08-28,Delivered,COD
+974,356,2024-12-12,Delivered,Credit Card
+975,491,2024-11-30,Delivered,UPI
+976,399,2025-05-23,Delivered,Debit Card
+977,115,2024-03-05,Delivered,Credit Card
+978,357,2025-03-11,Cancelled,Debit Card
+979,446,2025-05-15,Delivered,Credit Card
+980,426,2023-04-15,Delivered,Credit Card
+981,173,2024-08-23,Delivered,UPI
+982,385,2023-06-17,Delivered,Credit Card
+983,233,2025-08-22,Delivered,Debit Card
+984,487,2024-07-28,Delivered,Credit Card
+985,382,2024-02-05,Cancelled,Net Banking
+986,332,2025-04-22,Delivered,Debit Card
+987,172,2025-04-07,Delivered,Debit Card
+988,388,2024-12-23,Returned,Credit Card
+989,289,2024-12-04,Cancelled,COD
+990,183,2023-03-28,Delivered,COD
+991,170,2025-02-07,Delivered,Net Banking
+992,196,2024-12-17,Delivered,UPI
+993,48,2025-06-20,Cancelled,Credit Card
+994,174,2025-04-11,Delivered,Net Banking
+995,255,2024-12-05,Delivered,UPI
+996,409,2025-06-06,Delivered,UPI
+997,83,2025-08-06,Delivered,Net Banking
+998,236,2025-02-27,Delivered,COD
+999,318,2024-08-21,Returned,Credit Card
+1000,212,2023-09-28,Delivered,Debit Card
+1001,5,2025-05-04,Delivered,UPI
+1002,199,2023-09-10,Delivered,UPI
+1003,375,2023-10-02,Delivered,COD
+1004,249,2025-11-26,Delivered,COD
+1005,241,2024-01-05,Delivered,Credit Card
+1006,186,2025-08-09,Delivered,COD
+1007,139,2025-02-12,Delivered,Credit Card
+1008,448,2023-09-25,Delivered,COD
+1009,220,2025-06-29,Delivered,Debit Card
+1010,353,2024-10-07,Delivered,COD
+1011,401,2023-04-04,Returned,Credit Card
+1012,422,2025-02-01,Returned,Debit Card
+1013,163,2024-10-23,Delivered,COD
+1014,439,2025-08-16,Delivered,COD
+1015,397,2025-02-19,Delivered,COD
+1016,8,2024-12-11,Delivered,Debit Card
+1017,64,2025-05-02,Delivered,COD
+1018,268,2024-11-20,Cancelled,Debit Card
+1019,284,2024-07-25,Delivered,Net Banking
+1020,318,2024-05-12,Returned,UPI
+1021,298,2024-09-15,Delivered,Debit Card
+1022,407,2024-07-07,Returned,COD
+1023,430,2024-04-26,Returned,COD
+1024,431,2025-04-14,Delivered,Net Banking
+1025,201,2024-11-28,Delivered,COD
+1026,224,2024-11-03,Delivered,Credit Card
+1027,486,2024-11-26,Delivered,UPI
+1028,79,2025-04-02,Delivered,Net Banking
+1029,460,2024-04-03,Delivered,Credit Card
+1030,74,2023-09-27,Delivered,Net Banking
+1031,254,2023-10-12,Delivered,Credit Card
+1032,492,2023-09-11,Delivered,Credit Card
+1033,153,2024-01-11,Delivered,Credit Card
+1034,308,2025-11-19,Delivered,Credit Card
+1035,263,2023-05-22,Delivered,Credit Card
+1036,103,2024-05-04,Cancelled,Debit Card
+1037,205,2024-10-31,Returned,Debit Card
+1038,407,2023-10-28,Delivered,Debit Card
+1039,217,2025-06-18,Delivered,Debit Card
+1040,420,2025-07-01,Delivered,Credit Card
+1041,93,2023-06-11,Delivered,COD
+1042,161,2023-12-23,Delivered,Debit Card
+1043,198,2024-12-02,Delivered,Credit Card
+1044,216,2025-06-27,Delivered,COD
+1045,253,2023-07-28,Delivered,Debit Card
+1046,303,2024-12-26,Delivered,Net Banking
+1047,431,2024-05-13,Cancelled,UPI
+1048,371,2025-04-21,Delivered,Debit Card
+1049,202,2025-01-02,Delivered,COD
+1050,317,2024-07-26,Delivered,Credit Card
+1051,442,2025-11-14,Delivered,COD
+1052,189,2025-07-05,Delivered,Net Banking
+1053,416,2025-01-02,Delivered,Credit Card
+1054,63,2024-09-17,Delivered,Credit Card
+1055,393,2023-10-11,Delivered,UPI
+1056,439,2025-01-22,Delivered,UPI
+1057,111,2023-04-18,Delivered,COD
+1058,390,2025-04-29,Delivered,Debit Card
+1059,187,2024-03-13,Delivered,COD
+1060,488,2025-02-13,Delivered,UPI
+1061,9,2023-11-07,Returned,Credit Card
+1062,475,2024-04-27,Delivered,Debit Card
+1063,171,2024-09-06,Delivered,Debit Card
+1064,100,2025-07-30,Delivered,COD
+1065,349,2024-09-08,Delivered,Credit Card
+1066,318,2024-03-21,Delivered,COD
+1067,355,2025-05-06,Delivered,Credit Card
+1068,306,2024-05-17,Delivered,UPI
+1069,465,2024-05-31,Delivered,Credit Card
+1070,234,2024-06-23,Delivered,UPI
+1071,390,2024-01-22,Delivered,Net Banking
+1072,242,2025-06-11,Delivered,UPI
+1073,49,2023-12-25,Delivered,Debit Card
+1074,250,2024-04-19,Delivered,COD
+1075,266,2024-06-24,Delivered,Net Banking
+1076,439,2025-10-08,Delivered,Credit Card
+1077,499,2025-03-16,Delivered,Credit Card
+1078,461,2025-02-09,Returned,Net Banking
+1079,214,2024-08-08,Returned,Debit Card
+1080,222,2025-01-02,Delivered,Net Banking
+1081,320,2025-09-17,Delivered,Credit Card
+1082,233,2024-05-22,Delivered,Debit Card
+1083,180,2024-04-14,Delivered,Net Banking
+1084,101,2025-11-23,Delivered,UPI
+1085,348,2024-04-11,Delivered,COD
+1086,306,2025-07-22,Delivered,Net Banking
+1087,350,2024-12-12,Delivered,Debit Card
+1088,153,2024-05-31,Delivered,COD
+1089,479,2024-06-07,Delivered,Debit Card
+1090,237,2025-09-09,Delivered,Net Banking
+1091,315,2025-03-24,Returned,Credit Card
+1092,202,2025-03-24,Delivered,UPI
+1093,29,2023-08-07,Delivered,UPI
+1094,170,2024-10-11,Delivered,UPI
+1095,254,2025-03-16,Delivered,Credit Card
+1096,353,2024-10-13,Delivered,UPI
+1097,105,2023-10-19,Delivered,UPI
+1098,431,2025-05-03,Delivered,Debit Card
+1099,382,2023-12-19,Delivered,Credit Card
+1100,492,2025-02-03,Delivered,Debit Card
+1101,218,2024-08-27,Delivered,Debit Card
+1102,18,2024-12-13,Delivered,Net Banking
+1103,371,2024-10-01,Delivered,UPI
+1104,174,2025-03-04,Delivered,Credit Card
+1105,430,2023-09-02,Delivered,COD
+1106,207,2025-01-05,Delivered,UPI
+1107,396,2025-03-27,Delivered,Credit Card
+1108,387,2025-06-27,Cancelled,UPI
+1109,38,2025-05-22,Delivered,Debit Card
+1110,69,2024-09-19,Cancelled,Net Banking
+1111,83,2024-02-24,Delivered,Net Banking
+1112,209,2024-07-14,Delivered,UPI
+1113,293,2025-05-11,Delivered,Net Banking
+1114,219,2023-08-31,Delivered,UPI
+1115,277,2023-08-01,Delivered,Credit Card
+1116,295,2023-09-13,Delivered,Net Banking
+1117,470,2024-10-04,Cancelled,UPI
+1118,392,2024-06-25,Delivered,Credit Card
+1119,413,2024-10-19,Returned,Net Banking
+1120,476,2025-03-15,Delivered,Net Banking
+1121,19,2023-07-11,Delivered,Credit Card
+1122,14,2025-08-03,Delivered,Credit Card
+1123,199,2024-10-11,Delivered,Credit Card
+1124,460,2024-09-11,Delivered,Debit Card
+1125,48,2024-04-01,Delivered,Credit Card
+1126,369,2023-04-25,Delivered,UPI
+1127,161,2024-05-12,Delivered,Credit Card
+1128,417,2025-02-24,Delivered,Credit Card
+1129,445,2024-11-25,Delivered,Net Banking
+1130,467,2023-09-20,Delivered,Net Banking
+1131,418,2024-07-24,Delivered,UPI
+1132,154,2024-12-18,Delivered,UPI
+1133,196,2023-05-09,Delivered,UPI
+1134,27,2024-09-06,Delivered,UPI
+1135,415,2025-07-10,Delivered,Credit Card
+1136,199,2023-11-06,Cancelled,Debit Card
+1137,122,2025-11-11,Delivered,UPI
+1138,395,2025-12-10,Delivered,Debit Card
+1139,396,2025-01-25,Delivered,UPI
+1140,92,2024-04-26,Delivered,UPI
+1141,433,2024-10-10,Delivered,COD
+1142,489,2024-11-25,Delivered,Credit Card
+1143,66,2025-06-07,Delivered,Credit Card
+1144,20,2023-11-13,Delivered,Net Banking
+1145,433,2023-04-29,Delivered,Debit Card
+1146,262,2024-09-15,Delivered,Credit Card
+1147,449,2025-01-19,Delivered,UPI
+1148,460,2025-10-01,Delivered,COD
+1149,312,2023-05-30,Delivered,Debit Card
+1150,196,2025-03-08,Delivered,UPI
+1151,269,2024-10-04,Delivered,Debit Card
+1152,410,2024-06-20,Delivered,Debit Card
+1153,376,2024-04-04,Cancelled,COD
+1154,310,2025-01-26,Delivered,COD
+1155,466,2024-04-08,Delivered,Net Banking
+1156,210,2023-11-18,Delivered,Credit Card
+1157,215,2024-01-18,Delivered,Net Banking
+1158,354,2024-09-06,Delivered,UPI
+1159,206,2024-07-10,Delivered,Credit Card
+1160,56,2024-12-30,Cancelled,UPI
+1161,323,2025-07-13,Delivered,COD
+1162,393,2024-02-05,Delivered,Net Banking
+1163,346,2024-12-21,Delivered,COD
+1164,153,2023-10-19,Delivered,UPI
+1165,489,2025-03-25,Delivered,Credit Card
+1166,85,2024-07-05,Delivered,Debit Card
+1167,133,2025-08-12,Cancelled,UPI
+1168,21,2024-12-24,Cancelled,Net Banking
+1169,483,2024-02-26,Returned,COD
+1170,471,2025-03-02,Delivered,COD
+1171,382,2025-04-22,Delivered,UPI
+1172,377,2024-09-21,Delivered,UPI
+1173,339,2025-05-18,Delivered,UPI
+1174,249,2024-10-03,Delivered,COD
+1175,384,2025-05-29,Delivered,COD
+1176,215,2024-01-30,Delivered,Net Banking
+1177,272,2024-07-06,Delivered,Credit Card
+1178,247,2024-07-13,Delivered,Credit Card
+1179,167,2025-09-21,Delivered,COD
+1180,357,2023-11-12,Delivered,Credit Card
+1181,260,2024-05-19,Delivered,COD
+1182,211,2025-02-07,Delivered,COD
+1183,113,2024-10-13,Delivered,UPI
+1184,275,2025-06-12,Delivered,UPI
+1185,171,2025-04-08,Returned,Net Banking
+1186,81,2024-11-15,Delivered,COD
+1187,482,2025-03-12,Delivered,UPI
+1188,155,2024-01-06,Delivered,Credit Card
+1189,336,2025-04-10,Delivered,Debit Card
+1190,406,2025-03-13,Delivered,Net Banking
+1191,497,2023-10-23,Delivered,COD
+1192,288,2025-09-17,Delivered,Debit Card
+1193,56,2024-11-22,Delivered,Net Banking
+1194,107,2024-12-01,Delivered,COD
+1195,291,2025-03-06,Delivered,UPI
+1196,165,2023-12-30,Delivered,Net Banking
+1197,288,2024-03-03,Delivered,Net Banking
+1198,248,2024-09-27,Delivered,UPI
+1199,446,2024-02-20,Cancelled,UPI
+1200,61,2023-04-01,Delivered,Debit Card
+1201,73,2025-01-24,Delivered,Credit Card
+1202,369,2025-07-29,Cancelled,Credit Card
+1203,92,2024-06-11,Delivered,UPI
+1204,81,2024-10-02,Delivered,Net Banking
+1205,189,2025-03-09,Delivered,COD
+1206,289,2024-01-31,Delivered,Net Banking
+1207,316,2025-03-14,Delivered,COD
+1208,412,2023-10-10,Delivered,Credit Card
+1209,497,2023-09-18,Delivered,Net Banking
+1210,362,2025-04-04,Delivered,Debit Card
+1211,224,2023-12-20,Delivered,COD
+1212,13,2024-07-06,Delivered,COD
+1213,478,2024-07-26,Delivered,UPI
+1214,169,2024-12-17,Delivered,Debit Card
+1215,357,2023-07-16,Delivered,Debit Card
+1216,252,2025-01-13,Delivered,Net Banking
+1217,43,2025-05-25,Delivered,UPI
+1218,279,2023-10-20,Delivered,Credit Card
+1219,301,2024-01-20,Delivered,Debit Card
+1220,390,2024-02-15,Delivered,Debit Card
+1221,353,2024-12-30,Delivered,Credit Card
+1222,291,2024-06-30,Delivered,UPI
+1223,96,2025-03-10,Delivered,UPI
+1224,371,2023-09-24,Returned,Debit Card
+1225,143,2024-05-16,Delivered,Debit Card
+1226,91,2025-06-19,Cancelled,Debit Card
+1227,268,2025-04-03,Delivered,Credit Card
+1228,108,2024-11-17,Cancelled,COD
+1229,496,2024-07-01,Delivered,Debit Card
+1230,134,2024-03-13,Delivered,UPI
+1231,289,2024-06-15,Delivered,Net Banking
+1232,463,2024-06-26,Delivered,Debit Card
+1233,415,2023-05-18,Delivered,Net Banking
+1234,308,2025-03-06,Delivered,COD
+1235,475,2025-08-07,Delivered,COD
+1236,263,2023-06-08,Delivered,Debit Card
+1237,497,2025-09-07,Delivered,Credit Card
+1238,42,2024-05-28,Delivered,Credit Card
+1239,433,2025-02-13,Delivered,UPI
+1240,202,2024-11-24,Delivered,COD
+1241,391,2023-12-02,Returned,COD
+1242,37,2024-08-10,Delivered,Net Banking
+1243,186,2024-03-29,Delivered,UPI
+1244,23,2024-10-23,Delivered,COD
+1245,160,2023-12-30,Delivered,COD
+1246,265,2024-08-13,Delivered,COD
+1247,295,2024-06-12,Delivered,COD
+1248,156,2025-04-02,Delivered,UPI
+1249,274,2024-06-25,Cancelled,UPI
+1250,486,2023-03-20,Returned,Net Banking
+1251,145,2023-07-26,Delivered,COD
+1252,346,2024-09-02,Delivered,UPI
+1253,326,2024-06-17,Delivered,UPI
+1254,274,2024-01-27,Delivered,Credit Card
+1255,478,2025-07-06,Delivered,Net Banking
+1256,371,2024-12-31,Delivered,UPI
+1257,384,2025-07-30,Delivered,COD
+1258,453,2025-01-25,Delivered,COD
+1259,111,2024-12-09,Delivered,COD
+1260,24,2024-10-24,Delivered,Credit Card
+1261,67,2024-08-25,Delivered,COD
+1262,114,2025-02-26,Delivered,Debit Card
+1263,477,2024-08-06,Delivered,Debit Card
+1264,381,2024-09-27,Delivered,Net Banking
+1265,496,2025-05-26,Delivered,COD
+1266,162,2024-05-20,Delivered,COD
+1267,221,2024-07-08,Delivered,UPI
+1268,436,2024-12-29,Delivered,COD
+1269,393,2025-06-04,Delivered,COD
+1270,323,2025-04-02,Delivered,Debit Card
+1271,147,2025-03-25,Delivered,COD
+1272,273,2024-05-17,Delivered,COD
+1273,326,2024-08-22,Delivered,Credit Card
+1274,210,2024-12-07,Returned,Debit Card
+1275,453,2025-03-17,Delivered,COD
+1276,448,2024-07-22,Delivered,COD
+1277,236,2024-12-11,Delivered,Net Banking
+1278,57,2024-10-23,Delivered,Debit Card
+1279,444,2025-02-08,Delivered,COD
+1280,372,2024-10-10,Delivered,COD
+1281,135,2023-12-24,Delivered,Net Banking
+1282,408,2025-07-15,Delivered,Debit Card
+1283,252,2025-07-02,Delivered,Debit Card
+1284,359,2025-04-12,Delivered,Debit Card
+1285,190,2024-03-15,Delivered,Debit Card
+1286,244,2025-01-14,Delivered,Debit Card
+1287,440,2024-12-30,Delivered,Credit Card
+1288,133,2024-12-16,Delivered,Net Banking
+1289,301,2025-01-20,Delivered,Debit Card
+1290,195,2024-10-12,Delivered,UPI
+1291,312,2023-12-29,Delivered,UPI
+1292,420,2025-03-19,Delivered,Net Banking
+1293,139,2024-10-28,Delivered,Net Banking
+1294,379,2024-04-18,Delivered,Credit Card
+1295,312,2023-07-07,Delivered,Debit Card
+1296,32,2024-11-07,Delivered,Credit Card
+1297,38,2025-04-14,Delivered,UPI
+1298,111,2024-11-19,Delivered,Debit Card
+1299,399,2025-06-21,Delivered,Net Banking
+1300,260,2024-01-29,Delivered,Debit Card
+1301,250,2025-08-19,Delivered,Net Banking
+1302,345,2025-03-27,Delivered,COD
+1303,391,2025-04-07,Delivered,Debit Card
+1304,345,2024-03-05,Delivered,Credit Card
+1305,340,2024-01-07,Delivered,Net Banking
+1306,171,2023-12-23,Delivered,Debit Card
+1307,391,2024-08-27,Returned,UPI
+1308,13,2025-05-11,Delivered,COD
+1309,258,2024-03-09,Delivered,Debit Card
+1310,483,2025-03-06,Delivered,COD
+1311,276,2024-07-01,Delivered,Debit Card
+1312,376,2025-10-05,Delivered,Credit Card
+1313,339,2024-11-22,Delivered,Net Banking
+1314,396,2024-07-16,Delivered,Credit Card
+1315,102,2024-07-17,Delivered,Debit Card
+1316,211,2023-11-19,Delivered,COD
+1317,17,2024-09-10,Cancelled,Debit Card
+1318,48,2023-09-15,Cancelled,UPI
+1319,98,2025-01-24,Delivered,COD
+1320,355,2024-11-10,Delivered,COD
+1321,133,2024-09-03,Delivered,Net Banking
+1322,474,2025-05-04,Delivered,Net Banking
+1323,52,2024-06-03,Delivered,Net Banking
+1324,104,2025-01-28,Delivered,COD
+1325,381,2024-09-15,Delivered,Credit Card
+1326,395,2024-02-21,Delivered,UPI
+1327,62,2025-03-25,Returned,Net Banking
+1328,47,2024-03-05,Delivered,Debit Card
+1329,195,2023-04-29,Delivered,COD
+1330,200,2025-01-20,Delivered,UPI
+1331,391,2025-02-18,Delivered,Net Banking
+1332,266,2024-01-26,Cancelled,Credit Card
+1333,255,2024-01-12,Delivered,COD
+1334,15,2023-05-31,Returned,UPI
+1335,269,2024-12-24,Delivered,UPI
+1336,34,2024-08-29,Delivered,COD
+1337,415,2025-05-29,Delivered,Debit Card
+1338,277,2024-06-15,Delivered,Net Banking
+1339,67,2024-03-14,Delivered,Credit Card
+1340,455,2024-08-17,Delivered,Credit Card
+1341,237,2025-02-27,Delivered,Net Banking
+1342,339,2024-08-30,Delivered,UPI
+1343,325,2023-04-22,Delivered,Credit Card
+1344,440,2024-10-10,Delivered,Net Banking
+1345,226,2024-04-24,Delivered,Debit Card
+1346,447,2024-06-30,Delivered,Net Banking
+1347,33,2024-11-05,Delivered,COD
+1348,282,2023-11-08,Delivered,Credit Card
+1349,454,2025-05-03,Cancelled,Credit Card
+1350,376,2023-05-01,Delivered,Net Banking
+1351,485,2024-03-25,Cancelled,Credit Card
+1352,317,2025-01-15,Delivered,Credit Card
+1353,486,2025-09-06,Delivered,COD
+1354,285,2024-04-14,Delivered,Credit Card
+1355,498,2024-01-10,Delivered,Credit Card
+1356,128,2024-12-20,Delivered,UPI
+1357,379,2023-11-25,Delivered,Credit Card
+1358,327,2024-06-19,Delivered,Debit Card
+1359,278,2025-05-04,Delivered,COD
+1360,21,2025-08-24,Delivered,Debit Card
+1361,364,2024-01-19,Delivered,COD
+1362,341,2025-06-08,Delivered,COD
+1363,432,2025-04-01,Delivered,Debit Card
+1364,249,2025-03-01,Delivered,COD
+1365,424,2025-11-30,Delivered,Net Banking
+1366,303,2024-12-26,Delivered,UPI
+1367,382,2024-08-10,Delivered,COD
+1368,13,2024-12-05,Delivered,Debit Card
+1369,234,2023-06-07,Delivered,Debit Card
+1370,128,2025-09-28,Delivered,UPI
+1371,108,2025-04-16,Delivered,Net Banking
+1372,46,2024-10-23,Delivered,Net Banking
+1373,47,2025-07-16,Delivered,Debit Card
+1374,249,2025-05-28,Delivered,COD
+1375,287,2025-02-21,Delivered,Net Banking
+1376,449,2024-12-24,Delivered,Debit Card
+1377,198,2023-12-08,Delivered,Debit Card
+1378,342,2024-11-23,Cancelled,UPI
+1379,226,2025-06-12,Delivered,Credit Card
+1380,248,2025-05-29,Delivered,COD
+1381,462,2024-12-10,Cancelled,Debit Card
+1382,183,2024-06-13,Delivered,Credit Card
+1383,66,2024-11-17,Delivered,Net Banking
+1384,360,2024-07-06,Delivered,Net Banking
+1385,34,2024-12-20,Cancelled,Credit Card
+1386,362,2024-10-07,Delivered,Debit Card
+1387,460,2024-04-14,Delivered,Net Banking
+1388,232,2024-03-09,Delivered,Debit Card
+1389,349,2025-03-30,Delivered,UPI
+1390,397,2025-10-10,Delivered,Credit Card
+1391,351,2025-02-22,Delivered,COD
+1392,50,2024-07-02,Delivered,Credit Card
+1393,117,2024-08-15,Delivered,UPI
+1394,451,2024-04-19,Delivered,Net Banking
+1395,271,2023-02-08,Delivered,Debit Card
+1396,89,2023-09-04,Delivered,Net Banking
+1397,350,2023-10-19,Returned,Net Banking
+1398,396,2025-05-21,Delivered,Credit Card
+1399,350,2023-11-04,Delivered,Net Banking
+1400,314,2024-12-27,Returned,COD
+1401,73,2024-04-09,Delivered,COD
+1402,472,2023-08-15,Delivered,Net Banking
+1403,467,2025-01-27,Delivered,Net Banking
+1404,230,2024-06-13,Delivered,Debit Card
+1405,248,2024-06-14,Delivered,Debit Card
+1406,29,2025-02-12,Delivered,UPI
+1407,293,2025-03-20,Delivered,Debit Card
+1408,276,2024-07-08,Delivered,COD
+1409,487,2023-10-21,Delivered,Credit Card
+1410,106,2025-07-24,Returned,UPI
+1411,206,2025-07-20,Delivered,Credit Card
+1412,335,2025-08-13,Delivered,Debit Card
+1413,143,2024-08-24,Delivered,Credit Card
+1414,115,2025-01-31,Delivered,UPI
+1415,168,2024-02-05,Delivered,Debit Card
+1416,453,2025-05-05,Delivered,UPI
+1417,58,2024-10-09,Delivered,COD
+1418,190,2024-09-09,Delivered,Credit Card
+1419,393,2025-08-05,Cancelled,Credit Card
+1420,103,2024-07-07,Returned,UPI
+1421,95,2023-08-25,Delivered,Debit Card
+1422,271,2024-04-08,Delivered,Credit Card
+1423,210,2025-02-13,Delivered,UPI
+1424,4,2025-02-12,Delivered,Net Banking
+1425,322,2024-03-19,Delivered,Net Banking
+1426,145,2025-01-21,Delivered,COD
+1427,129,2024-10-17,Delivered,COD
+1428,185,2024-11-16,Delivered,Debit Card
+1429,222,2025-03-15,Delivered,Credit Card
+1430,321,2023-11-27,Delivered,COD
+1431,488,2024-09-21,Delivered,Debit Card
+1432,106,2025-03-06,Delivered,Credit Card
+1433,110,2025-01-20,Delivered,COD
+1434,490,2025-07-07,Delivered,Net Banking
+1435,81,2024-11-25,Delivered,Net Banking
+1436,291,2024-03-01,Delivered,Debit Card
+1437,162,2025-08-03,Delivered,Net Banking
+1438,472,2023-05-18,Delivered,UPI
+1439,78,2024-02-26,Cancelled,Debit Card
+1440,411,2024-05-30,Delivered,Credit Card
+1441,322,2024-12-02,Delivered,Debit Card
+1442,21,2023-10-19,Delivered,COD
+1443,353,2023-05-13,Cancelled,Debit Card
+1444,454,2025-10-28,Delivered,Credit Card
+1445,479,2023-11-08,Delivered,Credit Card
+1446,130,2024-07-19,Delivered,Debit Card
+1447,173,2025-11-24,Delivered,COD
+1448,155,2024-12-09,Delivered,COD
+1449,188,2024-07-26,Delivered,COD
+1450,283,2025-03-04,Delivered,Debit Card
+1451,342,2023-09-30,Returned,Net Banking
+1452,293,2023-08-27,Delivered,UPI
+1453,495,2024-12-15,Delivered,COD
+1454,471,2023-12-15,Delivered,UPI
+1455,352,2024-09-07,Delivered,UPI
+1456,363,2025-05-01,Cancelled,Net Banking
+1457,4,2024-02-07,Delivered,Credit Card
+1458,390,2023-11-26,Delivered,Credit Card
+1459,423,2024-09-02,Delivered,Credit Card
+1460,253,2023-08-21,Delivered,UPI
+1461,346,2025-10-05,Delivered,Net Banking
+1462,430,2024-04-24,Delivered,Debit Card
+1463,382,2024-11-22,Delivered,Net Banking
+1464,237,2024-09-29,Delivered,COD
+1465,378,2024-01-01,Delivered,COD
+1466,223,2024-07-19,Delivered,Credit Card
+1467,242,2023-04-30,Delivered,Debit Card
+1468,490,2024-05-30,Delivered,Debit Card
+1469,437,2024-09-09,Delivered,UPI
+1470,312,2025-02-25,Delivered,Credit Card
+1471,174,2025-01-13,Delivered,Net Banking
+1472,372,2024-05-11,Delivered,Credit Card
+1473,214,2024-09-17,Delivered,Debit Card
+1474,175,2024-05-10,Delivered,Debit Card
+1475,122,2024-12-21,Delivered,Credit Card
+1476,49,2024-10-30,Delivered,Credit Card
+1477,399,2024-09-19,Delivered,Debit Card
+1478,183,2023-02-21,Delivered,COD
+1479,103,2025-06-19,Delivered,Credit Card
+1480,217,2025-04-14,Delivered,UPI
+1481,334,2023-05-29,Delivered,COD
+1482,285,2025-01-10,Delivered,COD
+1483,146,2024-12-29,Delivered,Credit Card
+1484,283,2025-06-06,Delivered,Credit Card
+1485,223,2023-05-30,Delivered,COD
+1486,290,2024-05-12,Delivered,UPI
+1487,366,2024-01-14,Delivered,Debit Card
+1488,422,2024-01-04,Delivered,Credit Card
+1489,331,2024-04-02,Delivered,UPI
+1490,113,2023-07-12,Delivered,Credit Card
+1491,103,2023-09-01,Delivered,Credit Card
+1492,298,2025-02-22,Returned,Net Banking
+1493,262,2024-11-28,Delivered,Credit Card
+1494,147,2023-11-19,Delivered,COD
+1495,55,2024-08-05,Delivered,Credit Card
+1496,110,2025-02-15,Returned,Debit Card
+1497,432,2025-06-25,Delivered,Net Banking
+1498,171,2024-02-02,Delivered,COD
+1499,306,2024-10-10,Delivered,Credit Card
+1500,26,2023-06-15,Delivered,Debit Card
+1501,498,2025-01-21,Delivered,Debit Card
+1502,461,2025-04-02,Delivered,Credit Card
+1503,382,2025-07-21,Cancelled,UPI
+1504,297,2025-06-08,Delivered,Debit Card
+1505,79,2025-03-11,Delivered,COD
+1506,7,2024-01-27,Delivered,UPI
+1507,13,2025-04-21,Delivered,Credit Card
+1508,289,2023-07-16,Delivered,COD
+1509,307,2024-07-18,Delivered,COD
+1510,178,2025-03-13,Delivered,Net Banking
+1511,417,2024-05-20,Delivered,COD
+1512,184,2024-06-23,Delivered,COD
+1513,324,2024-06-30,Delivered,Credit Card
+1514,451,2025-05-05,Delivered,Net Banking
+1515,85,2025-02-01,Delivered,Debit Card
+1516,268,2025-08-09,Delivered,COD
+1517,55,2025-03-22,Delivered,COD
+1518,407,2023-01-23,Cancelled,UPI
+1519,124,2025-08-25,Delivered,Debit Card
+1520,424,2024-03-01,Delivered,UPI
+1521,339,2025-08-18,Delivered,Net Banking
+1522,318,2024-05-30,Delivered,COD
+1523,16,2024-06-12,Delivered,COD
+1524,250,2023-07-03,Delivered,UPI
+1525,426,2024-04-08,Delivered,UPI
+1526,241,2024-12-27,Delivered,Debit Card
+1527,66,2023-04-05,Delivered,UPI
+1528,335,2025-07-27,Delivered,Debit Card
+1529,21,2025-05-26,Delivered,Debit Card
+1530,247,2023-09-17,Delivered,UPI
+1531,155,2024-07-28,Delivered,Debit Card
+1532,68,2024-01-15,Delivered,Net Banking
+1533,460,2025-02-26,Delivered,Net Banking
+1534,360,2024-09-09,Delivered,UPI
+1535,471,2024-08-15,Delivered,Credit Card
+1536,101,2024-02-09,Delivered,Net Banking
+1537,337,2025-09-24,Delivered,COD
+1538,69,2023-12-26,Delivered,COD
+1539,137,2024-11-08,Delivered,UPI
+1540,441,2025-07-23,Delivered,Credit Card
+1541,89,2024-03-08,Delivered,Net Banking
+1542,38,2024-11-01,Delivered,Credit Card
+1543,222,2023-08-17,Delivered,Debit Card
+1544,429,2024-09-19,Delivered,Credit Card
+1545,326,2025-06-09,Delivered,Net Banking
+1546,44,2023-08-29,Delivered,Credit Card
+1547,470,2025-01-24,Delivered,Net Banking
+1548,430,2025-03-25,Delivered,Net Banking
+1549,324,2024-11-03,Delivered,Debit Card
+1550,179,2024-12-04,Cancelled,Credit Card
+1551,403,2025-01-02,Delivered,Debit Card
+1552,165,2024-11-20,Delivered,COD
+1553,307,2024-04-09,Delivered,Debit Card
+1554,248,2024-04-08,Delivered,Net Banking
+1555,130,2024-12-29,Delivered,COD
+1556,102,2024-12-05,Delivered,COD
+1557,93,2023-11-20,Delivered,UPI
+1558,138,2024-11-23,Delivered,UPI
+1559,146,2025-03-04,Delivered,Credit Card
+1560,122,2024-07-10,Delivered,Net Banking
+1561,9,2024-11-19,Cancelled,UPI
+1562,209,2024-04-09,Delivered,COD
+1563,158,2024-04-02,Delivered,Net Banking
+1564,455,2023-12-29,Delivered,Net Banking
+1565,269,2025-04-13,Delivered,UPI
+1566,106,2024-09-14,Delivered,UPI
+1567,181,2024-03-12,Delivered,Credit Card
+1568,289,2025-02-14,Delivered,UPI
+1569,185,2024-12-08,Delivered,COD
+1570,179,2024-09-10,Delivered,Debit Card
+1571,196,2023-06-28,Delivered,Credit Card
+1572,284,2025-01-03,Delivered,UPI
+1573,446,2024-09-09,Returned,Credit Card
+1574,318,2025-06-09,Delivered,Credit Card
+1575,414,2024-03-30,Cancelled,Net Banking
+1576,237,2023-11-26,Delivered,Debit Card
+1577,393,2025-05-28,Delivered,UPI
+1578,434,2024-10-02,Delivered,Net Banking
+1579,328,2024-04-11,Delivered,UPI
+1580,271,2024-05-16,Delivered,COD
+1581,368,2024-12-28,Delivered,COD
+1582,106,2025-04-23,Delivered,Debit Card
+1583,9,2024-02-22,Delivered,Credit Card
+1584,203,2025-04-16,Delivered,UPI
+1585,238,2025-06-18,Delivered,UPI
+1586,180,2024-07-26,Delivered,COD
+1587,445,2025-08-06,Delivered,UPI
+1588,52,2024-01-17,Delivered,Net Banking
+1589,13,2024-11-06,Delivered,Debit Card
+1590,265,2023-07-31,Delivered,COD
+1591,194,2025-08-05,Delivered,COD
+1592,142,2025-01-04,Delivered,UPI
+1593,100,2024-08-28,Delivered,Credit Card
+1594,34,2023-01-23,Delivered,UPI
+1595,85,2024-10-02,Returned,COD
+1596,316,2025-07-03,Delivered,Debit Card
+1597,460,2024-12-21,Delivered,UPI
+1598,499,2024-05-27,Delivered,COD
+1599,55,2025-06-03,Delivered,Net Banking
+1600,79,2024-09-29,Returned,Net Banking
+1601,84,2023-09-24,Delivered,UPI
+1602,16,2024-08-25,Delivered,Debit Card
+1603,203,2025-07-30,Delivered,COD
+1604,85,2025-01-01,Delivered,Net Banking
+1605,408,2023-09-26,Delivered,Credit Card
+1606,91,2023-02-12,Delivered,Debit Card
+1607,21,2023-09-26,Delivered,Credit Card
+1608,316,2024-12-21,Delivered,UPI
+1609,353,2024-12-29,Delivered,COD
+1610,418,2025-01-26,Delivered,Credit Card
+1611,361,2024-09-27,Delivered,UPI
+1612,230,2023-11-03,Delivered,UPI
+1613,247,2024-04-02,Delivered,UPI
+1614,177,2024-08-07,Delivered,UPI
+1615,166,2025-02-26,Delivered,Debit Card
+1616,85,2025-06-07,Cancelled,COD
+1617,72,2023-07-11,Delivered,Net Banking
+1618,20,2024-02-02,Delivered,Debit Card
+1619,497,2025-04-02,Delivered,Credit Card
+1620,271,2024-08-07,Cancelled,Net Banking
+1621,234,2025-11-27,Delivered,Debit Card
+1622,214,2025-05-09,Returned,Net Banking
+1623,457,2024-04-26,Delivered,UPI
+1624,231,2025-08-27,Delivered,UPI
+1625,280,2025-04-29,Returned,UPI
+1626,110,2025-10-31,Delivered,Net Banking
+1627,169,2024-12-01,Delivered,Credit Card
+1628,485,2025-01-22,Delivered,UPI
+1629,344,2025-01-28,Delivered,Credit Card
+1630,448,2025-10-16,Delivered,UPI
+1631,403,2025-01-03,Delivered,UPI
+1632,372,2025-08-18,Delivered,Net Banking
+1633,388,2025-11-06,Delivered,UPI
+1634,398,2025-04-25,Delivered,Credit Card
+1635,358,2024-12-17,Delivered,Credit Card
+1636,19,2025-07-03,Delivered,UPI
+1637,497,2025-05-15,Delivered,COD
+1638,393,2024-11-05,Delivered,Credit Card
+1639,17,2025-01-09,Delivered,Debit Card
+1640,55,2023-07-04,Delivered,Debit Card
+1641,211,2024-06-29,Cancelled,Net Banking
+1642,12,2024-05-27,Delivered,Debit Card
+1643,269,2023-12-13,Delivered,UPI
+1644,455,2024-06-24,Delivered,Net Banking
+1645,160,2023-07-27,Delivered,Net Banking
+1646,52,2025-01-28,Returned,UPI
+1647,138,2025-01-28,Delivered,Credit Card
+1648,22,2025-06-26,Delivered,Debit Card
+1649,288,2024-12-20,Returned,Credit Card
+1650,359,2025-07-20,Delivered,UPI
+1651,421,2025-03-14,Delivered,Net Banking
+1652,140,2024-11-07,Delivered,Credit Card
+1653,342,2024-03-05,Delivered,Net Banking
+1654,297,2024-08-23,Delivered,Credit Card
+1655,1,2024-12-28,Cancelled,COD
+1656,62,2025-01-18,Cancelled,Credit Card
+1657,375,2025-03-18,Delivered,COD
+1658,334,2024-12-10,Delivered,UPI
+1659,64,2025-01-23,Delivered,Debit Card
+1660,440,2025-06-08,Returned,Credit Card
+1661,222,2024-04-14,Delivered,UPI
+1662,452,2024-08-24,Delivered,Debit Card
+1663,272,2025-04-11,Delivered,COD
+1664,443,2024-02-24,Delivered,COD
+1665,283,2025-10-25,Delivered,Credit Card
+1666,51,2024-04-17,Delivered,Net Banking
+1667,130,2025-07-02,Delivered,Net Banking
+1668,284,2025-02-15,Delivered,Debit Card
+1669,370,2025-03-11,Delivered,Debit Card
+1670,320,2024-07-30,Delivered,Credit Card
+1671,124,2024-10-04,Delivered,COD
+1672,290,2023-09-16,Returned,Credit Card
+1673,379,2024-08-23,Delivered,Net Banking
+1674,190,2024-03-09,Delivered,Debit Card
+1675,330,2025-11-07,Delivered,COD
+1676,383,2024-12-24,Delivered,Credit Card
+1677,388,2024-01-18,Delivered,UPI
+1678,219,2024-05-07,Delivered,Debit Card
+1679,342,2024-12-08,Delivered,Credit Card
+1680,32,2024-05-23,Delivered,Credit Card
+1681,451,2025-01-10,Delivered,COD
+1682,88,2024-07-29,Delivered,Net Banking
+1683,81,2023-09-30,Delivered,Credit Card
+1684,137,2025-04-28,Delivered,Net Banking
+1685,228,2025-05-14,Delivered,Debit Card
+1686,239,2025-04-03,Returned,Net Banking
+1687,359,2024-03-24,Delivered,UPI
+1688,410,2025-06-13,Delivered,UPI
+1689,48,2024-11-08,Delivered,Debit Card
+1690,72,2025-05-15,Delivered,Credit Card
+1691,280,2025-03-05,Delivered,Debit Card
+1692,17,2024-06-27,Delivered,UPI
+1693,388,2024-06-15,Delivered,Net Banking
+1694,51,2025-08-29,Delivered,Net Banking
+1695,59,2024-07-29,Delivered,Net Banking
+1696,308,2025-04-28,Delivered,Net Banking
+1697,391,2024-01-28,Delivered,Net Banking
+1698,307,2023-06-01,Delivered,Debit Card
+1699,194,2023-12-29,Delivered,Credit Card
+1700,165,2024-03-22,Delivered,UPI
+1701,374,2024-12-11,Delivered,UPI
+1702,286,2025-05-28,Delivered,Debit Card
+1703,476,2025-04-21,Delivered,COD
+1704,379,2025-07-17,Delivered,Debit Card
+1705,205,2025-01-22,Delivered,Credit Card
+1706,293,2024-01-22,Delivered,Debit Card
+1707,388,2025-06-16,Delivered,Debit Card
+1708,237,2024-04-14,Delivered,COD
+1709,385,2024-07-11,Delivered,Debit Card
+1710,96,2024-11-20,Delivered,UPI
+1711,295,2024-05-19,Cancelled,Net Banking
+1712,358,2024-04-04,Delivered,Credit Card
+1713,20,2025-02-15,Delivered,UPI
+1714,363,2024-06-09,Delivered,Credit Card
+1715,500,2023-07-25,Delivered,Net Banking
+1716,208,2024-03-11,Delivered,Credit Card
+1717,43,2023-09-17,Returned,Net Banking
+1718,399,2025-05-30,Delivered,Net Banking
+1719,58,2025-04-07,Delivered,Net Banking
+1720,255,2025-01-16,Delivered,Debit Card
+1721,406,2024-07-21,Delivered,UPI
+1722,270,2023-11-25,Delivered,Net Banking
+1723,272,2024-03-25,Delivered,UPI
+1724,259,2024-12-29,Delivered,Credit Card
+1725,131,2023-09-17,Returned,Debit Card
+1726,188,2023-07-13,Delivered,Debit Card
+1727,405,2024-09-09,Delivered,Net Banking
+1728,448,2025-08-17,Cancelled,Net Banking
+1729,234,2024-01-03,Delivered,Credit Card
+1730,183,2025-07-01,Delivered,COD
+1731,218,2025-05-22,Delivered,Credit Card
+1732,459,2024-04-05,Delivered,Net Banking
+1733,315,2025-01-21,Delivered,UPI
+1734,311,2025-02-18,Delivered,Net Banking
+1735,294,2024-05-18,Delivered,UPI
+1736,362,2025-03-24,Delivered,COD
+1737,310,2024-11-26,Delivered,COD
+1738,188,2024-11-15,Delivered,Net Banking
+1739,257,2023-05-17,Returned,Net Banking
+1740,400,2024-02-07,Delivered,Credit Card
+1741,492,2024-12-03,Returned,COD
+1742,498,2025-03-29,Returned,COD
+1743,371,2025-08-16,Delivered,Net Banking
+1744,487,2024-04-07,Delivered,Net Banking
+1745,61,2025-06-22,Cancelled,Net Banking
+1746,184,2024-12-19,Delivered,Credit Card
+1747,294,2024-11-25,Delivered,COD
+1748,345,2024-09-02,Delivered,Credit Card
+1749,398,2025-05-19,Delivered,Net Banking
+1750,321,2024-10-29,Returned,UPI
+1751,454,2024-08-07,Delivered,UPI
+1752,42,2024-02-25,Delivered,Net Banking
+1753,193,2025-08-19,Delivered,Net Banking
+1754,28,2025-03-14,Delivered,Credit Card
+1755,113,2025-03-10,Delivered,Debit Card
+1756,201,2024-12-24,Delivered,COD
+1757,409,2023-05-11,Delivered,COD
+1758,478,2024-12-04,Delivered,Debit Card
+1759,102,2025-09-23,Delivered,Credit Card
+1760,88,2025-03-02,Delivered,COD
+1761,435,2023-04-07,Cancelled,Credit Card
+1762,122,2025-03-21,Delivered,Debit Card
+1763,112,2023-11-22,Delivered,Net Banking
+1764,443,2025-09-09,Delivered,UPI
+1765,419,2023-07-13,Delivered,Debit Card
+1766,129,2024-02-28,Delivered,COD
+1767,256,2025-03-16,Delivered,Credit Card
+1768,134,2025-01-11,Delivered,COD
+1769,402,2025-05-09,Delivered,Net Banking
+1770,448,2025-05-07,Delivered,Credit Card
+1771,231,2024-12-08,Cancelled,UPI
+1772,61,2025-02-10,Delivered,UPI
+1773,414,2024-11-04,Delivered,UPI
+1774,338,2023-12-21,Delivered,Credit Card
+1775,202,2024-01-09,Delivered,Debit Card
+1776,208,2025-02-14,Delivered,UPI
+1777,497,2024-12-05,Delivered,Net Banking
+1778,18,2024-06-22,Cancelled,Credit Card
+1779,332,2025-09-21,Delivered,Net Banking
+1780,178,2023-09-29,Delivered,Net Banking
+1781,92,2024-07-12,Delivered,Net Banking
+1782,498,2024-11-18,Delivered,UPI
+1783,253,2024-12-31,Delivered,Credit Card
+1784,101,2024-11-03,Delivered,UPI
+1785,350,2025-01-20,Delivered,Credit Card
+1786,445,2025-02-01,Delivered,COD
+1787,20,2024-09-24,Delivered,UPI
+1788,437,2025-03-19,Delivered,Debit Card
+1789,101,2024-12-21,Delivered,Net Banking
+1790,350,2025-08-27,Delivered,Net Banking
+1791,134,2024-08-18,Delivered,Debit Card
+1792,248,2025-11-01,Delivered,Debit Card
+1793,114,2025-08-20,Delivered,Credit Card
+1794,482,2024-03-18,Delivered,Net Banking
+1795,198,2024-04-24,Returned,Net Banking
+1796,349,2024-10-15,Delivered,Debit Card
+1797,450,2025-01-08,Delivered,Net Banking
+1798,171,2025-05-12,Delivered,Debit Card
+1799,233,2024-06-17,Delivered,Debit Card
+1800,110,2025-01-06,Delivered,COD
+1801,24,2025-05-25,Delivered,Net Banking
+1802,411,2025-06-04,Delivered,UPI
+1803,271,2024-08-01,Returned,UPI
+1804,140,2024-10-08,Delivered,Credit Card
+1805,167,2023-08-15,Delivered,Net Banking
+1806,71,2025-06-02,Delivered,Debit Card
+1807,494,2024-12-18,Delivered,Debit Card
+1808,467,2025-09-04,Delivered,UPI
+1809,328,2024-06-02,Delivered,Credit Card
+1810,453,2025-06-14,Cancelled,UPI
+1811,18,2024-06-29,Delivered,COD
+1812,316,2024-11-05,Delivered,Net Banking
+1813,327,2024-09-18,Delivered,Debit Card
+1814,487,2024-05-16,Cancelled,Net Banking
+1815,418,2024-11-20,Delivered,Credit Card
+1816,450,2024-12-29,Delivered,UPI
+1817,213,2024-11-05,Delivered,Credit Card
+1818,85,2023-05-26,Delivered,COD
+1819,165,2024-10-10,Delivered,Debit Card
+1820,17,2024-12-08,Delivered,Net Banking
+1821,284,2025-07-03,Delivered,UPI
+1822,62,2024-09-12,Delivered,Credit Card
+1823,368,2024-09-14,Delivered,Net Banking
+1824,291,2024-12-11,Returned,Credit Card
+1825,438,2024-06-18,Delivered,Debit Card
+1826,167,2025-06-30,Delivered,Credit Card
+1827,251,2024-08-27,Delivered,COD
+1828,11,2024-04-10,Delivered,Debit Card
+1829,441,2025-05-06,Delivered,UPI
+1830,170,2024-01-12,Delivered,Net Banking
+1831,252,2023-11-10,Delivered,Debit Card
+1832,416,2023-12-28,Delivered,UPI
+1833,442,2025-04-14,Delivered,Credit Card
+1834,251,2025-03-27,Delivered,COD
+1835,361,2025-03-15,Delivered,Net Banking
+1836,473,2025-04-19,Delivered,UPI
+1837,331,2025-07-25,Delivered,Net Banking
+1838,293,2025-06-10,Returned,UPI
+1839,483,2025-07-29,Delivered,Debit Card
+1840,262,2025-06-06,Delivered,Net Banking
+1841,59,2024-12-30,Delivered,UPI
+1842,474,2025-06-05,Delivered,COD
+1843,395,2023-11-14,Delivered,UPI
+1844,93,2023-12-03,Delivered,Net Banking
+1845,319,2024-02-21,Delivered,Credit Card
+1846,107,2024-07-30,Delivered,Credit Card
+1847,77,2024-11-06,Delivered,Debit Card
+1848,350,2025-04-14,Delivered,Net Banking
+1849,69,2025-02-01,Delivered,Debit Card
+1850,496,2025-05-22,Delivered,COD
+1851,299,2025-04-07,Delivered,UPI
+1852,184,2024-09-01,Delivered,Net Banking
+1853,133,2025-05-21,Returned,Credit Card
+1854,315,2023-11-25,Delivered,Credit Card
+1855,494,2025-03-04,Delivered,COD
+1856,488,2024-06-12,Delivered,UPI
+1857,64,2024-04-12,Delivered,Debit Card
+1858,227,2023-08-27,Delivered,Debit Card
+1859,431,2024-04-13,Delivered,Debit Card
+1860,394,2024-11-27,Delivered,Net Banking
+1861,406,2025-07-14,Delivered,Credit Card
+1862,251,2025-08-16,Delivered,Net Banking
+1863,188,2025-03-08,Delivered,Credit Card
+1864,261,2023-09-29,Delivered,COD
+1865,41,2024-03-23,Cancelled,Debit Card
+1866,411,2024-05-27,Delivered,UPI
+1867,271,2024-11-13,Delivered,COD
+1868,62,2023-06-11,Delivered,Debit Card
+1869,422,2024-08-16,Delivered,COD
+1870,71,2024-04-03,Delivered,COD
+1871,52,2024-08-25,Delivered,Debit Card
+1872,342,2024-12-18,Delivered,Debit Card
+1873,394,2024-03-30,Returned,UPI
+1874,22,2025-04-10,Delivered,Net Banking
+1875,271,2025-04-10,Cancelled,Credit Card
+1876,309,2024-08-25,Delivered,Debit Card
+1877,249,2023-12-27,Delivered,UPI
+1878,90,2024-03-27,Delivered,COD
+1879,59,2024-12-06,Cancelled,COD
+1880,27,2024-03-09,Delivered,Net Banking
+1881,322,2025-04-22,Delivered,Net Banking
+1882,493,2025-10-03,Delivered,Net Banking
+1883,37,2025-05-03,Cancelled,COD
+1884,475,2024-11-01,Delivered,COD
+1885,243,2024-10-06,Delivered,Credit Card
+1886,256,2024-10-30,Delivered,Net Banking
+1887,78,2025-07-07,Delivered,COD
+1888,182,2023-07-14,Delivered,UPI
+1889,58,2024-12-14,Delivered,UPI
+1890,346,2024-10-15,Returned,Net Banking
+1891,413,2025-04-19,Delivered,COD
+1892,360,2025-07-28,Delivered,Net Banking
+1893,314,2024-04-26,Delivered,Debit Card
+1894,79,2024-09-15,Delivered,UPI
+1895,423,2025-03-27,Delivered,Debit Card
+1896,273,2024-11-15,Delivered,Credit Card
+1897,386,2023-12-30,Delivered,Net Banking
+1898,110,2024-05-27,Cancelled,UPI
+1899,366,2025-06-10,Delivered,Credit Card
+1900,128,2024-06-30,Delivered,Debit Card
+1901,425,2024-06-23,Delivered,Credit Card
+1902,64,2023-12-22,Delivered,COD
+1903,15,2024-05-18,Delivered,COD
+1904,460,2025-03-16,Returned,UPI
+1905,465,2024-11-19,Delivered,COD
+1906,227,2024-05-02,Delivered,Net Banking
+1907,316,2024-11-22,Delivered,Net Banking
+1908,457,2024-06-06,Delivered,Debit Card
+1909,57,2025-01-29,Delivered,Credit Card
+1910,476,2024-04-09,Delivered,UPI
+1911,373,2024-08-31,Delivered,Net Banking
+1912,364,2024-08-22,Delivered,UPI
+1913,26,2024-10-13,Delivered,Net Banking
+1914,129,2025-09-24,Delivered,Debit Card
+1915,224,2024-06-18,Delivered,UPI
+1916,15,2024-11-16,Delivered,Debit Card
+1917,439,2023-12-05,Delivered,Debit Card
+1918,359,2024-08-28,Delivered,UPI
+1919,5,2025-07-28,Delivered,COD
+1920,93,2023-12-31,Cancelled,COD
+1921,160,2025-01-28,Delivered,Debit Card
+1922,52,2025-02-26,Delivered,Net Banking
+1923,287,2025-02-27,Delivered,UPI
+1924,460,2025-08-02,Delivered,Debit Card
+1925,85,2024-04-24,Delivered,COD
+1926,271,2023-08-05,Delivered,COD
+1927,198,2024-12-18,Delivered,Net Banking
+1928,189,2025-01-15,Cancelled,Net Banking
+1929,385,2024-11-29,Delivered,Debit Card
+1930,174,2025-01-25,Delivered,Credit Card
+1931,392,2024-11-16,Delivered,COD
+1932,341,2024-02-29,Delivered,Credit Card
+1933,276,2025-05-11,Delivered,Credit Card
+1934,311,2025-05-22,Delivered,Credit Card
+1935,258,2025-03-04,Delivered,Debit Card
+1936,472,2023-06-26,Delivered,UPI
+1937,432,2025-07-08,Delivered,Credit Card
+1938,28,2024-04-23,Delivered,Credit Card
+1939,283,2025-02-24,Delivered,Debit Card
+1940,492,2024-11-16,Delivered,Debit Card
+1941,32,2025-02-16,Delivered,Debit Card
+1942,141,2024-10-09,Delivered,Credit Card
+1943,374,2023-10-07,Cancelled,Net Banking
+1944,333,2025-05-11,Delivered,COD
+1945,78,2025-04-15,Cancelled,Net Banking
+1946,89,2024-03-04,Delivered,Net Banking
+1947,90,2024-02-07,Returned,UPI
+1948,59,2024-09-08,Delivered,UPI
+1949,419,2024-11-23,Delivered,Debit Card
+1950,121,2025-07-19,Returned,Debit Card
+1951,393,2025-04-09,Delivered,Credit Card
+1952,162,2025-10-15,Delivered,UPI
+1953,207,2025-05-13,Returned,UPI
+1954,302,2025-08-28,Delivered,UPI
+1955,460,2024-09-07,Delivered,COD
+1956,190,2024-08-09,Delivered,UPI
+1957,205,2024-06-16,Delivered,Net Banking
+1958,8,2024-11-07,Delivered,Net Banking
+1959,274,2023-12-18,Delivered,Net Banking
+1960,222,2024-03-28,Delivered,Net Banking
+1961,412,2023-06-13,Delivered,Credit Card
+1962,194,2024-09-22,Delivered,Net Banking
+1963,360,2024-09-06,Delivered,Debit Card
+1964,41,2023-04-24,Delivered,UPI
+1965,161,2024-06-25,Cancelled,UPI
+1966,383,2023-10-08,Delivered,Debit Card
+1967,409,2024-11-19,Delivered,Net Banking
+1968,91,2024-09-09,Delivered,Net Banking
+1969,54,2025-07-18,Delivered,Debit Card
+1970,259,2024-09-09,Delivered,Net Banking
+1971,364,2025-05-10,Delivered,UPI
+1972,210,2025-07-02,Delivered,UPI
+1973,241,2025-05-22,Cancelled,Net Banking
+1974,144,2025-06-21,Delivered,UPI
+1975,368,2025-02-15,Delivered,UPI
+1976,278,2025-08-14,Returned,Debit Card
+1977,288,2024-07-08,Delivered,UPI
+1978,433,2024-12-31,Delivered,UPI
+1979,226,2025-06-02,Delivered,Net Banking
+1980,221,2023-09-07,Delivered,UPI
+1981,335,2025-05-10,Delivered,Net Banking
+1982,409,2025-01-21,Delivered,COD
+1983,177,2025-05-29,Delivered,Debit Card
+1984,46,2025-05-14,Cancelled,Net Banking
+1985,24,2024-04-20,Delivered,Net Banking
+1986,110,2025-06-26,Cancelled,Debit Card
+1987,78,2025-06-09,Delivered,UPI
+1988,230,2025-03-18,Delivered,Net Banking
+1989,258,2025-08-02,Delivered,Debit Card
+1990,418,2023-08-04,Delivered,Debit Card
+1991,492,2023-09-22,Delivered,Credit Card
+1992,22,2024-06-16,Delivered,Debit Card
+1993,260,2024-09-28,Returned,UPI
+1994,350,2025-08-15,Delivered,Credit Card
+1995,471,2025-01-07,Delivered,Debit Card
+1996,225,2023-12-11,Returned,Net Banking
+1997,389,2025-05-31,Delivered,UPI
+1998,477,2025-06-02,Delivered,Debit Card
+1999,361,2025-03-30,Delivered,Credit Card
+2000,303,2025-02-26,Delivered,UPI
+2001,7,2025-04-03,Delivered,Net Banking
+2002,450,2025-08-10,Delivered,UPI
+2003,49,2025-01-02,Cancelled,Debit Card
+2004,175,2025-02-13,Delivered,Debit Card
+2005,292,2025-09-13,Returned,UPI
+2006,368,2024-11-22,Delivered,Debit Card
+2007,356,2024-10-24,Delivered,Credit Card
+2008,2,2024-03-19,Delivered,COD
+2009,112,2024-06-19,Delivered,Debit Card
+2010,236,2024-05-15,Delivered,Credit Card
+2011,158,2025-04-13,Delivered,UPI
+2012,459,2023-07-06,Returned,UPI
+2013,8,2024-04-15,Delivered,UPI
+2014,316,2025-04-16,Returned,Debit Card
+2015,378,2024-01-22,Delivered,COD
+2016,124,2025-08-29,Delivered,Credit Card
+2017,131,2024-02-09,Delivered,COD
+2018,366,2024-01-12,Delivered,UPI
+2019,312,2025-01-22,Delivered,Credit Card
+2020,251,2024-12-09,Delivered,Debit Card
+2021,171,2024-11-15,Delivered,UPI
+2022,86,2025-09-27,Delivered,UPI
+2023,396,2023-07-29,Delivered,Credit Card
+2024,193,2024-11-23,Delivered,Credit Card
+2025,160,2025-09-09,Delivered,UPI
+2026,66,2024-05-22,Delivered,Credit Card
+2027,143,2023-10-06,Delivered,Debit Card
+2028,489,2024-08-30,Cancelled,Net Banking
+2029,107,2023-06-27,Cancelled,Debit Card
+2030,477,2024-07-14,Delivered,UPI
+2031,389,2025-07-02,Delivered,UPI
+2032,101,2024-04-15,Delivered,UPI
+2033,236,2024-09-12,Delivered,Net Banking
+2034,351,2025-03-31,Delivered,Credit Card
+2035,299,2025-08-18,Delivered,Net Banking
+2036,495,2024-04-10,Delivered,Debit Card
+2037,42,2023-12-30,Delivered,Credit Card
+2038,497,2024-08-27,Returned,COD
+2039,399,2024-12-14,Delivered,Debit Card
+2040,101,2024-08-08,Delivered,Net Banking
+2041,310,2024-05-29,Delivered,COD
+2042,452,2023-12-10,Delivered,UPI
+2043,341,2025-04-11,Delivered,Debit Card
+2044,486,2025-03-13,Cancelled,Net Banking
+2045,371,2025-01-18,Delivered,UPI
+2046,123,2024-06-28,Returned,Debit Card
+2047,104,2024-04-22,Returned,UPI
+2048,369,2023-06-06,Delivered,COD
+2049,459,2024-12-17,Delivered,Debit Card
+2050,242,2024-07-23,Cancelled,Debit Card
+2051,107,2023-08-24,Returned,Credit Card
+2052,358,2023-05-20,Returned,Net Banking
+2053,175,2023-10-04,Delivered,COD
+2054,94,2025-05-20,Delivered,Credit Card
+2055,398,2024-04-02,Delivered,UPI
+2056,342,2024-05-15,Cancelled,Net Banking
+2057,454,2025-04-06,Delivered,UPI
+2058,116,2025-04-02,Delivered,UPI
+2059,421,2025-08-13,Delivered,Credit Card
+2060,229,2025-03-10,Delivered,Net Banking
+2061,337,2025-04-30,Delivered,Credit Card
+2062,349,2024-04-28,Delivered,COD
+2063,446,2025-09-14,Delivered,UPI
+2064,237,2025-07-08,Delivered,Net Banking
+2065,240,2024-02-10,Delivered,Debit Card
+2066,475,2023-08-23,Returned,Debit Card
+2067,92,2025-05-29,Delivered,UPI
+2068,100,2025-05-21,Delivered,UPI
+2069,413,2024-08-13,Delivered,UPI
+2070,194,2023-11-23,Delivered,Debit Card
+2071,295,2025-01-21,Delivered,COD
+2072,338,2025-06-27,Delivered,Credit Card
+2073,98,2025-02-21,Returned,Net Banking
+2074,458,2025-02-18,Delivered,Credit Card
+2075,498,2024-10-28,Delivered,COD
+2076,200,2024-10-31,Delivered,UPI
+2077,8,2023-07-03,Delivered,Credit Card
+2078,324,2025-02-09,Cancelled,UPI
+2079,386,2024-06-16,Delivered,Credit Card
+2080,471,2025-08-28,Delivered,UPI
+2081,440,2025-11-04,Delivered,Credit Card
+2082,94,2023-08-12,Delivered,Net Banking
+2083,59,2025-05-28,Delivered,Debit Card
+2084,121,2023-10-30,Delivered,Debit Card
+2085,288,2023-11-23,Delivered,UPI
+2086,340,2025-04-10,Delivered,Net Banking
+2087,129,2024-07-16,Delivered,Credit Card
+2088,471,2024-12-04,Delivered,Debit Card
+2089,304,2025-03-05,Cancelled,Net Banking
+2090,31,2025-04-23,Delivered,UPI
+2091,255,2025-06-06,Delivered,UPI
+2092,367,2024-04-06,Delivered,Net Banking
+2093,489,2023-06-28,Delivered,Credit Card
+2094,409,2024-03-25,Delivered,Credit Card
+2095,236,2025-03-29,Cancelled,Net Banking
+2096,47,2023-11-14,Delivered,COD
+2097,403,2025-02-05,Delivered,Debit Card
+2098,301,2024-01-08,Delivered,UPI
+2099,246,2025-07-24,Delivered,UPI
+2100,279,2024-06-01,Delivered,COD
+2101,159,2024-09-19,Returned,UPI
+2102,18,2024-09-03,Delivered,Debit Card
+2103,113,2024-06-08,Delivered,UPI
+2104,57,2024-09-13,Returned,Net Banking
+2105,304,2025-02-18,Delivered,UPI
+2106,237,2024-11-11,Delivered,Credit Card
+2107,149,2024-06-08,Returned,Net Banking
+2108,170,2024-05-26,Delivered,Debit Card
+2109,292,2023-11-22,Returned,Net Banking
+2110,440,2025-02-24,Delivered,Net Banking
+2111,270,2024-04-25,Delivered,Net Banking
+2112,216,2024-06-19,Delivered,COD
+2113,458,2025-09-18,Delivered,COD
+2114,390,2025-06-01,Delivered,Debit Card
+2115,364,2024-05-16,Delivered,Debit Card
+2116,20,2025-04-06,Delivered,UPI
+2117,476,2024-05-31,Delivered,Net Banking
+2118,448,2025-07-01,Delivered,Credit Card
+2119,362,2024-07-12,Delivered,Credit Card
+2120,221,2024-11-28,Cancelled,UPI
+2121,204,2025-02-19,Delivered,UPI
+2122,152,2025-06-20,Returned,Credit Card
+2123,209,2024-02-05,Delivered,UPI
+2124,259,2024-12-13,Delivered,COD
+2125,73,2025-02-26,Delivered,Debit Card
+2126,335,2025-06-21,Delivered,COD
+2127,20,2024-04-25,Delivered,Debit Card
+2128,418,2024-01-14,Delivered,Debit Card
+2129,374,2025-03-22,Delivered,Credit Card
+2130,5,2025-04-16,Delivered,Credit Card
+2131,6,2024-02-27,Delivered,Credit Card
+2132,355,2023-09-01,Delivered,COD
+2133,313,2025-04-05,Delivered,Debit Card
+2134,190,2024-05-08,Delivered,UPI
+2135,139,2023-06-09,Delivered,Credit Card
+2136,498,2023-09-02,Delivered,UPI
+2137,68,2025-01-31,Delivered,Debit Card
+2138,453,2024-04-21,Delivered,UPI
+2139,185,2023-07-29,Delivered,Credit Card
+2140,259,2023-12-27,Delivered,UPI
+2141,401,2025-09-01,Delivered,COD
+2142,260,2024-04-17,Delivered,Credit Card
+2143,67,2024-02-08,Delivered,UPI
+2144,353,2025-02-19,Delivered,Net Banking
+2145,442,2025-05-28,Delivered,Debit Card
+2146,318,2024-12-18,Delivered,Debit Card
+2147,90,2023-10-26,Delivered,COD
+2148,77,2025-05-29,Delivered,COD
+2149,303,2025-04-27,Delivered,COD
+2150,151,2025-10-03,Delivered,UPI
+2151,473,2024-12-25,Delivered,Debit Card
+2152,315,2025-05-31,Delivered,Net Banking
+2153,360,2024-04-19,Returned,COD
+2154,307,2025-08-22,Delivered,COD
+2155,407,2024-10-06,Delivered,Debit Card
+2156,73,2024-11-20,Delivered,Credit Card
+2157,60,2024-12-21,Delivered,COD
+2158,359,2025-03-25,Delivered,Credit Card
+2159,424,2024-08-21,Delivered,Debit Card
+2160,320,2025-01-31,Delivered,Net Banking
+2161,336,2023-11-02,Delivered,UPI
+2162,33,2025-05-28,Delivered,UPI
+2163,40,2024-01-24,Delivered,Debit Card
+2164,214,2024-09-09,Delivered,COD
+2165,272,2024-12-15,Delivered,Net Banking
+2166,1,2025-05-14,Delivered,COD
+2167,246,2025-01-17,Delivered,Debit Card
+2168,160,2024-08-14,Delivered,UPI
+2169,367,2024-12-31,Returned,Credit Card
+2170,33,2024-06-01,Delivered,Credit Card
+2171,262,2024-10-13,Returned,Net Banking
+2172,209,2025-05-07,Delivered,Net Banking
+2173,378,2024-08-21,Delivered,Credit Card
+2174,173,2024-01-11,Delivered,COD
+2175,168,2025-01-13,Delivered,Debit Card
+2176,479,2025-02-27,Delivered,Credit Card
+2177,84,2025-02-20,Delivered,COD
+2178,492,2025-04-13,Delivered,COD
+2179,59,2024-06-26,Returned,Net Banking
+2180,398,2024-05-31,Delivered,UPI
+2181,368,2025-07-03,Delivered,UPI
+2182,373,2025-03-14,Delivered,Net Banking
+2183,247,2025-08-28,Delivered,UPI
+2184,479,2025-01-15,Delivered,UPI
+2185,210,2024-09-15,Delivered,Net Banking
+2186,180,2025-02-17,Delivered,Credit Card
+2187,421,2025-02-19,Delivered,COD
+2188,105,2024-06-16,Delivered,Net Banking
+2189,223,2024-05-03,Delivered,UPI
+2190,244,2024-04-29,Delivered,Net Banking
+2191,294,2025-03-29,Delivered,COD
+2192,255,2025-02-13,Delivered,Debit Card
+2193,312,2024-02-16,Delivered,Debit Card
+2194,266,2025-05-16,Returned,Debit Card
+2195,300,2024-05-21,Delivered,Debit Card
+2196,413,2025-01-18,Delivered,UPI
+2197,17,2025-06-22,Delivered,Credit Card
+2198,395,2024-11-05,Delivered,Net Banking
+2199,283,2025-04-29,Delivered,Net Banking
+2200,77,2024-03-31,Returned,COD
+2201,369,2025-02-10,Delivered,COD
+2202,467,2024-02-26,Cancelled,Debit Card
+2203,423,2024-12-04,Delivered,Net Banking
+2204,468,2025-03-27,Delivered,UPI
+2205,385,2023-11-11,Delivered,Debit Card
+2206,23,2024-12-22,Delivered,Debit Card
+2207,20,2024-05-28,Delivered,Credit Card
+2208,447,2024-12-24,Delivered,Debit Card
+2209,478,2024-03-30,Delivered,Debit Card
+2210,462,2024-06-02,Delivered,Net Banking
+2211,308,2024-12-24,Delivered,Credit Card
+2212,4,2024-03-19,Delivered,UPI
+2213,95,2023-12-01,Returned,UPI
+2214,139,2024-09-02,Delivered,Net Banking
+2215,93,2024-06-17,Delivered,Debit Card
+2216,161,2025-02-28,Delivered,UPI
+2217,25,2025-05-25,Delivered,Net Banking
+2218,118,2024-04-30,Delivered,Credit Card
+2219,375,2025-06-11,Delivered,Debit Card
+2220,154,2024-07-12,Delivered,Net Banking
+2221,105,2025-07-04,Delivered,Credit Card
+2222,272,2024-02-18,Delivered,UPI
+2223,274,2024-10-06,Returned,Net Banking
+2224,101,2024-11-20,Delivered,Net Banking
+2225,228,2024-02-03,Delivered,COD
+2226,248,2025-03-09,Delivered,Net Banking
+2227,245,2024-09-01,Delivered,Debit Card
+2228,302,2025-04-26,Returned,Debit Card
+2229,295,2024-12-18,Delivered,COD
+2230,25,2023-06-29,Delivered,Net Banking
+2231,427,2025-07-09,Returned,Debit Card
+2232,340,2024-12-22,Delivered,Debit Card
+2233,264,2025-03-13,Delivered,Debit Card
+2234,449,2024-12-01,Delivered,COD
+2235,485,2024-11-05,Delivered,UPI
+2236,339,2024-11-17,Returned,UPI
+2237,271,2025-03-21,Delivered,Debit Card
+2238,268,2025-11-19,Delivered,Credit Card
+2239,275,2024-09-08,Delivered,UPI
+2240,173,2025-08-19,Delivered,UPI
+2241,190,2024-12-11,Delivered,Net Banking
+2242,337,2025-01-11,Delivered,Net Banking
+2243,203,2023-11-29,Delivered,UPI
+2244,440,2024-04-11,Delivered,Net Banking
+2245,272,2023-08-16,Delivered,Net Banking
+2246,154,2025-06-15,Delivered,COD
+2247,272,2025-04-17,Delivered,COD
+2248,206,2025-03-05,Delivered,Credit Card
+2249,171,2023-03-20,Delivered,COD
+2250,45,2025-02-02,Delivered,COD
+2251,127,2024-07-30,Delivered,Net Banking
+2252,234,2024-10-14,Delivered,Credit Card
+2253,267,2024-05-23,Delivered,Debit Card
+2254,54,2023-06-24,Delivered,COD
+2255,287,2024-02-11,Delivered,Credit Card
+2256,215,2023-12-20,Delivered,Credit Card
+2257,297,2024-11-11,Delivered,Debit Card
+2258,134,2024-10-20,Delivered,Net Banking
+2259,440,2024-11-16,Delivered,Net Banking
+2260,122,2025-05-28,Delivered,Debit Card
+2261,455,2024-09-22,Delivered,COD
+2262,425,2025-03-05,Delivered,Debit Card
+2263,493,2025-03-19,Delivered,Credit Card
+2264,129,2023-04-21,Delivered,UPI
+2265,66,2024-02-08,Delivered,Debit Card
+2266,434,2023-09-01,Delivered,Credit Card
+2267,144,2024-04-29,Delivered,UPI
+2268,400,2024-05-01,Delivered,Net Banking
+2269,473,2025-08-31,Delivered,Debit Card
+2270,131,2025-03-18,Delivered,Net Banking
+2271,254,2023-09-19,Delivered,Credit Card
+2272,331,2025-06-24,Delivered,Credit Card
+2273,196,2024-02-15,Delivered,UPI
+2274,356,2024-08-14,Delivered,UPI
+2275,213,2025-06-27,Delivered,UPI
+2276,244,2024-06-28,Delivered,UPI
+2277,409,2024-06-24,Delivered,UPI
+2278,98,2024-09-27,Delivered,UPI
+2279,290,2025-04-28,Delivered,Net Banking
+2280,62,2023-12-20,Delivered,Debit Card
+2281,58,2024-08-20,Cancelled,UPI
+2282,126,2024-04-19,Delivered,Credit Card
+2283,8,2025-01-23,Delivered,Credit Card
+2284,489,2023-09-26,Delivered,UPI
+2285,12,2024-07-27,Delivered,Credit Card
+2286,473,2023-10-15,Delivered,COD
+2287,497,2024-11-29,Cancelled,Credit Card
+2288,58,2024-11-18,Delivered,Credit Card
+2289,275,2025-08-31,Delivered,UPI
+2290,376,2025-02-23,Delivered,Net Banking
+2291,465,2025-12-13,Delivered,Net Banking
+2292,119,2024-10-30,Delivered,Net Banking
+2293,293,2023-07-29,Delivered,Net Banking
+2294,138,2024-05-08,Delivered,Debit Card
+2295,495,2024-03-18,Delivered,Debit Card
+2296,87,2025-05-28,Delivered,Credit Card
+2297,76,2025-08-11,Delivered,Debit Card
+2298,128,2024-11-04,Delivered,COD
+2299,265,2023-03-07,Delivered,Net Banking
+2300,351,2024-03-29,Delivered,COD
+2301,408,2023-03-30,Delivered,Debit Card
+2302,199,2025-12-27,Delivered,UPI
+2303,223,2024-03-13,Delivered,UPI
+2304,163,2025-06-18,Delivered,Net Banking
+2305,413,2024-12-09,Delivered,UPI
+2306,166,2024-07-17,Delivered,Debit Card
+2307,295,2024-07-26,Delivered,Debit Card
+2308,227,2024-08-17,Delivered,UPI
+2309,370,2025-06-17,Delivered,Credit Card
+2310,263,2025-01-25,Delivered,Debit Card
+2311,405,2024-10-01,Returned,Credit Card
+2312,9,2025-11-23,Delivered,UPI
+2313,55,2025-02-22,Delivered,COD
+2314,457,2025-02-02,Delivered,UPI
+2315,219,2023-08-09,Delivered,UPI
+2316,45,2023-12-21,Delivered,Credit Card
+2317,474,2025-03-13,Delivered,UPI
+2318,485,2025-07-07,Delivered,Debit Card
+2319,115,2025-03-22,Cancelled,Debit Card
+2320,458,2025-01-27,Delivered,COD
+2321,13,2025-05-06,Delivered,UPI
+2322,409,2025-03-04,Delivered,Credit Card
+2323,482,2024-01-20,Delivered,UPI
+2324,261,2025-10-26,Delivered,COD
+2325,142,2025-05-28,Cancelled,Net Banking
+2326,243,2025-01-08,Delivered,UPI
+2327,500,2023-06-28,Returned,Net Banking
+2328,65,2025-09-28,Delivered,Debit Card
+2329,57,2024-01-01,Delivered,Debit Card
+2330,295,2024-07-12,Delivered,UPI
+2331,282,2024-02-18,Delivered,Credit Card
+2332,173,2024-06-02,Delivered,Debit Card
+2333,275,2025-04-21,Delivered,COD
+2334,419,2025-05-21,Delivered,UPI
+2335,384,2024-02-19,Delivered,Credit Card
+2336,160,2024-08-15,Delivered,Net Banking
+2337,366,2023-12-19,Delivered,Net Banking
+2338,358,2023-08-22,Delivered,Net Banking
+2339,142,2023-10-07,Delivered,UPI
+2340,55,2023-11-16,Delivered,COD
+2341,54,2025-04-08,Returned,COD
+2342,146,2024-12-14,Delivered,COD
+2343,272,2024-03-18,Delivered,UPI
+2344,445,2024-11-11,Delivered,Net Banking
+2345,58,2024-03-21,Returned,UPI
+2346,500,2025-01-03,Delivered,Credit Card
+2347,117,2024-06-28,Delivered,COD
+2348,371,2023-04-25,Delivered,Debit Card
+2349,100,2025-06-07,Delivered,Credit Card
+2350,63,2025-09-23,Delivered,UPI
+2351,242,2024-08-13,Delivered,COD
+2352,469,2024-12-12,Returned,Credit Card
+2353,153,2024-08-19,Delivered,COD
+2354,24,2024-02-20,Cancelled,Net Banking
+2355,58,2025-03-20,Delivered,Credit Card
+2356,468,2023-04-05,Delivered,COD
+2357,76,2024-03-23,Delivered,UPI
+2358,282,2025-04-25,Cancelled,Debit Card
+2359,480,2025-02-03,Delivered,Debit Card
+2360,9,2023-02-22,Delivered,Debit Card
+2361,164,2025-09-06,Delivered,Net Banking
+2362,40,2024-11-22,Returned,COD
+2363,392,2024-12-20,Delivered,Net Banking
+2364,481,2024-07-27,Delivered,Net Banking
+2365,403,2024-01-02,Delivered,Debit Card
+2366,53,2023-08-26,Delivered,Credit Card
+2367,413,2024-07-16,Delivered,COD
+2368,163,2023-10-20,Delivered,Credit Card
+2369,434,2024-05-28,Delivered,COD
+2370,385,2024-04-21,Delivered,Net Banking
+2371,427,2024-11-27,Delivered,UPI
+2372,335,2023-04-05,Returned,Credit Card
+2373,281,2024-03-02,Cancelled,COD
+2374,112,2024-12-27,Returned,COD
+2375,409,2025-02-18,Delivered,Net Banking
+2376,269,2023-05-30,Returned,Net Banking
+2377,231,2024-12-23,Delivered,Debit Card
+2378,378,2024-09-19,Delivered,Net Banking
+2379,15,2025-02-24,Delivered,Net Banking
+2380,207,2024-03-04,Delivered,Credit Card
+2381,90,2025-02-25,Returned,Credit Card
+2382,190,2024-09-29,Delivered,COD
+2383,30,2024-08-31,Delivered,Credit Card
+2384,296,2024-11-26,Delivered,UPI
+2385,300,2023-03-24,Delivered,Credit Card
+2386,493,2024-08-24,Cancelled,Net Banking
+2387,138,2025-02-09,Delivered,UPI
+2388,238,2023-09-08,Returned,UPI
+2389,482,2025-02-13,Delivered,Net Banking
+2390,130,2024-09-25,Returned,COD
+2391,401,2024-12-03,Delivered,Credit Card
+2392,452,2023-08-19,Delivered,Net Banking
+2393,81,2024-09-27,Cancelled,COD
+2394,61,2025-06-29,Delivered,Credit Card
+2395,220,2024-12-03,Delivered,COD
+2396,284,2025-06-03,Delivered,Debit Card
+2397,215,2025-04-30,Delivered,Debit Card
+2398,53,2025-03-01,Delivered,Credit Card
+2399,154,2025-05-06,Returned,Credit Card
+2400,461,2024-03-19,Delivered,Credit Card
+2401,35,2024-04-07,Delivered,Debit Card
+2402,408,2024-05-13,Delivered,UPI
+2403,320,2025-04-10,Delivered,Credit Card
+2404,471,2024-04-09,Delivered,COD
+2405,380,2024-12-03,Delivered,Credit Card
+2406,83,2024-05-01,Delivered,UPI
+2407,314,2025-07-10,Delivered,Credit Card
+2408,465,2024-01-10,Delivered,Credit Card
+2409,408,2024-07-01,Delivered,Credit Card
+2410,247,2024-03-23,Delivered,COD
+2411,342,2024-06-11,Delivered,COD
+2412,318,2023-05-30,Delivered,COD
+2413,139,2025-06-12,Delivered,Credit Card
+2414,49,2023-04-04,Delivered,Credit Card
+2415,431,2024-04-01,Delivered,COD
+2416,239,2023-12-16,Delivered,Credit Card
+2417,498,2023-12-05,Delivered,Net Banking
+2418,165,2025-04-19,Delivered,Net Banking
+2419,248,2025-04-02,Delivered,COD
+2420,388,2025-06-17,Delivered,Net Banking
+2421,453,2024-05-05,Delivered,Net Banking
+2422,224,2024-06-13,Delivered,COD
+2423,137,2025-03-15,Delivered,Credit Card
+2424,448,2025-04-08,Delivered,Debit Card
+2425,89,2024-11-28,Delivered,Debit Card
+2426,340,2025-03-09,Returned,COD
+2427,211,2024-01-24,Delivered,Debit Card
+2428,292,2023-10-04,Delivered,Net Banking
+2429,356,2024-01-21,Delivered,Credit Card
+2430,424,2025-06-26,Delivered,Net Banking
+2431,146,2024-10-08,Delivered,UPI
+2432,190,2024-03-14,Delivered,Net Banking
+2433,304,2023-10-03,Delivered,UPI
+2434,165,2025-01-29,Delivered,COD
+2435,243,2025-05-17,Cancelled,Credit Card
+2436,167,2023-04-24,Delivered,Credit Card
+2437,338,2025-05-07,Delivered,Credit Card
+2438,406,2025-01-20,Delivered,Debit Card
+2439,461,2024-07-06,Delivered,UPI
+2440,487,2024-07-16,Delivered,UPI
+2441,150,2024-04-13,Delivered,UPI
+2442,226,2024-10-31,Delivered,UPI
+2443,228,2024-12-01,Delivered,Debit Card
+2444,220,2024-04-29,Delivered,Credit Card
+2445,151,2024-07-14,Delivered,Debit Card
+2446,89,2025-02-15,Delivered,COD
+2447,257,2024-06-28,Delivered,Debit Card
+2448,143,2024-08-07,Delivered,Net Banking
+2449,135,2024-11-14,Delivered,UPI
+2450,114,2023-10-14,Delivered,Net Banking
+2451,193,2024-08-11,Delivered,COD
+2452,387,2025-06-13,Delivered,Net Banking
+2453,312,2024-11-04,Delivered,UPI
+2454,6,2025-05-19,Delivered,Debit Card
+2455,288,2025-05-18,Delivered,Debit Card
+2456,218,2024-04-28,Delivered,Credit Card
+2457,109,2024-09-12,Delivered,COD
+2458,94,2025-08-05,Delivered,COD
+2459,398,2025-01-19,Delivered,UPI
+2460,424,2024-12-24,Delivered,COD
+2461,317,2024-11-02,Delivered,Net Banking
+2462,166,2025-11-17,Delivered,Debit Card
+2463,288,2025-01-23,Delivered,UPI
+2464,32,2024-02-09,Delivered,COD
+2465,430,2025-05-15,Delivered,Net Banking
+2466,412,2024-02-27,Delivered,UPI
+2467,426,2024-08-31,Delivered,Debit Card
+2468,368,2023-06-12,Delivered,Net Banking
+2469,328,2024-05-29,Delivered,UPI
+2470,195,2023-06-03,Delivered,UPI
+2471,272,2025-11-25,Delivered,Debit Card
+2472,416,2025-04-11,Delivered,Credit Card
+2473,441,2024-10-04,Returned,COD
+2474,271,2025-06-19,Delivered,UPI
+2475,371,2024-12-14,Delivered,Net Banking
+2476,59,2025-04-04,Delivered,Net Banking
+2477,77,2024-01-09,Delivered,Net Banking
+2478,339,2025-08-20,Delivered,COD
+2479,332,2024-02-06,Delivered,Debit Card
+2480,351,2025-08-09,Delivered,Net Banking
+2481,272,2024-11-29,Delivered,UPI
+2482,412,2025-01-15,Delivered,COD
+2483,167,2024-04-30,Delivered,COD
+2484,6,2023-09-24,Delivered,Debit Card
+2485,475,2023-10-08,Delivered,Credit Card
+2486,137,2024-11-25,Delivered,COD
+2487,387,2023-12-06,Delivered,COD
+2488,114,2024-07-08,Delivered,COD
+2489,226,2024-11-13,Delivered,Debit Card
+2490,262,2025-06-14,Delivered,UPI
+2491,190,2024-04-11,Delivered,COD
+2492,196,2024-09-03,Delivered,COD
+2493,159,2024-07-25,Delivered,COD
+2494,6,2025-01-06,Delivered,COD
+2495,177,2024-02-11,Delivered,Net Banking
+2496,285,2025-09-27,Delivered,COD
+2497,155,2024-09-08,Delivered,Debit Card
+2498,309,2024-06-19,Delivered,Credit Card
+2499,338,2025-01-25,Delivered,COD
+2500,334,2024-05-31,Delivered,UPI
+2501,326,2024-01-01,Delivered,COD
+2502,344,2024-06-19,Delivered,Credit Card
+2503,364,2025-01-07,Delivered,UPI
+2504,219,2025-08-04,Delivered,UPI
+2505,190,2025-10-28,Delivered,Credit Card
+2506,210,2025-01-04,Delivered,Net Banking
+2507,334,2025-03-25,Returned,Debit Card
+2508,116,2024-01-14,Cancelled,Credit Card
+2509,7,2024-08-18,Delivered,COD
+2510,497,2024-10-21,Delivered,Credit Card
+2511,171,2023-12-25,Delivered,Net Banking
+2512,98,2024-09-26,Delivered,Credit Card
+2513,221,2024-05-01,Delivered,Net Banking
+2514,473,2025-10-24,Cancelled,UPI
+2515,18,2024-10-04,Cancelled,Net Banking
+2516,197,2024-04-29,Delivered,Debit Card
+2517,261,2025-04-17,Delivered,Debit Card
+2518,410,2024-05-02,Delivered,Debit Card
+2519,252,2023-07-22,Delivered,UPI
+2520,368,2025-04-21,Delivered,Debit Card
+2521,473,2024-04-11,Delivered,Net Banking
+2522,196,2024-03-03,Delivered,Credit Card
+2523,205,2024-11-20,Delivered,Debit Card
+2524,81,2024-08-08,Delivered,Debit Card
+2525,364,2025-02-17,Delivered,Credit Card
+2526,240,2024-12-28,Delivered,UPI
+2527,369,2023-07-13,Cancelled,Net Banking
+2528,367,2025-10-08,Delivered,Net Banking
+2529,48,2024-03-17,Delivered,Credit Card
+2530,205,2024-01-13,Delivered,UPI
+2531,233,2024-05-23,Delivered,Credit Card
+2532,348,2025-07-08,Delivered,COD
+2533,33,2024-09-15,Delivered,UPI
+2534,209,2024-08-05,Delivered,COD
+2535,500,2024-07-17,Delivered,COD
+2536,249,2023-12-03,Delivered,COD
+2537,170,2024-08-15,Returned,UPI
+2538,425,2024-04-02,Delivered,UPI
+2539,137,2025-01-14,Delivered,Net Banking
+2540,85,2023-11-18,Delivered,Credit Card
+2541,103,2024-01-07,Delivered,COD
+2542,295,2025-05-29,Delivered,Credit Card
+2543,132,2025-01-30,Delivered,Net Banking
+2544,323,2024-11-29,Delivered,Net Banking
+2545,391,2025-05-20,Delivered,COD
+2546,316,2023-11-25,Delivered,Debit Card
+2547,431,2025-04-27,Delivered,Net Banking
+2548,328,2024-09-18,Delivered,COD
+2549,37,2024-07-19,Delivered,Credit Card
+2550,49,2024-10-21,Delivered,UPI
+2551,131,2023-12-02,Delivered,Credit Card
+2552,29,2024-12-05,Delivered,Debit Card
+2553,470,2025-08-11,Delivered,UPI
+2554,41,2025-08-05,Delivered,Net Banking
+2555,298,2025-03-03,Delivered,Debit Card
+2556,366,2025-06-17,Delivered,Debit Card
+2557,26,2025-02-14,Delivered,Credit Card
+2558,14,2024-02-08,Delivered,COD
+2559,354,2025-05-01,Delivered,COD
+2560,441,2024-12-04,Delivered,Debit Card
+2561,84,2024-04-03,Delivered,COD
+2562,243,2024-01-16,Returned,Net Banking
+2563,94,2024-04-01,Delivered,UPI
+2564,117,2025-01-04,Delivered,Credit Card
+2565,303,2023-09-06,Delivered,Net Banking
+2566,442,2025-05-03,Delivered,Debit Card
+2567,354,2024-09-10,Delivered,UPI
+2568,427,2023-02-27,Delivered,Debit Card
+2569,105,2024-10-01,Returned,COD
+2570,107,2024-09-14,Delivered,UPI
+2571,87,2025-01-03,Delivered,Debit Card
+2572,328,2025-05-06,Delivered,Debit Card
+2573,188,2025-04-08,Delivered,COD
+2574,432,2025-07-28,Returned,Credit Card
+2575,413,2024-08-18,Delivered,Debit Card
+2576,294,2023-09-07,Delivered,Debit Card
+2577,293,2025-02-21,Delivered,Net Banking
+2578,318,2024-12-19,Returned,Debit Card
+2579,397,2025-05-05,Delivered,Debit Card
+2580,196,2024-04-19,Delivered,UPI
+2581,54,2025-06-06,Delivered,Debit Card
+2582,351,2023-09-11,Delivered,Credit Card
+2583,424,2024-05-27,Returned,Credit Card
+2584,252,2024-10-26,Delivered,Net Banking
+2585,333,2025-01-20,Delivered,Debit Card
+2586,375,2025-02-20,Delivered,Debit Card
+2587,348,2023-05-27,Delivered,COD
+2588,278,2025-06-19,Delivered,UPI
+2589,294,2024-11-20,Returned,COD
+2590,166,2023-10-22,Delivered,Debit Card
+2591,485,2025-07-29,Delivered,Debit Card
+2592,141,2024-10-03,Delivered,UPI
+2593,213,2025-04-12,Delivered,Credit Card
+2594,181,2024-08-25,Delivered,UPI
+2595,36,2024-05-29,Delivered,Net Banking
+2596,468,2024-11-11,Delivered,COD
+2597,241,2024-06-11,Delivered,UPI
+2598,319,2023-07-19,Delivered,Debit Card
+2599,409,2024-01-25,Delivered,UPI
+2600,138,2023-09-04,Delivered,UPI
+2601,433,2024-10-13,Returned,Net Banking
+2602,270,2024-12-31,Delivered,Debit Card
+2603,499,2025-10-28,Cancelled,Net Banking
+2604,10,2024-04-13,Returned,Net Banking
+2605,447,2023-12-25,Delivered,UPI
+2606,9,2025-05-18,Delivered,Debit Card
+2607,341,2025-03-18,Delivered,Debit Card
+2608,263,2024-06-03,Returned,Debit Card
+2609,481,2024-11-01,Delivered,Net Banking
+2610,220,2025-09-24,Delivered,Debit Card
+2611,476,2024-10-10,Delivered,UPI
+2612,469,2025-09-17,Delivered,Debit Card
+2613,77,2024-11-19,Delivered,Credit Card
+2614,121,2025-07-30,Delivered,Credit Card
+2615,485,2025-01-09,Delivered,Credit Card
+2616,447,2025-05-06,Delivered,Net Banking
+2617,229,2024-09-30,Delivered,Debit Card
+2618,161,2024-10-21,Delivered,Net Banking
+2619,108,2024-09-21,Delivered,UPI
+2620,286,2024-12-27,Delivered,Debit Card
+2621,263,2024-04-25,Delivered,Credit Card
+2622,122,2023-09-21,Delivered,UPI
+2623,378,2025-05-24,Delivered,Net Banking
+2624,391,2025-01-27,Delivered,Credit Card
+2625,233,2023-11-18,Delivered,Credit Card
+2626,458,2024-11-26,Delivered,Debit Card
+2627,168,2024-08-29,Delivered,Net Banking
+2628,354,2024-06-28,Delivered,COD
+2629,413,2024-01-22,Delivered,Credit Card
+2630,433,2023-07-13,Delivered,COD
+2631,309,2024-10-09,Delivered,Credit Card
+2632,276,2025-10-14,Delivered,UPI
+2633,360,2025-01-25,Delivered,Credit Card
+2634,385,2024-06-16,Delivered,Net Banking
+2635,229,2024-09-19,Delivered,Credit Card
+2636,150,2024-09-02,Delivered,COD
+2637,489,2025-05-28,Delivered,UPI
+2638,112,2024-06-12,Delivered,Net Banking
+2639,470,2024-09-21,Delivered,Credit Card
+2640,290,2023-07-01,Delivered,Debit Card
+2641,47,2024-01-27,Delivered,Debit Card
+2642,222,2024-04-10,Delivered,UPI
+2643,63,2024-01-29,Delivered,Net Banking
+2644,380,2024-10-14,Returned,Net Banking
+2645,486,2024-06-26,Delivered,Credit Card
+2646,37,2024-12-03,Delivered,Debit Card
+2647,30,2025-02-21,Delivered,Debit Card
+2648,441,2025-04-27,Delivered,COD
+2649,15,2025-04-02,Delivered,COD
+2650,236,2024-07-28,Delivered,COD
+2651,17,2025-08-25,Delivered,Credit Card
+2652,279,2025-01-02,Delivered,Credit Card
+2653,49,2025-03-16,Delivered,COD
+2654,141,2024-08-17,Delivered,Net Banking
+2655,436,2024-09-25,Delivered,Debit Card
+2656,417,2025-04-26,Delivered,Net Banking
+2657,291,2024-03-12,Delivered,Debit Card
+2658,81,2024-12-15,Delivered,COD
+2659,111,2023-07-18,Returned,Net Banking
+2660,370,2023-08-24,Cancelled,Debit Card
+2661,467,2024-02-02,Delivered,Net Banking
+2662,474,2023-08-29,Delivered,COD
+2663,102,2024-12-13,Delivered,UPI
+2664,302,2024-11-03,Delivered,Credit Card
+2665,165,2023-04-21,Delivered,COD
+2666,27,2024-11-01,Delivered,Debit Card
+2667,106,2023-10-01,Delivered,Debit Card
+2668,274,2024-09-07,Delivered,UPI
+2669,208,2025-01-03,Delivered,Debit Card
+2670,28,2024-09-22,Delivered,Net Banking
+2671,370,2025-07-27,Delivered,Debit Card
+2672,28,2024-08-17,Delivered,UPI
+2673,332,2024-06-25,Delivered,Debit Card
+2674,79,2024-05-18,Delivered,COD
+2675,379,2024-04-18,Delivered,Credit Card
+2676,106,2025-06-27,Delivered,Net Banking
+2677,164,2023-06-30,Delivered,Net Banking
+2678,72,2024-07-24,Delivered,UPI
+2679,99,2024-12-10,Delivered,Credit Card
+2680,82,2025-04-18,Delivered,Net Banking
+2681,65,2024-05-12,Delivered,Credit Card
+2682,136,2023-03-07,Delivered,COD
+2683,415,2023-08-07,Delivered,Debit Card
+2684,321,2025-02-04,Returned,Credit Card
+2685,426,2025-01-07,Delivered,COD
+2686,137,2025-05-22,Delivered,COD
+2687,190,2024-10-05,Delivered,COD
+2688,342,2025-03-04,Delivered,Credit Card
+2689,149,2024-04-12,Delivered,COD
+2690,244,2023-10-28,Delivered,COD
+2691,281,2024-05-15,Delivered,COD
+2692,202,2025-04-10,Delivered,Credit Card
+2693,456,2024-12-30,Delivered,UPI
+2694,43,2025-08-20,Delivered,Net Banking
+2695,107,2024-10-21,Delivered,COD
+2696,3,2025-05-10,Returned,Debit Card
+2697,198,2025-06-30,Delivered,Net Banking
+2698,101,2024-08-13,Delivered,Debit Card
+2699,297,2023-12-22,Cancelled,Credit Card
+2700,106,2025-03-21,Returned,Credit Card
+2701,421,2024-03-10,Delivered,Net Banking
+2702,236,2024-05-20,Delivered,COD
+2703,282,2025-02-11,Delivered,Debit Card
+2704,56,2025-09-01,Delivered,Net Banking
+2705,375,2024-12-26,Delivered,UPI
+2706,470,2024-03-10,Delivered,COD
+2707,289,2023-07-19,Delivered,Debit Card
+2708,308,2024-09-08,Delivered,UPI
+2709,461,2024-06-06,Returned,UPI
+2710,61,2024-08-27,Delivered,Net Banking
+2711,381,2024-10-24,Returned,Debit Card
+2712,32,2023-09-13,Delivered,Net Banking
+2713,438,2024-10-10,Delivered,UPI
+2714,475,2025-02-11,Delivered,UPI
+2715,236,2025-05-17,Delivered,Debit Card
+2716,476,2023-09-14,Delivered,COD
+2717,441,2024-07-31,Delivered,Net Banking
+2718,256,2025-07-20,Delivered,UPI
+2719,78,2024-04-12,Delivered,Debit Card
+2720,222,2024-12-23,Cancelled,Credit Card
+2721,86,2024-07-03,Cancelled,Credit Card
+2722,250,2024-07-17,Delivered,UPI
+2723,487,2024-12-07,Delivered,UPI
+2724,481,2024-09-20,Delivered,COD
+2725,95,2025-05-25,Delivered,UPI
+2726,186,2025-03-27,Delivered,UPI
+2727,22,2023-05-21,Delivered,Debit Card
+2728,332,2024-07-29,Cancelled,COD
+2729,327,2023-02-24,Cancelled,COD
+2730,498,2024-05-02,Delivered,UPI
+2731,87,2024-10-04,Delivered,UPI
+2732,283,2024-03-24,Delivered,Credit Card
+2733,270,2025-06-05,Delivered,Net Banking
+2734,284,2025-03-08,Delivered,Net Banking
+2735,397,2025-05-26,Delivered,Debit Card
+2736,21,2024-11-28,Delivered,COD
+2737,53,2025-06-29,Delivered,Debit Card
+2738,403,2025-03-26,Delivered,UPI
+2739,66,2025-06-19,Delivered,Credit Card
+2740,388,2024-08-03,Delivered,Net Banking
+2741,114,2023-12-24,Delivered,Net Banking
+2742,306,2025-03-05,Delivered,Debit Card
+2743,279,2025-03-31,Delivered,Credit Card
+2744,354,2025-01-17,Delivered,Credit Card
+2745,170,2023-07-25,Delivered,Credit Card
+2746,23,2024-09-15,Delivered,Debit Card
+2747,287,2024-08-28,Delivered,Net Banking
+2748,316,2025-03-06,Delivered,Net Banking
+2749,416,2025-04-22,Delivered,Debit Card
+2750,393,2024-10-31,Delivered,UPI
+2751,176,2025-03-04,Delivered,COD
+2752,476,2025-09-02,Delivered,Credit Card
+2753,391,2024-04-02,Delivered,Credit Card
+2754,328,2023-09-26,Delivered,Credit Card
+2755,95,2024-09-09,Returned,Net Banking
+2756,425,2024-12-25,Delivered,Debit Card
+2757,124,2024-07-14,Delivered,COD
+2758,3,2025-11-04,Delivered,Credit Card
+2759,481,2024-11-13,Delivered,UPI
+2760,25,2025-02-05,Delivered,Credit Card
+2761,310,2024-10-15,Delivered,UPI
+2762,175,2024-02-06,Delivered,Debit Card
+2763,297,2025-03-08,Cancelled,Credit Card
+2764,112,2025-04-22,Delivered,Credit Card
+2765,274,2025-07-18,Delivered,Debit Card
+2766,126,2024-05-17,Delivered,UPI
+2767,499,2025-02-04,Delivered,COD
+2768,215,2025-06-30,Delivered,UPI
+2769,209,2024-11-23,Delivered,Net Banking
+2770,201,2025-02-07,Delivered,Net Banking
+2771,172,2024-09-03,Delivered,Credit Card
+2772,80,2024-07-11,Delivered,Credit Card
+2773,213,2024-10-31,Delivered,COD
+2774,12,2024-06-06,Delivered,Credit Card
+2775,290,2025-03-22,Returned,Credit Card
+2776,65,2025-01-02,Cancelled,Net Banking
+2777,212,2025-02-12,Delivered,UPI
+2778,418,2025-06-09,Delivered,Debit Card
+2779,228,2024-02-06,Delivered,Credit Card
+2780,414,2024-03-15,Returned,COD
+2781,219,2024-05-21,Delivered,Debit Card
+2782,3,2023-12-14,Cancelled,Net Banking
+2783,476,2024-08-02,Delivered,UPI
+2784,65,2024-08-30,Delivered,COD
+2785,399,2024-09-13,Delivered,Debit Card
+2786,404,2024-02-08,Delivered,COD
+2787,498,2025-07-13,Delivered,Net Banking
+2788,267,2023-11-15,Delivered,UPI
+2789,69,2025-01-01,Delivered,COD
+2790,451,2025-01-21,Delivered,UPI
+2791,209,2024-08-11,Delivered,Credit Card
+2792,431,2025-05-04,Delivered,Net Banking
+2793,130,2024-08-05,Delivered,Net Banking
+2794,346,2025-05-23,Delivered,UPI
+2795,5,2024-03-01,Delivered,Debit Card
+2796,470,2025-10-22,Delivered,Net Banking
+2797,391,2025-01-07,Delivered,Net Banking
+2798,244,2024-08-08,Delivered,Net Banking
+2799,376,2025-08-27,Delivered,UPI
+2800,140,2024-05-11,Delivered,Debit Card
+2801,427,2025-02-14,Delivered,Net Banking
+2802,164,2024-06-05,Delivered,UPI
+2803,265,2025-07-24,Returned,COD
+2804,282,2025-04-30,Delivered,UPI
+2805,224,2025-02-22,Delivered,Debit Card
+2806,293,2023-10-01,Delivered,COD
+2807,212,2024-02-22,Delivered,UPI
+2808,183,2024-02-12,Delivered,UPI
+2809,187,2024-07-22,Cancelled,Credit Card
+2810,49,2025-01-29,Delivered,COD
+2811,417,2024-06-21,Delivered,COD
+2812,398,2025-04-29,Delivered,Credit Card
+2813,197,2024-10-09,Delivered,Net Banking
+2814,448,2024-06-13,Delivered,Debit Card
+2815,419,2024-11-21,Delivered,UPI
+2816,425,2024-09-24,Delivered,Credit Card
+2817,335,2025-03-11,Delivered,COD
+2818,43,2024-09-14,Delivered,UPI
+2819,494,2025-06-23,Delivered,COD
+2820,364,2024-07-27,Delivered,Debit Card
+2821,349,2024-12-31,Delivered,Credit Card
+2822,366,2023-05-04,Delivered,Credit Card
+2823,320,2025-04-08,Delivered,Credit Card
+2824,320,2024-04-20,Delivered,COD
+2825,216,2025-02-05,Delivered,UPI
+2826,169,2025-07-10,Delivered,UPI
+2827,259,2023-03-30,Delivered,COD
+2828,240,2024-04-23,Returned,Net Banking
+2829,260,2024-06-12,Delivered,Credit Card
+2830,146,2024-02-09,Delivered,COD
+2831,146,2024-08-05,Delivered,Credit Card
+2832,399,2024-07-19,Delivered,Debit Card
+2833,462,2025-06-24,Delivered,COD
+2834,346,2025-06-17,Delivered,UPI
+2835,45,2023-05-04,Delivered,Net Banking
+2836,334,2024-08-15,Delivered,UPI
+2837,391,2024-12-24,Delivered,Credit Card
+2838,267,2024-11-26,Delivered,UPI
+2839,451,2024-06-25,Returned,Credit Card
+2840,228,2024-03-15,Delivered,UPI
+2841,330,2024-11-14,Delivered,UPI
+2842,437,2023-08-30,Cancelled,Net Banking
+2843,2,2024-09-25,Delivered,Credit Card
+2844,349,2025-10-09,Delivered,Credit Card
+2845,310,2025-08-01,Delivered,Net Banking
+2846,64,2024-12-16,Delivered,Credit Card
+2847,373,2023-06-08,Delivered,COD
+2848,204,2024-10-20,Delivered,Credit Card
+2849,464,2024-11-21,Delivered,Debit Card
+2850,83,2025-04-09,Delivered,COD
+2851,228,2024-09-07,Delivered,Net Banking
+2852,44,2025-01-20,Returned,Debit Card
+2853,299,2024-05-20,Delivered,Debit Card
+2854,223,2024-09-29,Delivered,Net Banking
+2855,38,2023-06-10,Returned,Debit Card
+2856,248,2024-08-05,Delivered,Credit Card
+2857,411,2024-08-12,Delivered,Net Banking
+2858,270,2025-10-04,Delivered,UPI
+2859,288,2025-08-22,Delivered,COD
+2860,9,2024-03-27,Delivered,Net Banking
+2861,175,2025-06-14,Delivered,UPI
+2862,12,2025-03-23,Delivered,Net Banking
+2863,209,2025-05-25,Delivered,UPI
+2864,256,2025-04-09,Delivered,UPI
+2865,413,2024-04-21,Delivered,Debit Card
+2866,168,2025-02-20,Delivered,UPI
+2867,195,2023-07-28,Delivered,COD
+2868,34,2024-06-21,Delivered,COD
+2869,152,2024-02-21,Delivered,Credit Card
+2870,214,2024-01-10,Delivered,Credit Card
+2871,79,2024-06-07,Delivered,COD
+2872,462,2025-07-26,Delivered,Credit Card
+2873,288,2025-04-23,Delivered,Debit Card
+2874,444,2025-02-16,Delivered,Debit Card
+2875,185,2025-04-20,Cancelled,UPI
+2876,27,2025-05-05,Delivered,Debit Card
+2877,240,2023-07-19,Delivered,COD
+2878,15,2024-12-02,Delivered,Credit Card
+2879,68,2023-07-03,Delivered,UPI
+2880,288,2024-02-07,Delivered,Credit Card
+2881,306,2025-07-11,Delivered,Credit Card
+2882,337,2023-12-19,Delivered,UPI
+2883,454,2024-07-13,Delivered,Debit Card
+2884,177,2025-04-24,Delivered,UPI
+2885,489,2024-05-21,Delivered,COD
+2886,161,2025-05-09,Delivered,Credit Card
+2887,433,2024-02-08,Delivered,COD
+2888,432,2023-10-17,Delivered,UPI
+2889,453,2024-09-02,Delivered,COD
+2890,336,2025-10-02,Delivered,Credit Card
+2891,43,2024-12-07,Delivered,COD
+2892,487,2024-12-24,Delivered,COD
+2893,347,2023-11-27,Delivered,COD
+2894,111,2025-08-28,Delivered,Credit Card
+2895,78,2024-05-20,Delivered,Debit Card
+2896,284,2025-02-10,Delivered,Credit Card
+2897,190,2024-07-16,Delivered,COD
+2898,150,2025-03-03,Delivered,Debit Card
+2899,224,2024-05-26,Returned,Debit Card
+2900,439,2025-02-13,Delivered,Net Banking
+2901,76,2023-04-28,Delivered,UPI
+2902,83,2024-03-08,Delivered,COD
+2903,258,2023-08-05,Delivered,Net Banking
+2904,39,2024-12-05,Delivered,COD
+2905,396,2024-10-12,Delivered,Credit Card
+2906,436,2024-05-20,Delivered,Net Banking
+2907,91,2023-04-06,Delivered,COD
+2908,159,2025-03-18,Delivered,UPI
+2909,25,2025-03-27,Delivered,UPI
+2910,354,2024-08-20,Delivered,Debit Card
+2911,278,2025-04-13,Delivered,UPI
+2912,25,2024-01-24,Delivered,Debit Card
+2913,280,2023-08-18,Delivered,Credit Card
+2914,89,2025-04-17,Delivered,Net Banking
+2915,400,2023-11-23,Delivered,Credit Card
+2916,342,2024-12-04,Delivered,COD
+2917,22,2024-02-06,Delivered,Credit Card
+2918,243,2023-07-29,Returned,COD
+2919,407,2024-07-19,Delivered,Net Banking
+2920,452,2025-03-29,Delivered,UPI
+2921,73,2024-12-28,Delivered,Debit Card
+2922,220,2024-02-08,Delivered,Credit Card
+2923,257,2025-03-24,Delivered,Credit Card
+2924,113,2024-09-12,Returned,Debit Card
+2925,434,2024-02-18,Delivered,COD
+2926,475,2025-02-14,Delivered,Debit Card
+2927,218,2024-01-28,Delivered,Credit Card
+2928,214,2025-04-23,Delivered,Debit Card
+2929,262,2024-02-08,Delivered,Net Banking
+2930,213,2025-06-22,Delivered,UPI
+2931,283,2024-03-11,Delivered,Credit Card
+2932,472,2025-02-12,Delivered,COD
+2933,400,2025-08-27,Cancelled,Net Banking
+2934,197,2025-08-07,Delivered,Credit Card
+2935,480,2024-07-28,Delivered,Net Banking
+2936,81,2023-12-02,Delivered,UPI
+2937,485,2024-12-15,Delivered,UPI
+2938,230,2024-12-14,Delivered,UPI
+2939,57,2024-10-17,Delivered,COD
+2940,340,2025-01-06,Delivered,UPI
+2941,438,2025-04-20,Cancelled,Debit Card
+2942,49,2024-02-23,Delivered,COD
+2943,250,2024-08-22,Returned,Net Banking
+2944,364,2025-05-26,Delivered,Net Banking
+2945,256,2025-05-05,Delivered,COD
+2946,411,2024-08-06,Cancelled,Credit Card
+2947,441,2024-10-03,Delivered,Debit Card
+2948,84,2024-10-07,Delivered,Debit Card
+2949,356,2024-03-19,Delivered,Credit Card
+2950,324,2024-03-12,Delivered,Debit Card
+2951,359,2025-05-12,Delivered,Debit Card
+2952,216,2024-10-19,Returned,UPI
+2953,134,2024-12-08,Delivered,UPI
+2954,125,2023-08-03,Delivered,COD
+2955,357,2024-12-17,Delivered,Debit Card
+2956,248,2023-11-03,Delivered,Credit Card
+2957,33,2024-08-15,Delivered,Credit Card
+2958,232,2025-08-06,Delivered,Credit Card
+2959,6,2024-05-22,Delivered,Credit Card
+2960,436,2024-01-22,Returned,UPI
+2961,126,2025-02-06,Delivered,Credit Card
+2962,52,2025-06-26,Delivered,Debit Card
+2963,447,2025-09-26,Delivered,Credit Card
+2964,387,2025-04-25,Delivered,Net Banking
+2965,47,2025-06-28,Delivered,Net Banking
+2966,5,2025-11-02,Delivered,Net Banking
+2967,277,2024-02-15,Delivered,UPI
+2968,320,2025-02-12,Delivered,Credit Card
+2969,163,2025-01-20,Delivered,Net Banking
+2970,90,2025-01-15,Delivered,COD
+2971,119,2024-07-05,Delivered,UPI
+2972,428,2025-02-08,Delivered,Credit Card
+2973,218,2023-02-13,Delivered,Net Banking
+2974,310,2024-11-03,Delivered,Credit Card
+2975,378,2025-08-12,Delivered,COD
+2976,288,2024-04-11,Delivered,Net Banking
+2977,296,2025-05-12,Delivered,Credit Card
+2978,448,2025-07-07,Cancelled,Debit Card
+2979,208,2025-06-02,Delivered,Debit Card
+2980,304,2023-07-01,Delivered,Debit Card
+2981,146,2025-08-06,Delivered,Net Banking
+2982,313,2024-12-19,Delivered,COD
+2983,438,2025-02-21,Delivered,COD
+2984,389,2023-06-01,Delivered,Net Banking
+2985,246,2024-06-26,Delivered,COD
+2986,278,2024-06-28,Delivered,COD
+2987,107,2024-05-13,Cancelled,Debit Card
+2988,475,2025-06-18,Delivered,UPI
+2989,24,2024-07-02,Delivered,Debit Card
+2990,18,2024-05-27,Delivered,Debit Card
+2991,362,2024-06-16,Cancelled,COD
+2992,37,2025-11-11,Delivered,Credit Card
+2993,27,2024-11-30,Delivered,Credit Card
+2994,44,2025-03-04,Delivered,UPI
+2995,107,2024-12-31,Delivered,Debit Card
+2996,193,2024-07-07,Delivered,UPI
+2997,349,2024-04-16,Delivered,Net Banking
+2998,126,2025-03-15,Delivered,Net Banking
+2999,348,2024-07-23,Delivered,COD
+3000,229,2023-11-26,Delivered,Debit Card
+3001,456,2025-02-07,Delivered,Credit Card
+3002,396,2024-10-20,Delivered,Net Banking
+3003,365,2025-05-16,Delivered,Net Banking
+3004,130,2024-09-26,Delivered,UPI
+3005,491,2023-12-29,Delivered,COD
+3006,103,2024-09-16,Delivered,UPI
+3007,31,2025-04-06,Delivered,UPI
+3008,210,2023-06-21,Delivered,Debit Card
+3009,491,2024-04-07,Delivered,COD
+3010,67,2025-06-04,Returned,COD
+3011,386,2024-06-02,Delivered,COD
+3012,42,2024-06-08,Delivered,UPI
+3013,160,2024-09-02,Delivered,COD
+3014,332,2025-01-20,Delivered,COD
+3015,440,2025-02-05,Delivered,COD
+3016,308,2024-08-17,Delivered,UPI
+3017,119,2024-03-27,Delivered,Credit Card
+3018,143,2023-05-04,Delivered,Credit Card
+3019,111,2024-07-11,Delivered,Net Banking
+3020,445,2024-06-02,Delivered,Net Banking
+3021,154,2024-04-23,Delivered,Credit Card
+3022,477,2023-10-28,Returned,Credit Card
+3023,444,2024-06-04,Delivered,COD
+3024,40,2025-07-21,Delivered,Credit Card
+3025,484,2024-04-28,Cancelled,Debit Card
+3026,61,2024-01-19,Delivered,Net Banking
+3027,156,2024-12-11,Delivered,UPI
+3028,111,2025-01-07,Delivered,UPI
+3029,101,2023-08-09,Cancelled,UPI
+3030,53,2025-07-17,Delivered,Debit Card
+3031,473,2024-12-18,Delivered,UPI
+3032,206,2024-05-23,Delivered,Credit Card
+3033,28,2024-02-18,Cancelled,Debit Card
+3034,6,2024-06-02,Delivered,Net Banking
+3035,455,2025-01-04,Delivered,Debit Card
+3036,222,2025-05-16,Delivered,Debit Card
+3037,380,2025-04-09,Cancelled,Net Banking
+3038,214,2024-01-01,Delivered,UPI
+3039,316,2024-07-31,Delivered,UPI
+3040,214,2024-11-15,Delivered,Credit Card
+3041,206,2025-07-30,Delivered,COD
+3042,363,2025-04-20,Delivered,UPI
+3043,325,2025-01-31,Delivered,Debit Card
+3044,26,2025-01-10,Delivered,Credit Card
+3045,174,2024-04-28,Delivered,Credit Card
+3046,180,2023-12-22,Delivered,Debit Card
+3047,263,2025-02-08,Returned,UPI
+3048,15,2024-05-17,Delivered,Credit Card
+3049,245,2024-05-27,Delivered,COD
+3050,325,2025-06-09,Delivered,Net Banking
+3051,200,2023-10-14,Delivered,Debit Card
+3052,272,2024-11-30,Delivered,Net Banking
+3053,467,2024-09-02,Cancelled,Net Banking
+3054,12,2025-05-19,Returned,UPI
+3055,302,2024-10-11,Delivered,COD
+3056,132,2025-03-05,Delivered,Net Banking
+3057,158,2024-12-07,Delivered,UPI
+3058,226,2024-03-27,Delivered,Credit Card
+3059,420,2025-01-18,Delivered,Credit Card
+3060,285,2023-03-24,Delivered,Net Banking
+3061,77,2025-02-15,Delivered,Credit Card
+3062,270,2025-06-21,Returned,Net Banking
+3063,262,2024-09-10,Delivered,COD
+3064,10,2024-10-20,Delivered,COD
+3065,376,2025-09-28,Delivered,Debit Card
+3066,166,2025-08-10,Returned,Debit Card
+3067,352,2023-10-03,Delivered,Debit Card
+3068,115,2024-04-19,Delivered,COD
+3069,329,2024-07-13,Delivered,UPI
+3070,490,2023-07-28,Delivered,Net Banking
+3071,295,2025-03-13,Delivered,Credit Card
+3072,389,2024-11-08,Delivered,Credit Card
+3073,284,2024-07-31,Delivered,Net Banking
+3074,105,2023-03-26,Delivered,Debit Card
+3075,407,2024-04-05,Returned,COD
+3076,168,2025-07-31,Delivered,COD
+3077,477,2025-05-28,Delivered,COD
+3078,474,2024-02-29,Delivered,Debit Card
+3079,179,2024-11-12,Delivered,Credit Card
+3080,11,2024-04-08,Delivered,COD
+3081,198,2025-07-16,Delivered,Debit Card
+3082,263,2024-10-08,Delivered,COD
+3083,176,2024-10-10,Delivered,Net Banking
+3084,294,2023-09-02,Delivered,Debit Card
+3085,174,2025-04-08,Delivered,UPI
+3086,390,2025-03-26,Delivered,Debit Card
+3087,164,2024-07-30,Delivered,UPI
+3088,135,2025-03-07,Delivered,Credit Card
+3089,173,2024-10-18,Delivered,Net Banking
+3090,394,2024-12-14,Delivered,UPI
+3091,178,2025-06-04,Delivered,Net Banking
+3092,64,2023-07-24,Returned,Debit Card
+3093,493,2024-05-16,Delivered,UPI
+3094,257,2024-10-02,Delivered,Debit Card
+3095,325,2025-09-17,Delivered,UPI
+3096,341,2024-03-08,Delivered,Credit Card
+3097,155,2025-03-19,Delivered,Debit Card
+3098,398,2025-01-18,Delivered,Credit Card
+3099,10,2023-02-10,Delivered,Debit Card
+3100,131,2025-03-02,Delivered,COD
+3101,175,2024-06-12,Cancelled,Net Banking
+3102,14,2023-11-24,Delivered,COD
+3103,16,2025-01-04,Delivered,UPI
+3104,279,2023-06-21,Delivered,Net Banking
+3105,204,2025-02-10,Returned,Credit Card
+3106,122,2025-04-27,Delivered,Net Banking
+3107,405,2025-12-06,Delivered,Credit Card
+3108,209,2024-11-10,Delivered,UPI
+3109,496,2025-04-07,Delivered,Debit Card
+3110,439,2024-10-02,Delivered,COD
+3111,396,2024-10-10,Delivered,COD
+3112,494,2024-04-29,Delivered,UPI
+3113,322,2024-07-18,Delivered,Debit Card
+3114,486,2024-07-01,Cancelled,COD
+3115,136,2024-12-20,Delivered,UPI
+3116,54,2025-08-11,Delivered,Credit Card
+3117,413,2025-06-05,Delivered,UPI
+3118,389,2025-10-04,Delivered,Debit Card
+3119,420,2024-07-26,Delivered,Debit Card
+3120,495,2024-02-10,Delivered,Debit Card
+3121,228,2024-12-21,Delivered,COD
+3122,42,2024-10-21,Delivered,Credit Card
+3123,102,2024-11-07,Delivered,Debit Card
+3124,450,2024-10-28,Delivered,Debit Card
+3125,216,2024-12-09,Delivered,COD
+3126,74,2024-09-29,Delivered,Debit Card
+3127,326,2025-05-15,Delivered,UPI
+3128,265,2024-11-07,Delivered,UPI
+3129,424,2024-03-20,Delivered,COD
+3130,314,2023-11-06,Delivered,UPI
+3131,199,2025-02-11,Delivered,Debit Card
+3132,153,2023-04-27,Delivered,UPI
+3133,443,2023-09-04,Delivered,Net Banking
+3134,489,2024-08-08,Delivered,Debit Card
+3135,327,2024-12-24,Returned,Credit Card
+3136,217,2024-01-26,Delivered,UPI
+3137,443,2023-04-06,Delivered,Net Banking
+3138,258,2024-03-25,Delivered,Credit Card
+3139,412,2024-04-02,Delivered,UPI
+3140,396,2024-12-09,Delivered,Debit Card
+3141,25,2023-09-25,Returned,UPI
+3142,170,2023-10-03,Delivered,Net Banking
+3143,253,2024-10-18,Delivered,COD
+3144,156,2025-06-27,Delivered,Debit Card
+3145,285,2025-01-15,Delivered,Credit Card
+3146,233,2025-03-24,Delivered,COD
+3147,199,2023-08-19,Delivered,Debit Card
+3148,432,2025-01-15,Delivered,UPI
+3149,406,2024-04-25,Delivered,COD
+3150,175,2025-11-18,Delivered,UPI
+3151,448,2024-05-30,Cancelled,Credit Card
+3152,233,2024-10-12,Delivered,Net Banking
+3153,489,2023-07-31,Cancelled,COD
+3154,381,2024-05-18,Delivered,Debit Card
+3155,350,2024-01-17,Delivered,Debit Card
+3156,490,2024-10-28,Delivered,Net Banking
+3157,368,2025-08-30,Delivered,UPI
+3158,18,2024-11-23,Delivered,COD
+3159,423,2024-12-04,Delivered,COD
+3160,473,2025-04-25,Delivered,UPI
+3161,284,2023-11-25,Delivered,Credit Card
+3162,462,2024-11-18,Delivered,Credit Card
+3163,398,2025-02-12,Delivered,Credit Card
+3164,12,2024-05-09,Delivered,UPI
+3165,175,2023-12-04,Delivered,COD
+3166,176,2023-12-12,Delivered,UPI
+3167,424,2024-11-12,Delivered,Debit Card
+3168,392,2025-01-13,Delivered,UPI
+3169,272,2025-07-07,Delivered,Debit Card
+3170,497,2025-11-13,Delivered,Debit Card
+3171,118,2024-02-02,Delivered,Credit Card
+3172,461,2023-06-22,Delivered,Debit Card
+3173,290,2025-04-27,Delivered,COD
+3174,359,2025-05-07,Delivered,Credit Card
+3175,296,2025-07-18,Delivered,Debit Card
+3176,278,2025-03-27,Delivered,UPI
+3177,92,2025-02-22,Delivered,Debit Card
+3178,82,2023-12-25,Delivered,UPI
+3179,485,2024-05-25,Delivered,COD
+3180,35,2025-06-04,Delivered,Debit Card
+3181,10,2025-01-24,Delivered,Debit Card
+3182,423,2024-05-06,Delivered,COD
+3183,478,2025-03-13,Returned,Credit Card
+3184,73,2025-08-28,Returned,Net Banking
+3185,46,2023-07-27,Delivered,Debit Card
+3186,249,2023-12-10,Delivered,Net Banking
+3187,4,2025-01-15,Delivered,UPI
+3188,317,2023-12-07,Delivered,UPI
+3189,181,2025-03-06,Delivered,Credit Card
+3190,102,2025-01-22,Delivered,Net Banking
+3191,481,2024-11-15,Delivered,Debit Card
+3192,85,2024-05-12,Cancelled,COD
+3193,57,2025-02-19,Cancelled,Debit Card
+3194,265,2024-12-26,Returned,Credit Card
+3195,389,2024-09-19,Returned,COD
+3196,157,2024-02-14,Delivered,Debit Card
+3197,173,2024-10-07,Returned,Debit Card
+3198,469,2024-01-06,Delivered,Credit Card
+3199,151,2024-05-24,Delivered,COD
+3200,213,2024-03-22,Delivered,Credit Card
+3201,305,2024-07-19,Delivered,UPI
+3202,44,2024-12-22,Delivered,Debit Card
+3203,59,2025-08-18,Delivered,Credit Card
+3204,7,2025-09-22,Delivered,UPI
+3205,84,2025-04-21,Delivered,Net Banking
+3206,245,2024-10-11,Delivered,UPI
+3207,207,2025-04-07,Delivered,UPI
+3208,233,2024-05-27,Delivered,Debit Card
+3209,362,2025-05-18,Delivered,Debit Card
+3210,253,2024-08-15,Delivered,UPI
+3211,101,2024-03-19,Delivered,Credit Card
+3212,303,2025-04-06,Delivered,Debit Card
+3213,128,2024-09-24,Delivered,Net Banking
+3214,120,2025-08-06,Delivered,Credit Card
+3215,433,2024-06-05,Delivered,Debit Card
+3216,235,2025-03-01,Delivered,Credit Card
+3217,65,2024-08-14,Delivered,Credit Card
+3218,188,2025-02-26,Returned,Debit Card
+3219,27,2025-12-02,Delivered,Credit Card
+3220,439,2025-04-28,Delivered,Debit Card
+3221,39,2025-04-02,Delivered,Credit Card
+3222,477,2025-09-08,Delivered,UPI
+3223,184,2025-03-25,Delivered,UPI
+3224,9,2024-08-21,Delivered,COD
+3225,344,2025-05-25,Delivered,Net Banking
+3226,1,2025-06-11,Delivered,UPI
+3227,288,2024-06-08,Delivered,Net Banking
+3228,494,2024-03-10,Delivered,Net Banking
+3229,470,2023-07-16,Delivered,COD
+3230,269,2025-05-10,Delivered,UPI
+3231,481,2023-11-13,Delivered,Net Banking
+3232,181,2024-11-15,Delivered,Debit Card
+3233,389,2025-11-13,Delivered,Credit Card
+3234,80,2024-10-09,Delivered,Credit Card
+3235,216,2024-03-05,Delivered,COD
+3236,228,2024-08-14,Cancelled,Net Banking
+3237,312,2025-10-04,Delivered,COD
+3238,289,2024-10-10,Delivered,COD
+3239,445,2024-07-25,Delivered,COD
+3240,156,2024-08-16,Delivered,UPI
+3241,69,2025-03-04,Delivered,Debit Card
+3242,361,2025-04-02,Delivered,Credit Card
+3243,286,2024-10-20,Delivered,Net Banking
+3244,79,2024-10-10,Delivered,UPI
+3245,490,2025-08-30,Delivered,Debit Card
+3246,17,2024-05-23,Delivered,UPI
+3247,122,2025-01-13,Delivered,COD
+3248,104,2024-03-09,Delivered,Debit Card
+3249,41,2023-06-11,Delivered,Debit Card
+3250,499,2024-10-18,Delivered,UPI
+3251,212,2025-11-04,Delivered,Credit Card
+3252,80,2023-12-23,Delivered,Debit Card
+3253,460,2023-12-03,Cancelled,UPI
+3254,500,2025-05-26,Cancelled,Credit Card
+3255,23,2024-12-03,Delivered,UPI
+3256,364,2024-09-06,Delivered,UPI
+3257,299,2025-01-03,Delivered,Credit Card
+3258,166,2024-08-07,Delivered,Debit Card
+3259,133,2024-01-10,Delivered,Credit Card
+3260,126,2025-03-07,Delivered,Credit Card
+3261,38,2024-03-21,Delivered,UPI
+3262,310,2025-04-12,Delivered,Net Banking
+3263,477,2024-04-25,Delivered,UPI
+3264,74,2025-02-08,Returned,COD
+3265,24,2023-08-24,Delivered,UPI
+3266,484,2023-10-29,Delivered,Net Banking
+3267,81,2025-02-23,Delivered,UPI
+3268,20,2024-06-06,Delivered,COD
+3269,463,2023-07-24,Delivered,UPI
+3270,12,2024-03-07,Delivered,Debit Card
+3271,242,2024-06-19,Delivered,UPI
+3272,480,2024-03-09,Delivered,Debit Card
+3273,363,2024-12-30,Delivered,Net Banking
+3274,427,2023-09-06,Delivered,Credit Card
+3275,34,2024-03-28,Delivered,Net Banking
+3276,429,2023-10-04,Delivered,UPI
+3277,477,2023-07-01,Delivered,UPI
+3278,449,2024-12-25,Delivered,Net Banking
+3279,13,2025-04-25,Cancelled,COD
+3280,294,2024-10-10,Returned,Net Banking
+3281,57,2024-11-10,Returned,UPI
+3282,19,2023-08-02,Delivered,UPI
+3283,484,2024-05-22,Cancelled,Debit Card
+3284,119,2024-05-09,Delivered,Net Banking
+3285,192,2025-07-28,Returned,Credit Card
+3286,120,2024-03-05,Delivered,UPI
+3287,198,2024-03-09,Delivered,Net Banking
+3288,233,2023-10-29,Delivered,Net Banking
+3289,476,2025-03-06,Returned,Net Banking
+3290,416,2024-10-09,Delivered,COD
+3291,392,2023-11-26,Delivered,Net Banking
+3292,187,2023-03-13,Delivered,UPI
+3293,61,2024-12-30,Returned,UPI
+3294,301,2025-02-20,Delivered,Credit Card
+3295,152,2023-10-26,Delivered,Debit Card
+3296,129,2025-03-03,Delivered,COD
+3297,310,2024-06-14,Delivered,UPI
+3298,4,2025-10-21,Delivered,UPI
+3299,218,2025-05-02,Delivered,UPI
+3300,438,2025-08-22,Delivered,UPI
+3301,341,2025-05-27,Cancelled,Net Banking
+3302,38,2025-08-04,Delivered,Debit Card
+3303,186,2025-07-04,Cancelled,COD
+3304,272,2025-04-03,Delivered,Credit Card
+3305,204,2025-03-08,Delivered,UPI
+3306,98,2023-06-09,Delivered,UPI
+3307,313,2025-07-15,Delivered,COD
+3308,117,2024-12-08,Delivered,Debit Card
+3309,413,2025-04-23,Delivered,UPI
+3310,310,2024-12-15,Delivered,Net Banking
+3311,465,2024-06-07,Delivered,Debit Card
+3312,411,2025-09-09,Returned,COD
+3313,498,2024-06-04,Delivered,UPI
+3314,246,2024-12-02,Delivered,Debit Card
+3315,199,2025-01-18,Delivered,Credit Card
+3316,353,2024-12-11,Delivered,Debit Card
+3317,166,2023-12-24,Delivered,UPI
+3318,291,2025-01-06,Cancelled,COD
+3319,251,2025-05-10,Delivered,Debit Card
+3320,38,2025-02-11,Delivered,Credit Card
+3321,187,2023-10-28,Returned,Debit Card
+3322,204,2023-07-13,Cancelled,UPI
+3323,262,2024-11-30,Delivered,Credit Card
+3324,226,2024-01-23,Delivered,COD
+3325,12,2024-09-19,Delivered,Credit Card
+3326,221,2025-01-02,Delivered,Credit Card
+3327,351,2024-06-23,Delivered,UPI
+3328,107,2025-06-14,Delivered,UPI
+3329,165,2023-12-03,Delivered,Net Banking
+3330,73,2024-05-02,Delivered,Debit Card
+3331,59,2024-02-28,Cancelled,Net Banking
+3332,447,2024-12-29,Delivered,COD
+3333,286,2024-08-03,Delivered,Debit Card
+3334,466,2024-07-25,Delivered,UPI
+3335,3,2024-12-13,Delivered,Net Banking
+3336,169,2023-06-05,Delivered,UPI
+3337,426,2025-08-19,Delivered,Net Banking
+3338,4,2023-11-19,Delivered,UPI
+3339,396,2025-03-10,Delivered,Debit Card
+3340,283,2025-04-16,Returned,Debit Card
+3341,180,2024-05-30,Returned,UPI
+3342,60,2023-11-02,Returned,Credit Card
+3343,43,2023-07-07,Cancelled,Debit Card
+3344,457,2025-07-05,Delivered,UPI
+3345,435,2025-04-19,Delivered,Credit Card
+3346,169,2025-09-03,Cancelled,Debit Card
+3347,165,2024-08-19,Delivered,Net Banking
+3348,304,2024-09-19,Delivered,Credit Card
+3349,74,2024-08-23,Delivered,Debit Card
+3350,1,2025-11-30,Delivered,Debit Card
+3351,268,2024-07-29,Delivered,COD
+3352,349,2024-09-25,Delivered,Credit Card
+3353,55,2024-08-07,Delivered,Credit Card
+3354,465,2023-10-31,Returned,COD
+3355,188,2023-12-23,Delivered,Net Banking
+3356,295,2024-03-29,Delivered,Credit Card
+3357,122,2023-03-01,Delivered,Debit Card
+3358,329,2025-02-12,Delivered,Debit Card
+3359,464,2024-08-16,Delivered,COD
+3360,153,2025-01-26,Delivered,Debit Card
+3361,442,2025-01-16,Delivered,UPI
+3362,161,2024-10-27,Delivered,Credit Card
+3363,157,2024-03-12,Delivered,COD
+3364,49,2025-09-03,Returned,Credit Card
+3365,112,2024-10-28,Delivered,Credit Card
+3366,463,2023-04-20,Delivered,Net Banking
+3367,45,2024-02-09,Delivered,Credit Card
+3368,170,2025-02-05,Delivered,Debit Card
+3369,66,2023-12-16,Delivered,COD
+3370,454,2025-01-02,Delivered,Credit Card
+3371,77,2025-07-15,Delivered,COD
+3372,159,2024-08-27,Delivered,Debit Card
+3373,283,2024-01-10,Delivered,Net Banking
+3374,387,2025-02-08,Delivered,COD
+3375,87,2025-07-09,Delivered,Net Banking
+3376,356,2024-08-28,Delivered,UPI
+3377,109,2025-09-21,Delivered,COD
+3378,411,2024-11-17,Delivered,Credit Card
+3379,99,2025-05-30,Delivered,Net Banking
+3380,92,2023-06-09,Delivered,Credit Card
+3381,289,2025-06-24,Delivered,Credit Card
+3382,347,2025-08-23,Delivered,UPI
+3383,469,2025-01-20,Delivered,UPI
+3384,244,2024-09-10,Returned,UPI
+3385,352,2025-01-23,Delivered,Credit Card
+3386,401,2025-07-22,Delivered,Credit Card
+3387,44,2023-05-28,Delivered,COD
+3388,335,2024-10-30,Delivered,Debit Card
+3389,287,2024-05-15,Delivered,Net Banking
+3390,78,2024-08-14,Delivered,Net Banking
+3391,361,2024-04-20,Delivered,Net Banking
+3392,420,2024-12-05,Delivered,UPI
+3393,91,2025-12-15,Delivered,Credit Card
+3394,464,2024-10-20,Delivered,UPI
+3395,240,2024-06-11,Delivered,UPI
+3396,263,2024-12-24,Delivered,Credit Card
+3397,101,2023-02-03,Delivered,UPI
+3398,407,2024-11-02,Delivered,COD
+3399,239,2023-08-25,Delivered,Credit Card
+3400,345,2025-10-17,Delivered,UPI
+3401,226,2023-05-12,Delivered,UPI
+3402,53,2025-06-10,Delivered,UPI
+3403,242,2025-08-23,Delivered,UPI
+3404,375,2024-12-12,Delivered,COD
+3405,28,2023-09-27,Delivered,UPI
+3406,27,2025-02-08,Delivered,COD
+3407,179,2023-07-25,Delivered,Net Banking
+3408,90,2025-02-11,Delivered,UPI
+3409,307,2024-03-24,Delivered,Net Banking
+3410,316,2025-02-09,Delivered,Debit Card
+3411,399,2023-11-11,Delivered,COD
+3412,97,2025-07-04,Delivered,Net Banking
+3413,402,2024-12-09,Delivered,COD
+3414,429,2025-07-19,Delivered,Debit Card
+3415,24,2024-12-24,Delivered,Net Banking
+3416,141,2024-10-29,Delivered,Net Banking
+3417,258,2025-04-18,Delivered,Debit Card
+3418,317,2023-06-03,Delivered,COD
+3419,75,2024-04-06,Cancelled,Net Banking
+3420,30,2025-02-16,Returned,Net Banking
+3421,347,2024-04-13,Delivered,Net Banking
+3422,424,2024-04-05,Delivered,UPI
+3423,334,2025-02-18,Delivered,Net Banking
+3424,440,2023-12-26,Delivered,Credit Card
+3425,170,2024-06-25,Delivered,Credit Card
+3426,412,2025-05-27,Delivered,Debit Card
+3427,299,2024-05-22,Delivered,COD
+3428,25,2024-06-26,Delivered,Debit Card
+3429,269,2025-11-13,Delivered,COD
+3430,232,2024-04-20,Delivered,UPI
+3431,70,2025-07-28,Delivered,Net Banking
+3432,358,2025-11-06,Delivered,Debit Card
+3433,143,2024-01-02,Delivered,Net Banking
+3434,369,2024-04-05,Delivered,Debit Card
+3435,412,2024-08-21,Delivered,Credit Card
+3436,315,2024-08-28,Delivered,UPI
+3437,124,2025-07-26,Delivered,Credit Card
+3438,146,2025-01-23,Delivered,Debit Card
+3439,67,2025-04-24,Delivered,Credit Card
+3440,277,2025-07-07,Delivered,UPI
+3441,119,2024-08-15,Delivered,Debit Card
+3442,283,2025-01-11,Delivered,Credit Card
+3443,277,2024-11-07,Delivered,Net Banking
+3444,140,2025-08-28,Delivered,Net Banking
+3445,147,2025-05-17,Delivered,UPI
+3446,430,2025-02-04,Delivered,Net Banking
+3447,470,2025-03-19,Delivered,COD
+3448,219,2024-08-06,Returned,Debit Card
+3449,15,2024-07-29,Delivered,Credit Card
+3450,426,2024-12-01,Delivered,UPI
+3451,388,2025-06-08,Cancelled,Debit Card
+3452,333,2024-02-15,Delivered,COD
+3453,110,2024-04-17,Delivered,Debit Card
+3454,343,2025-03-18,Delivered,Credit Card
+3455,391,2024-04-17,Delivered,Credit Card
+3456,372,2024-11-06,Delivered,Credit Card
+3457,216,2025-04-13,Delivered,Debit Card
+3458,431,2024-11-10,Delivered,Debit Card
+3459,475,2024-11-02,Returned,COD
+3460,320,2025-02-28,Delivered,Credit Card
+3461,471,2024-11-15,Delivered,UPI
+3462,315,2024-04-02,Delivered,Debit Card
+3463,13,2024-10-15,Delivered,Net Banking
+3464,25,2025-08-17,Delivered,Credit Card
+3465,193,2025-06-06,Delivered,Credit Card
+3466,281,2025-06-25,Delivered,UPI
+3467,112,2024-07-19,Delivered,Debit Card
+3468,393,2024-01-16,Delivered,Debit Card
+3469,175,2025-09-08,Delivered,Net Banking
+3470,69,2025-01-12,Delivered,UPI
+3471,39,2024-05-15,Delivered,Net Banking
+3472,340,2025-03-15,Returned,Credit Card
+3473,50,2025-01-24,Delivered,Net Banking
+3474,152,2024-05-23,Delivered,UPI
+3475,263,2024-02-25,Delivered,Net Banking
+3476,350,2025-03-09,Delivered,Credit Card
+3477,89,2025-03-14,Delivered,COD
+3478,91,2024-04-13,Delivered,UPI
+3479,363,2024-12-06,Delivered,COD
+3480,209,2024-06-17,Delivered,Net Banking
+3481,364,2025-04-21,Delivered,UPI
+3482,237,2024-01-28,Delivered,COD
+3483,60,2025-05-02,Delivered,Credit Card
+3484,258,2025-02-26,Delivered,Credit Card
+3485,317,2023-06-23,Delivered,Net Banking
+3486,212,2024-07-30,Delivered,Debit Card
+3487,303,2024-12-10,Delivered,Credit Card
+3488,288,2024-08-09,Delivered,Credit Card
+3489,442,2024-09-06,Delivered,COD
+3490,440,2023-09-30,Delivered,Net Banking
+3491,58,2025-06-06,Delivered,Credit Card
+3492,15,2024-07-21,Cancelled,UPI
+3493,30,2024-08-07,Delivered,COD
+3494,335,2025-02-25,Delivered,Credit Card
+3495,428,2024-08-10,Delivered,COD
+3496,314,2025-05-29,Delivered,Credit Card
+3497,305,2023-04-20,Delivered,COD
+3498,354,2024-04-10,Delivered,UPI
+3499,401,2025-05-02,Delivered,COD
+3500,433,2024-05-25,Delivered,COD
+3501,357,2024-05-14,Delivered,Net Banking
+3502,431,2025-03-11,Delivered,Credit Card
+3503,73,2025-05-16,Delivered,Net Banking
+3504,401,2025-08-31,Delivered,Credit Card
+3505,101,2025-02-27,Delivered,Net Banking
+3506,187,2024-04-17,Delivered,COD
+3507,246,2024-09-05,Returned,Debit Card
+3508,20,2023-10-06,Delivered,UPI
+3509,205,2024-09-14,Delivered,Debit Card
+3510,384,2023-10-28,Delivered,Debit Card
+3511,110,2024-06-06,Delivered,UPI
+3512,198,2023-10-26,Returned,Credit Card
+3513,174,2024-06-23,Delivered,Debit Card
+3514,257,2025-03-16,Cancelled,COD
+3515,102,2025-04-24,Delivered,Debit Card
+3516,218,2024-08-22,Delivered,Credit Card
+3517,193,2025-09-20,Delivered,COD
+3518,119,2025-04-19,Delivered,UPI
+3519,465,2025-02-12,Delivered,Net Banking
+3520,133,2025-02-17,Delivered,UPI
+3521,447,2024-05-02,Delivered,COD
+3522,172,2025-01-30,Delivered,UPI
+3523,384,2024-05-14,Delivered,Net Banking
+3524,244,2025-03-22,Delivered,Debit Card
+3525,455,2025-06-24,Returned,UPI
+3526,146,2025-01-31,Delivered,Debit Card
+3527,117,2024-03-07,Delivered,COD
+3528,490,2023-10-10,Delivered,UPI
+3529,485,2024-11-28,Delivered,Net Banking
+3530,39,2024-08-18,Delivered,Credit Card
+3531,358,2024-05-11,Returned,Debit Card
+3532,397,2025-03-01,Delivered,Net Banking
+3533,415,2025-02-07,Delivered,Debit Card
+3534,167,2024-08-25,Delivered,COD
+3535,492,2024-11-08,Delivered,UPI
+3536,62,2025-03-09,Delivered,COD
+3537,365,2024-04-17,Delivered,UPI
+3538,109,2025-07-20,Cancelled,Net Banking
+3539,430,2024-11-30,Cancelled,COD
+3540,62,2024-12-01,Delivered,Debit Card
+3541,333,2023-10-03,Delivered,Net Banking
+3542,208,2024-08-21,Delivered,UPI
+3543,282,2025-05-19,Cancelled,Net Banking
+3544,343,2025-03-25,Delivered,UPI
+3545,384,2025-05-11,Delivered,UPI
+3546,32,2024-11-05,Delivered,Net Banking
+3547,410,2023-06-28,Delivered,UPI
+3548,356,2024-01-03,Delivered,COD
+3549,31,2024-08-21,Delivered,Debit Card
+3550,203,2024-09-03,Delivered,Debit Card
+3551,301,2023-10-28,Delivered,COD
+3552,77,2023-12-07,Delivered,COD
+3553,475,2024-01-23,Delivered,COD
+3554,420,2025-03-23,Delivered,UPI
+3555,140,2025-01-22,Delivered,COD
+3556,247,2024-11-29,Delivered,Net Banking
+3557,108,2025-05-15,Delivered,COD
+3558,133,2024-03-11,Delivered,Net Banking
+3559,96,2025-02-07,Delivered,Net Banking
+3560,242,2024-03-24,Delivered,UPI
+3561,129,2025-01-27,Returned,UPI
+3562,120,2024-02-20,Returned,Credit Card
+3563,496,2025-01-15,Delivered,Debit Card
+3564,269,2023-10-25,Delivered,Debit Card
+3565,335,2023-05-01,Delivered,Debit Card
+3566,426,2024-05-29,Delivered,UPI
+3567,81,2025-01-07,Delivered,UPI
+3568,102,2025-05-06,Delivered,Net Banking
+3569,372,2024-02-27,Cancelled,Net Banking
+3570,356,2024-03-05,Delivered,Credit Card
+3571,346,2024-12-14,Delivered,Debit Card
+3572,203,2024-06-22,Delivered,Net Banking
+3573,115,2025-01-22,Cancelled,COD
+3574,348,2024-12-06,Delivered,Credit Card
+3575,456,2025-01-04,Delivered,Credit Card
+3576,53,2024-01-20,Delivered,Net Banking
+3577,132,2024-12-23,Delivered,Net Banking
+3578,147,2025-04-12,Delivered,COD
+3579,112,2024-11-01,Delivered,Credit Card
+3580,193,2024-07-30,Delivered,Credit Card
+3581,424,2025-03-04,Delivered,Credit Card
+3582,307,2024-12-03,Cancelled,COD
+3583,281,2023-04-06,Delivered,COD
+3584,212,2025-03-19,Delivered,COD
+3585,481,2024-07-17,Delivered,COD
+3586,395,2025-07-17,Delivered,Debit Card
+3587,127,2024-10-17,Delivered,COD
+3588,406,2025-07-16,Delivered,Credit Card
+3589,294,2024-10-24,Delivered,Debit Card
+3590,278,2024-02-14,Delivered,Debit Card
+3591,418,2024-05-04,Delivered,UPI
+3592,166,2024-01-07,Delivered,Credit Card
+3593,312,2024-08-09,Cancelled,Credit Card
+3594,184,2025-06-12,Delivered,COD
+3595,17,2024-07-11,Delivered,Net Banking
+3596,159,2024-06-21,Delivered,Debit Card
+3597,109,2025-04-21,Delivered,Debit Card
+3598,63,2025-07-16,Delivered,UPI
+3599,23,2025-04-28,Cancelled,Credit Card
+3600,364,2025-04-13,Delivered,UPI
+3601,309,2024-06-08,Delivered,Credit Card
+3602,206,2025-03-02,Delivered,Credit Card
+3603,403,2024-12-17,Delivered,Credit Card
+3604,182,2024-05-22,Delivered,UPI
+3605,321,2025-07-16,Delivered,Debit Card
+3606,344,2024-12-10,Delivered,Net Banking
+3607,257,2024-09-11,Delivered,COD
+3608,486,2024-06-05,Delivered,Credit Card
+3609,79,2024-08-31,Cancelled,Credit Card
+3610,296,2024-02-17,Delivered,Credit Card
+3611,484,2025-02-02,Cancelled,Credit Card
+3612,268,2024-10-20,Delivered,COD
+3613,205,2023-03-19,Delivered,Credit Card
+3614,252,2024-09-04,Delivered,Credit Card
+3615,33,2025-05-11,Delivered,UPI
+3616,167,2023-08-16,Delivered,Net Banking
+3617,146,2023-11-14,Delivered,Debit Card
+3618,391,2023-11-04,Delivered,Net Banking
+3619,46,2024-07-02,Delivered,UPI
+3620,353,2023-10-28,Returned,UPI
+3621,278,2023-07-12,Delivered,Net Banking
+3622,283,2025-04-23,Delivered,Debit Card
+3623,181,2024-12-04,Delivered,COD
+3624,257,2025-07-11,Delivered,Credit Card
+3625,351,2024-11-29,Delivered,Net Banking
+3626,317,2023-12-20,Delivered,Debit Card
+3627,390,2024-02-13,Delivered,Debit Card
+3628,308,2023-10-01,Delivered,Credit Card
+3629,323,2023-12-15,Delivered,COD
+3630,389,2023-09-30,Delivered,Credit Card
+3631,66,2024-12-23,Delivered,COD
+3632,255,2024-01-07,Delivered,Debit Card
+3633,488,2025-08-07,Delivered,UPI
+3634,175,2024-06-29,Delivered,COD
+3635,186,2024-02-01,Cancelled,UPI
+3636,375,2024-07-15,Returned,Debit Card
+3637,140,2023-11-19,Delivered,COD
+3638,125,2025-02-01,Delivered,UPI
+3639,133,2024-05-01,Returned,Credit Card
+3640,414,2025-06-02,Returned,COD
+3641,391,2024-10-11,Delivered,Debit Card
+3642,272,2024-09-03,Delivered,UPI
+3643,8,2023-11-05,Cancelled,Net Banking
+3644,177,2025-09-28,Cancelled,Net Banking
+3645,232,2024-10-26,Cancelled,Debit Card
+3646,253,2025-03-20,Delivered,Credit Card
+3647,104,2025-01-18,Delivered,UPI
+3648,284,2024-07-19,Delivered,Credit Card
+3649,195,2024-10-05,Returned,UPI
+3650,67,2025-03-06,Delivered,COD
+3651,285,2025-07-14,Delivered,Credit Card
+3652,337,2023-12-02,Delivered,COD
+3653,42,2025-04-23,Delivered,Debit Card
+3654,237,2024-07-09,Delivered,Credit Card
+3655,350,2025-04-27,Delivered,Credit Card
+3656,231,2024-12-13,Delivered,COD
+3657,308,2024-05-22,Delivered,Debit Card
+3658,272,2023-09-03,Delivered,UPI
+3659,112,2024-12-29,Delivered,Credit Card
+3660,83,2024-03-09,Delivered,Credit Card
+3661,160,2025-02-13,Delivered,Net Banking
+3662,371,2024-09-26,Delivered,Debit Card
+3663,441,2024-08-03,Cancelled,Debit Card
+3664,72,2025-09-10,Delivered,Net Banking
+3665,213,2025-05-29,Delivered,Net Banking
+3666,219,2024-09-12,Delivered,Credit Card
+3667,430,2024-12-17,Delivered,Credit Card
+3668,279,2025-06-22,Delivered,Credit Card
+3669,106,2025-07-16,Cancelled,Net Banking
+3670,496,2023-10-20,Delivered,UPI
+3671,46,2024-11-29,Delivered,UPI
+3672,321,2024-07-27,Returned,UPI
+3673,186,2024-07-07,Delivered,Net Banking
+3674,102,2024-12-09,Returned,Credit Card
+3675,251,2024-10-21,Delivered,COD
+3676,218,2025-04-13,Delivered,Debit Card
+3677,397,2024-07-04,Delivered,Net Banking
+3678,252,2024-09-07,Delivered,Credit Card
+3679,435,2025-04-27,Delivered,Debit Card
+3680,1,2024-11-09,Delivered,Credit Card
+3681,300,2023-09-13,Delivered,UPI
+3682,197,2025-04-20,Delivered,Debit Card
+3683,473,2024-11-12,Delivered,COD
+3684,19,2024-09-21,Delivered,COD
+3685,93,2024-02-16,Delivered,Credit Card
+3686,82,2024-12-04,Returned,Debit Card
+3687,228,2025-07-17,Delivered,Credit Card
+3688,348,2024-06-25,Delivered,COD
+3689,301,2025-05-01,Delivered,Debit Card
+3690,476,2023-08-23,Delivered,Debit Card
+3691,419,2025-06-02,Returned,Net Banking
+3692,140,2024-08-22,Returned,UPI
+3693,253,2024-08-11,Delivered,Debit Card
+3694,198,2025-03-16,Delivered,Net Banking
+3695,465,2025-05-27,Delivered,Debit Card
+3696,87,2024-09-14,Delivered,UPI
+3697,171,2025-01-08,Delivered,Credit Card
+3698,483,2024-11-27,Delivered,COD
+3699,474,2024-11-14,Delivered,Credit Card
+3700,195,2024-08-19,Delivered,Net Banking
+3701,244,2025-04-08,Delivered,Credit Card
+3702,370,2024-07-08,Delivered,Credit Card
+3703,53,2023-06-10,Delivered,Credit Card
+3704,324,2024-11-13,Delivered,Credit Card
+3705,219,2024-05-11,Delivered,COD
+3706,305,2023-11-09,Delivered,UPI
+3707,11,2025-06-14,Delivered,COD
+3708,168,2025-06-11,Delivered,Debit Card
+3709,129,2023-10-04,Delivered,Debit Card
+3710,243,2025-02-24,Delivered,Credit Card
+3711,372,2024-10-01,Delivered,Net Banking
+3712,326,2024-10-10,Delivered,Net Banking
+3713,49,2024-08-14,Delivered,Net Banking
+3714,307,2024-04-16,Delivered,Net Banking
+3715,259,2025-07-19,Delivered,UPI
+3716,208,2025-04-22,Delivered,Debit Card
+3717,19,2023-07-09,Cancelled,Net Banking
+3718,138,2024-11-12,Delivered,Credit Card
+3719,146,2024-06-20,Delivered,UPI
+3720,61,2023-04-04,Delivered,Net Banking
+3721,220,2025-08-22,Delivered,Net Banking
+3722,456,2025-11-15,Delivered,Net Banking
+3723,96,2024-02-23,Cancelled,UPI
+3724,366,2023-03-08,Delivered,Credit Card
+3725,82,2025-03-17,Delivered,UPI
+3726,494,2024-07-13,Delivered,Debit Card
+3727,238,2024-02-01,Delivered,Credit Card
+3728,500,2023-10-13,Returned,UPI
+3729,273,2025-02-01,Delivered,UPI
+3730,64,2024-11-11,Delivered,UPI
+3731,469,2024-09-18,Delivered,COD
+3732,169,2025-05-10,Delivered,Debit Card
+3733,275,2025-05-30,Delivered,Credit Card
+3734,259,2025-09-02,Delivered,Debit Card
+3735,270,2024-11-10,Delivered,UPI
+3736,263,2023-08-05,Delivered,COD
+3737,199,2024-10-24,Delivered,Debit Card
+3738,300,2024-11-27,Delivered,Debit Card
+3739,22,2025-02-28,Delivered,Debit Card
+3740,178,2025-08-02,Delivered,Net Banking
+3741,440,2024-10-30,Delivered,Credit Card
+3742,232,2025-03-31,Delivered,COD
+3743,363,2024-05-13,Delivered,Credit Card
+3744,316,2024-12-23,Delivered,COD
+3745,146,2024-12-25,Delivered,Debit Card
+3746,55,2025-05-21,Delivered,Credit Card
+3747,433,2024-08-30,Delivered,Credit Card
+3748,477,2025-07-05,Delivered,COD
+3749,401,2024-05-28,Delivered,Credit Card
+3750,413,2024-07-15,Delivered,Debit Card
+3751,492,2024-06-28,Delivered,Net Banking
+3752,173,2025-01-08,Returned,Debit Card
+3753,392,2025-09-23,Delivered,Net Banking
+3754,412,2023-03-24,Delivered,UPI
+3755,243,2024-02-24,Delivered,Debit Card
+3756,234,2025-03-03,Delivered,Credit Card
+3757,350,2025-08-10,Cancelled,UPI
+3758,46,2025-02-10,Delivered,Debit Card
+3759,105,2024-07-22,Delivered,Credit Card
+3760,352,2025-02-26,Delivered,Credit Card
+3761,341,2025-07-12,Delivered,Credit Card
+3762,109,2024-11-13,Delivered,Debit Card
+3763,379,2025-04-23,Delivered,Credit Card
+3764,381,2024-05-22,Delivered,COD
+3765,158,2025-04-30,Delivered,UPI
+3766,86,2025-02-12,Delivered,Net Banking
+3767,155,2025-05-06,Delivered,Net Banking
+3768,478,2023-10-06,Returned,COD
+3769,74,2024-06-05,Delivered,Debit Card
+3770,389,2025-04-16,Delivered,Net Banking
+3771,276,2025-01-30,Delivered,Credit Card
+3772,252,2024-08-02,Delivered,UPI
+3773,397,2025-02-25,Delivered,COD
+3774,267,2025-02-25,Cancelled,COD
+3775,410,2024-08-03,Returned,Debit Card
+3776,258,2025-04-21,Delivered,UPI
+3777,68,2025-05-24,Returned,COD
+3778,85,2025-07-18,Delivered,Debit Card
+3779,129,2024-02-15,Delivered,Credit Card
+3780,262,2025-10-12,Delivered,Debit Card
+3781,167,2023-07-30,Delivered,Net Banking
+3782,12,2025-08-17,Delivered,COD
+3783,437,2024-06-10,Delivered,UPI
+3784,289,2024-02-08,Delivered,COD
+3785,107,2024-05-09,Delivered,UPI
+3786,23,2025-05-05,Delivered,Credit Card
+3787,430,2024-09-25,Delivered,Debit Card
+3788,243,2025-05-22,Delivered,Credit Card
+3789,411,2025-09-04,Delivered,Debit Card
+3790,369,2025-06-30,Delivered,Credit Card
+3791,460,2025-03-22,Returned,Credit Card
+3792,480,2024-06-28,Delivered,COD
+3793,146,2024-01-04,Delivered,Net Banking
+3794,212,2023-10-03,Delivered,Debit Card
+3795,45,2024-02-24,Returned,Debit Card
+3796,233,2023-12-23,Delivered,Debit Card
+3797,208,2025-02-07,Delivered,COD
+3798,492,2023-03-24,Delivered,COD
+3799,396,2025-09-03,Delivered,Credit Card
+3800,446,2024-08-02,Delivered,Credit Card
+3801,119,2025-02-19,Delivered,Debit Card
+3802,215,2025-06-09,Delivered,UPI
+3803,91,2023-12-26,Delivered,Debit Card
+3804,170,2025-07-31,Delivered,Net Banking
+3805,397,2023-09-03,Delivered,UPI
+3806,26,2024-06-09,Delivered,Credit Card
+3807,214,2024-04-10,Delivered,Credit Card
+3808,239,2024-05-29,Delivered,UPI
+3809,135,2024-08-18,Delivered,COD
+3810,6,2025-04-11,Delivered,Debit Card
+3811,448,2025-02-23,Delivered,Net Banking
+3812,233,2024-11-11,Delivered,COD
+3813,122,2025-08-27,Cancelled,Net Banking
+3814,370,2025-02-13,Delivered,Net Banking
+3815,38,2025-03-03,Delivered,Credit Card
+3816,368,2024-07-07,Delivered,Debit Card
+3817,255,2023-05-18,Delivered,COD
+3818,483,2023-12-25,Delivered,COD
+3819,66,2023-06-01,Cancelled,COD
+3820,11,2025-06-01,Delivered,UPI
+3821,335,2024-11-28,Delivered,UPI
+3822,342,2025-04-21,Delivered,COD
+3823,143,2023-07-28,Delivered,COD
+3824,172,2023-10-31,Delivered,Net Banking
+3825,357,2024-07-16,Delivered,UPI
+3826,374,2025-05-28,Delivered,COD
+3827,218,2024-07-12,Delivered,Debit Card
+3828,58,2023-12-05,Delivered,COD
+3829,123,2024-09-20,Delivered,Net Banking
+3830,297,2024-08-04,Delivered,UPI
+3831,103,2023-09-23,Delivered,COD
+3832,300,2024-08-29,Delivered,Credit Card
+3833,126,2025-01-10,Delivered,COD
+3834,371,2025-04-19,Delivered,Debit Card
+3835,88,2024-08-31,Delivered,Net Banking
+3836,81,2024-02-08,Delivered,Net Banking
+3837,293,2024-09-20,Cancelled,Credit Card
+3838,262,2025-01-21,Delivered,UPI
+3839,330,2025-05-14,Delivered,Debit Card
+3840,433,2024-10-11,Delivered,COD
+3841,155,2024-05-28,Delivered,Credit Card
+3842,254,2025-02-16,Delivered,Net Banking
+3843,264,2025-01-05,Delivered,Credit Card
+3844,214,2025-01-20,Delivered,Net Banking
+3845,456,2024-11-15,Delivered,COD
+3846,31,2025-04-21,Delivered,UPI
+3847,243,2025-03-20,Delivered,Credit Card
+3848,1,2025-07-23,Delivered,Net Banking
+3849,391,2025-09-06,Delivered,Net Banking
+3850,408,2024-11-11,Delivered,UPI
+3851,154,2025-05-28,Delivered,COD
+3852,450,2025-05-18,Delivered,COD
+3853,84,2024-05-13,Delivered,Credit Card
+3854,251,2024-05-13,Delivered,UPI
+3855,471,2025-07-15,Cancelled,Net Banking
+3856,406,2023-07-30,Delivered,Net Banking
+3857,173,2024-08-08,Delivered,Debit Card
+3858,325,2024-01-16,Delivered,Debit Card
+3859,130,2024-06-27,Delivered,UPI
+3860,223,2025-02-07,Delivered,UPI
+3861,357,2025-07-08,Delivered,Debit Card
+3862,31,2024-01-22,Delivered,Credit Card
+3863,334,2025-02-13,Delivered,Net Banking
+3864,385,2024-05-13,Delivered,Net Banking
+3865,464,2024-01-02,Delivered,Credit Card
+3866,317,2024-06-02,Cancelled,Net Banking
+3867,235,2025-01-31,Returned,Debit Card
+3868,336,2023-11-12,Delivered,UPI
+3869,184,2024-03-12,Delivered,Net Banking
+3870,373,2025-09-27,Delivered,Debit Card
+3871,125,2023-09-25,Cancelled,Credit Card
+3872,496,2025-08-09,Delivered,Debit Card
+3873,417,2025-04-20,Delivered,COD
+3874,102,2025-07-21,Delivered,Net Banking
+3875,277,2023-08-01,Delivered,COD
+3876,174,2024-09-18,Delivered,Debit Card
+3877,353,2023-09-10,Delivered,Net Banking
+3878,177,2025-09-30,Delivered,COD
+3879,342,2025-03-18,Cancelled,Net Banking
+3880,386,2025-03-06,Delivered,Credit Card
+3881,408,2024-11-25,Returned,Net Banking
+3882,398,2025-01-10,Delivered,Net Banking
+3883,449,2024-02-02,Delivered,COD
+3884,421,2024-03-29,Delivered,COD
+3885,363,2024-04-12,Delivered,UPI
+3886,2,2025-11-27,Delivered,Debit Card
+3887,296,2024-05-12,Delivered,COD
+3888,361,2024-10-26,Cancelled,Credit Card
+3889,422,2025-01-01,Delivered,Debit Card
+3890,52,2024-06-23,Delivered,Credit Card
+3891,212,2023-10-18,Delivered,Debit Card
+3892,255,2024-12-23,Delivered,UPI
+3893,483,2024-12-28,Delivered,UPI
+3894,464,2025-06-18,Delivered,Credit Card
+3895,415,2024-10-25,Delivered,UPI
+3896,158,2025-08-18,Delivered,Debit Card
+3897,388,2024-08-31,Delivered,Credit Card
+3898,54,2025-11-04,Returned,Net Banking
+3899,401,2025-03-31,Cancelled,Debit Card
+3900,125,2025-04-21,Delivered,Debit Card
+3901,79,2023-09-01,Delivered,Debit Card
+3902,135,2023-12-10,Cancelled,UPI
+3903,406,2024-09-16,Delivered,Credit Card
+3904,493,2025-02-01,Delivered,Credit Card
+3905,54,2024-06-01,Delivered,Debit Card
+3906,1,2025-05-19,Delivered,Debit Card
+3907,492,2024-07-20,Delivered,Net Banking
+3908,76,2025-10-02,Delivered,Credit Card
+3909,251,2025-01-28,Delivered,UPI
+3910,377,2024-08-31,Delivered,Debit Card
+3911,273,2024-11-16,Cancelled,Credit Card
+3912,185,2023-07-04,Delivered,Debit Card
+3913,44,2025-04-25,Delivered,COD
+3914,347,2024-06-06,Delivered,UPI
+3915,99,2024-06-22,Returned,UPI
+3916,186,2023-12-17,Returned,Debit Card
+3917,162,2025-02-07,Delivered,COD
+3918,28,2023-03-27,Delivered,UPI
+3919,459,2023-08-08,Delivered,Debit Card
+3920,435,2025-08-09,Delivered,Net Banking
+3921,374,2025-03-02,Delivered,UPI
+3922,474,2025-02-02,Delivered,Net Banking
+3923,152,2025-04-09,Delivered,COD
+3924,455,2023-10-16,Delivered,Debit Card
+3925,77,2025-08-26,Cancelled,Credit Card
+3926,241,2024-11-23,Delivered,UPI
+3927,151,2024-05-14,Delivered,UPI
+3928,217,2024-07-27,Delivered,Net Banking
+3929,117,2025-04-19,Delivered,UPI
+3930,63,2025-05-28,Delivered,Credit Card
+3931,126,2025-10-06,Delivered,UPI
+3932,305,2024-09-29,Delivered,COD
+3933,236,2025-07-06,Delivered,Credit Card
+3934,417,2023-06-07,Delivered,Debit Card
+3935,344,2025-06-12,Delivered,UPI
+3936,59,2025-01-16,Delivered,UPI
+3937,333,2025-03-14,Delivered,UPI
+3938,443,2024-01-14,Delivered,COD
+3939,397,2023-12-12,Delivered,UPI
+3940,44,2025-04-15,Delivered,Debit Card
+3941,206,2025-09-24,Delivered,Net Banking
+3942,298,2025-05-25,Delivered,Debit Card
+3943,343,2024-02-29,Delivered,Debit Card
+3944,46,2025-02-02,Delivered,COD
+3945,243,2025-02-23,Delivered,COD
+3946,407,2024-08-07,Delivered,UPI
+3947,198,2024-09-08,Delivered,Net Banking
+3948,411,2025-04-24,Delivered,COD
+3949,11,2025-04-23,Delivered,Credit Card
+3950,441,2024-10-01,Delivered,Debit Card
+3951,315,2024-12-09,Delivered,Credit Card
+3952,289,2023-06-14,Delivered,Credit Card
+3953,104,2024-10-08,Delivered,COD
+3954,355,2025-02-10,Delivered,Debit Card
+3955,236,2025-08-10,Delivered,Debit Card
+3956,436,2023-10-09,Delivered,Debit Card
+3957,459,2025-02-20,Delivered,Net Banking
+3958,99,2024-09-18,Delivered,COD
+3959,436,2024-03-23,Delivered,Debit Card
+3960,237,2024-08-05,Delivered,Debit Card
+3961,51,2025-02-01,Delivered,Net Banking
+3962,180,2025-09-14,Delivered,Credit Card
+3963,333,2024-10-08,Delivered,Debit Card
+3964,140,2024-10-11,Delivered,Net Banking
+3965,118,2025-07-13,Delivered,COD
+3966,494,2024-09-12,Delivered,COD
+3967,71,2023-07-09,Delivered,COD
+3968,322,2024-02-16,Delivered,Net Banking
+3969,176,2025-07-29,Delivered,COD
+3970,497,2024-04-11,Delivered,Credit Card
+3971,114,2024-11-28,Delivered,Net Banking
+3972,141,2025-06-24,Returned,Debit Card
+3973,192,2025-07-15,Delivered,UPI
+3974,15,2023-12-30,Delivered,COD
+3975,386,2024-12-16,Cancelled,Debit Card
+3976,20,2024-08-24,Delivered,Credit Card
+3977,185,2023-11-14,Delivered,Net Banking
+3978,283,2025-05-02,Delivered,UPI
+3979,87,2024-06-26,Cancelled,Debit Card
+3980,321,2024-09-15,Delivered,COD
+3981,295,2024-12-18,Delivered,Debit Card
+3982,201,2025-07-04,Delivered,Debit Card
+3983,467,2023-10-30,Delivered,Credit Card
+3984,392,2024-11-26,Delivered,UPI
+3985,134,2025-06-13,Delivered,Debit Card
+3986,18,2024-04-18,Delivered,Net Banking
+3987,139,2024-06-08,Delivered,UPI
+3988,220,2025-01-19,Delivered,UPI
+3989,163,2025-01-01,Delivered,COD
+3990,432,2024-03-07,Delivered,Debit Card
+3991,480,2025-10-15,Delivered,UPI
+3992,302,2024-10-11,Delivered,Debit Card
+3993,297,2024-08-10,Delivered,COD
+3994,494,2025-08-28,Delivered,COD
+3995,38,2025-11-03,Delivered,Credit Card
+3996,442,2025-01-29,Delivered,Net Banking
+3997,175,2024-05-31,Delivered,COD
+3998,252,2024-06-24,Delivered,Credit Card
+3999,16,2025-08-30,Delivered,Debit Card
+4000,174,2025-01-16,Delivered,Credit Card
+4001,309,2025-06-24,Cancelled,COD
+4002,140,2023-05-28,Returned,UPI
+4003,374,2024-12-20,Delivered,COD
+4004,41,2024-02-08,Returned,COD
+4005,427,2025-09-26,Delivered,COD
+4006,256,2024-11-17,Delivered,Debit Card
+4007,129,2025-01-11,Delivered,Net Banking
+4008,43,2024-12-08,Delivered,Credit Card
+4009,403,2024-06-08,Delivered,COD
+4010,486,2025-03-03,Delivered,Debit Card
+4011,424,2024-07-17,Delivered,UPI
+4012,302,2024-08-27,Delivered,Net Banking
+4013,159,2025-05-02,Delivered,COD
+4014,478,2025-04-29,Delivered,COD
+4015,181,2023-07-22,Delivered,Net Banking
+4016,169,2024-09-09,Returned,Credit Card
+4017,276,2024-12-09,Delivered,Net Banking
+4018,154,2024-10-02,Delivered,Credit Card
+4019,186,2025-02-21,Delivered,COD
+4020,18,2025-02-13,Delivered,COD
+4021,126,2024-12-16,Delivered,UPI
+4022,98,2024-11-20,Cancelled,Credit Card
+4023,411,2025-07-24,Delivered,Debit Card
+4024,164,2024-11-07,Delivered,Debit Card
+4025,142,2024-07-02,Delivered,Net Banking
+4026,268,2025-02-25,Delivered,UPI
+4027,179,2024-04-04,Cancelled,COD
+4028,238,2024-04-13,Delivered,Credit Card
+4029,308,2025-02-17,Delivered,Net Banking
+4030,411,2024-02-19,Returned,Net Banking
+4031,495,2023-11-16,Delivered,Credit Card
+4032,3,2025-04-28,Delivered,COD
+4033,277,2023-03-30,Cancelled,COD
+4034,411,2025-04-05,Delivered,UPI
+4035,418,2025-05-07,Cancelled,Debit Card
+4036,173,2023-10-14,Delivered,Credit Card
+4037,97,2024-01-05,Delivered,COD
+4038,28,2023-04-23,Delivered,Debit Card
+4039,458,2025-02-06,Delivered,Credit Card
+4040,489,2023-04-23,Delivered,Credit Card
+4041,139,2023-12-16,Delivered,Credit Card
+4042,343,2024-10-12,Delivered,Credit Card
+4043,113,2025-01-12,Delivered,Debit Card
+4044,228,2024-09-10,Delivered,Credit Card
+4045,50,2024-10-02,Delivered,COD
+4046,112,2024-04-10,Delivered,Net Banking
+4047,36,2023-12-15,Delivered,UPI
+4048,26,2024-04-12,Delivered,COD
+4049,97,2024-09-17,Delivered,Net Banking
+4050,58,2024-09-19,Delivered,UPI
+4051,357,2024-04-05,Delivered,Debit Card
+4052,44,2025-04-21,Delivered,UPI
+4053,475,2023-06-21,Delivered,Debit Card
+4054,449,2024-08-10,Delivered,Debit Card
+4055,414,2025-04-06,Delivered,Net Banking
+4056,473,2025-03-27,Delivered,UPI
+4057,257,2024-08-13,Delivered,Credit Card
+4058,247,2024-06-12,Delivered,Net Banking
+4059,109,2025-02-02,Delivered,Credit Card
+4060,478,2025-09-03,Delivered,Debit Card
+4061,284,2024-10-09,Delivered,COD
+4062,95,2024-03-11,Delivered,COD
+4063,146,2025-06-03,Returned,UPI
+4064,62,2024-02-24,Delivered,COD
+4065,188,2025-11-01,Delivered,COD
+4066,290,2025-02-23,Delivered,Net Banking
+4067,476,2023-07-11,Delivered,Credit Card
+4068,132,2024-05-02,Delivered,UPI
+4069,375,2024-06-18,Delivered,Debit Card
+4070,233,2025-03-05,Delivered,Credit Card
+4071,74,2023-09-05,Returned,Debit Card
+4072,113,2024-11-21,Delivered,Credit Card
+4073,399,2023-04-29,Delivered,Credit Card
+4074,311,2024-01-01,Delivered,UPI
+4075,69,2024-08-10,Delivered,UPI
+4076,472,2024-12-27,Delivered,Net Banking
+4077,225,2025-08-26,Delivered,Debit Card
+4078,353,2024-12-30,Delivered,COD
+4079,350,2024-01-08,Delivered,UPI
+4080,406,2024-12-07,Delivered,COD
+4081,418,2024-09-18,Delivered,Credit Card
+4082,373,2025-09-08,Delivered,COD
+4083,449,2025-01-17,Delivered,COD
+4084,490,2023-10-24,Delivered,COD
+4085,87,2024-11-01,Delivered,Net Banking
+4086,140,2025-09-17,Cancelled,Net Banking
+4087,214,2025-02-25,Delivered,Credit Card
+4088,445,2025-01-27,Delivered,Credit Card
+4089,300,2024-10-02,Delivered,Credit Card
+4090,283,2025-09-22,Delivered,UPI
+4091,50,2024-08-03,Delivered,Debit Card
+4092,187,2024-12-13,Delivered,UPI
+4093,284,2023-03-07,Delivered,Credit Card
+4094,469,2024-11-24,Delivered,Credit Card
+4095,10,2024-07-05,Returned,Credit Card
+4096,205,2025-01-15,Returned,UPI
+4097,385,2024-12-14,Delivered,COD
+4098,481,2025-03-25,Delivered,Debit Card
+4099,38,2024-07-25,Delivered,COD
+4100,321,2024-09-30,Delivered,Net Banking
+4101,96,2024-11-14,Returned,Debit Card
+4102,369,2025-11-06,Delivered,Net Banking
+4103,342,2023-11-11,Delivered,UPI
+4104,39,2024-04-26,Delivered,Credit Card
+4105,76,2024-01-10,Delivered,UPI
+4106,271,2024-05-18,Cancelled,Credit Card
+4107,384,2023-06-02,Delivered,COD
+4108,473,2024-09-07,Delivered,Net Banking
+4109,171,2024-06-13,Delivered,COD
+4110,294,2023-07-08,Delivered,COD
+4111,7,2025-08-19,Delivered,Credit Card
+4112,341,2023-09-12,Delivered,COD
+4113,164,2024-04-21,Delivered,Debit Card
+4114,255,2024-03-27,Delivered,COD
+4115,336,2023-03-19,Delivered,UPI
+4116,119,2025-08-06,Delivered,UPI
+4117,329,2024-01-18,Delivered,COD
+4118,14,2024-02-09,Delivered,Net Banking
+4119,15,2024-02-16,Delivered,Credit Card
+4120,162,2023-07-10,Delivered,COD
+4121,26,2023-10-06,Delivered,Debit Card
+4122,46,2025-01-12,Delivered,Debit Card
+4123,337,2024-11-19,Delivered,Net Banking
+4124,141,2025-08-23,Delivered,Debit Card
+4125,174,2024-12-16,Delivered,Net Banking
+4126,79,2023-07-04,Delivered,COD
+4127,239,2025-06-08,Delivered,UPI
+4128,361,2023-03-02,Cancelled,Credit Card
+4129,70,2024-09-26,Delivered,Credit Card
+4130,289,2024-04-29,Delivered,Credit Card
+4131,491,2025-10-07,Delivered,Net Banking
+4132,131,2025-02-21,Delivered,Net Banking
+4133,366,2024-08-31,Delivered,Net Banking
+4134,70,2024-05-15,Delivered,Credit Card
+4135,68,2025-02-08,Delivered,Net Banking
+4136,86,2024-09-22,Delivered,Credit Card
+4137,160,2024-03-29,Returned,COD
+4138,31,2024-05-01,Delivered,Credit Card
+4139,176,2025-06-18,Delivered,COD
+4140,100,2025-06-22,Delivered,UPI
+4141,61,2025-04-19,Delivered,Debit Card
+4142,54,2023-09-29,Delivered,Debit Card
+4143,324,2025-04-28,Delivered,Debit Card
+4144,57,2024-04-01,Returned,UPI
+4145,252,2024-05-03,Delivered,Credit Card
+4146,110,2024-02-27,Delivered,Net Banking
+4147,2,2024-04-03,Delivered,Debit Card
+4148,352,2024-01-30,Returned,UPI
+4149,101,2024-06-16,Cancelled,UPI
+4150,274,2025-03-17,Delivered,COD
+4151,378,2024-09-02,Delivered,COD
+4152,321,2025-06-04,Delivered,COD
+4153,322,2025-09-01,Delivered,Debit Card
+4154,298,2023-09-28,Delivered,UPI
+4155,390,2025-07-12,Delivered,COD
+4156,441,2025-11-20,Delivered,Credit Card
+4157,360,2024-04-25,Delivered,Debit Card
+4158,195,2024-08-10,Delivered,COD
+4159,44,2023-08-31,Delivered,Debit Card
+4160,432,2024-10-07,Delivered,Credit Card
+4161,266,2024-07-21,Delivered,Debit Card
+4162,459,2024-09-10,Delivered,COD
+4163,245,2024-06-08,Delivered,Net Banking
+4164,369,2024-10-02,Delivered,UPI
+4165,53,2025-02-06,Delivered,Debit Card
+4166,283,2024-07-11,Delivered,Net Banking
+4167,347,2024-07-13,Delivered,COD
+4168,88,2023-09-25,Delivered,UPI
+4169,336,2024-06-05,Delivered,UPI
+4170,257,2024-05-21,Delivered,Net Banking
+4171,329,2025-04-21,Delivered,COD
+4172,472,2025-06-28,Delivered,Debit Card
+4173,410,2025-04-28,Delivered,Credit Card
+4174,382,2025-08-11,Delivered,Debit Card
+4175,413,2025-01-29,Delivered,Credit Card
+4176,108,2025-06-14,Delivered,COD
+4177,115,2023-08-18,Delivered,Debit Card
+4178,389,2024-12-01,Delivered,Net Banking
+4179,114,2025-06-24,Delivered,Net Banking
+4180,446,2025-08-14,Delivered,Credit Card
+4181,67,2023-09-06,Delivered,Credit Card
+4182,405,2023-05-21,Delivered,Debit Card
+4183,92,2023-12-21,Delivered,Debit Card
+4184,104,2025-11-10,Cancelled,Credit Card
+4185,271,2024-05-11,Delivered,Credit Card
+4186,347,2025-02-01,Delivered,Net Banking
+4187,477,2024-12-13,Delivered,COD
+4188,214,2024-04-03,Delivered,COD
+4189,454,2024-06-22,Delivered,Debit Card
+4190,72,2025-07-05,Delivered,Credit Card
+4191,385,2025-01-05,Delivered,Credit Card
+4192,382,2024-07-19,Cancelled,Debit Card
+4193,408,2023-12-15,Delivered,COD
+4194,64,2025-01-13,Delivered,Debit Card
+4195,478,2024-01-06,Returned,COD
+4196,224,2024-05-11,Delivered,COD
+4197,233,2025-01-06,Delivered,UPI
+4198,393,2024-04-26,Delivered,UPI
+4199,372,2024-08-02,Delivered,Net Banking
+4200,202,2025-05-14,Delivered,Debit Card
+4201,447,2024-01-21,Delivered,Net Banking
+4202,456,2024-04-18,Delivered,UPI
+4203,458,2023-07-18,Delivered,COD
+4204,389,2024-10-16,Delivered,Debit Card
+4205,248,2023-09-17,Returned,UPI
+4206,114,2024-08-24,Delivered,UPI
+4207,180,2025-06-20,Delivered,Credit Card
+4208,472,2024-10-25,Delivered,Credit Card
+4209,201,2025-07-10,Delivered,Net Banking
+4210,187,2025-02-17,Delivered,COD
+4211,457,2025-10-23,Delivered,UPI
+4212,292,2023-04-22,Returned,Debit Card
+4213,113,2025-07-09,Delivered,Debit Card
+4214,191,2024-04-22,Returned,Net Banking
+4215,42,2024-12-21,Returned,COD
+4216,386,2024-10-11,Delivered,Net Banking
+4217,200,2025-02-26,Delivered,Credit Card
+4218,121,2024-04-13,Delivered,UPI
+4219,393,2025-07-19,Delivered,COD
+4220,442,2025-05-07,Delivered,COD
+4221,89,2025-04-12,Delivered,COD
+4222,181,2025-01-19,Delivered,Debit Card
+4223,267,2025-03-30,Delivered,UPI
+4224,19,2025-09-30,Delivered,Credit Card
+4225,393,2023-11-30,Delivered,COD
+4226,167,2025-03-20,Delivered,Credit Card
+4227,428,2025-09-15,Cancelled,UPI
+4228,288,2025-01-30,Delivered,UPI
+4229,309,2024-10-13,Delivered,Credit Card
+4230,316,2025-03-04,Delivered,Credit Card
+4231,173,2024-11-02,Delivered,Credit Card
+4232,102,2025-01-14,Delivered,UPI
+4233,488,2025-02-15,Delivered,COD
+4234,425,2025-04-28,Delivered,Credit Card
+4235,405,2023-08-21,Delivered,COD
+4236,37,2024-11-19,Delivered,Credit Card
+4237,38,2025-07-09,Delivered,Debit Card
+4238,44,2024-08-14,Delivered,Debit Card
+4239,86,2024-10-28,Cancelled,COD
+4240,476,2024-04-30,Delivered,UPI
+4241,382,2025-02-05,Delivered,Debit Card
+4242,370,2024-08-11,Returned,Net Banking
+4243,452,2025-03-14,Returned,Net Banking
+4244,289,2025-08-20,Delivered,Debit Card
+4245,55,2024-08-25,Delivered,Debit Card
+4246,480,2023-07-10,Delivered,UPI
+4247,52,2025-08-12,Returned,Credit Card
+4248,220,2025-05-26,Cancelled,COD
+4249,152,2024-09-15,Delivered,Net Banking
+4250,1,2024-08-29,Delivered,UPI
+4251,430,2025-04-23,Delivered,Credit Card
+4252,104,2025-05-02,Delivered,UPI
+4253,175,2025-08-20,Delivered,COD
+4254,436,2023-11-27,Delivered,Credit Card
+4255,168,2023-06-19,Delivered,Debit Card
+4256,162,2023-11-23,Delivered,COD
+4257,266,2024-09-20,Delivered,Debit Card
+4258,255,2024-06-04,Delivered,COD
+4259,295,2024-03-05,Delivered,Net Banking
+4260,492,2023-11-06,Delivered,Debit Card
+4261,90,2025-04-15,Delivered,UPI
+4262,308,2025-03-24,Delivered,UPI
+4263,319,2024-12-04,Delivered,Net Banking
+4264,127,2025-04-02,Delivered,COD
+4265,85,2024-08-05,Delivered,Net Banking
+4266,289,2025-01-22,Delivered,COD
+4267,262,2024-11-10,Delivered,Credit Card
+4268,351,2025-01-08,Delivered,UPI
+4269,450,2024-10-29,Delivered,UPI
+4270,114,2024-06-17,Delivered,UPI
+4271,425,2024-06-30,Delivered,COD
+4272,417,2025-04-09,Delivered,Net Banking
+4273,228,2024-11-12,Delivered,COD
+4274,7,2025-02-10,Delivered,UPI
+4275,330,2024-12-22,Delivered,Net Banking
+4276,385,2024-06-16,Returned,UPI
+4277,245,2025-05-18,Returned,Debit Card
+4278,183,2024-03-23,Delivered,Debit Card
+4279,422,2025-04-27,Delivered,Credit Card
+4280,377,2023-11-10,Delivered,Credit Card
+4281,216,2024-05-16,Delivered,UPI
+4282,259,2024-11-21,Delivered,UPI
+4283,220,2024-10-29,Delivered,Debit Card
+4284,277,2024-03-01,Delivered,Credit Card
+4285,165,2024-05-09,Delivered,Debit Card
+4286,272,2024-10-03,Returned,Credit Card
+4287,412,2025-01-18,Delivered,Debit Card
+4288,491,2025-08-07,Delivered,COD
+4289,13,2025-01-14,Delivered,Net Banking
+4290,386,2025-03-25,Delivered,Credit Card
+4291,80,2025-04-18,Delivered,Net Banking
+4292,351,2024-07-06,Delivered,UPI
+4293,272,2024-11-17,Returned,Credit Card
+4294,178,2025-06-25,Delivered,UPI
+4295,244,2023-12-30,Delivered,Debit Card
+4296,258,2025-05-09,Delivered,COD
+4297,89,2024-11-08,Delivered,COD
+4298,269,2025-02-13,Delivered,Net Banking
+4299,225,2024-07-16,Delivered,Net Banking
+4300,204,2024-03-04,Delivered,UPI
+4301,8,2024-11-01,Delivered,Credit Card
+4302,256,2025-06-21,Delivered,UPI
+4303,18,2025-11-30,Delivered,UPI
+4304,394,2024-08-23,Delivered,Credit Card
+4305,475,2025-01-03,Delivered,COD
+4306,54,2025-03-29,Delivered,Net Banking
+4307,397,2024-08-01,Delivered,UPI
+4308,303,2024-05-24,Delivered,UPI
+4309,325,2024-10-30,Delivered,COD
+4310,164,2024-11-21,Cancelled,Credit Card
+4311,397,2025-06-30,Delivered,Credit Card
+4312,236,2025-05-13,Delivered,UPI
+4313,339,2024-01-20,Delivered,Debit Card
+4314,277,2023-10-15,Delivered,Credit Card
+4315,390,2024-09-23,Delivered,Debit Card
+4316,297,2025-03-23,Delivered,UPI
+4317,226,2023-11-08,Delivered,Net Banking
+4318,86,2024-12-30,Delivered,UPI
+4319,33,2025-07-20,Delivered,Net Banking
+4320,385,2025-09-13,Delivered,UPI
+4321,499,2023-12-31,Delivered,Credit Card
+4322,182,2025-01-19,Delivered,Net Banking
+4323,98,2024-11-08,Delivered,UPI
+4324,126,2024-08-23,Delivered,Net Banking
+4325,140,2025-03-23,Returned,Net Banking
+4326,109,2023-11-28,Delivered,Credit Card
+4327,132,2024-04-15,Delivered,Credit Card
+4328,6,2025-05-27,Delivered,Debit Card
+4329,346,2024-08-11,Returned,Credit Card
+4330,194,2024-07-29,Returned,COD
+4331,150,2023-08-14,Delivered,COD
+4332,1,2023-11-01,Delivered,Net Banking
+4333,484,2024-11-14,Delivered,Debit Card
+4334,206,2024-07-19,Delivered,COD
+4335,221,2025-02-16,Delivered,Debit Card
+4336,236,2024-11-07,Delivered,Debit Card
+4337,451,2024-12-31,Returned,Credit Card
+4338,70,2024-12-25,Delivered,COD
+4339,413,2024-02-02,Delivered,COD
+4340,234,2025-03-04,Cancelled,Debit Card
+4341,488,2025-03-27,Delivered,Net Banking
+4342,198,2024-03-27,Delivered,UPI
+4343,206,2025-07-11,Delivered,Net Banking
+4344,362,2025-04-27,Delivered,Debit Card
+4345,439,2023-06-16,Delivered,Credit Card
+4346,199,2024-12-18,Delivered,COD
+4347,61,2025-03-29,Delivered,Net Banking
+4348,82,2024-10-08,Delivered,UPI
+4349,329,2024-12-02,Delivered,Net Banking
+4350,345,2024-12-11,Delivered,Net Banking
+4351,366,2024-02-16,Delivered,Debit Card
+4352,165,2023-11-26,Delivered,COD
+4353,2,2025-03-21,Delivered,Debit Card
+4354,123,2023-07-18,Delivered,UPI
+4355,394,2023-07-07,Cancelled,COD
+4356,258,2025-03-11,Delivered,Debit Card
+4357,302,2024-04-28,Delivered,Net Banking
+4358,211,2024-02-18,Delivered,Debit Card
+4359,166,2025-05-16,Delivered,Net Banking
+4360,413,2024-09-05,Delivered,UPI
+4361,115,2024-05-18,Delivered,Debit Card
+4362,407,2024-07-28,Delivered,Debit Card
+4363,434,2025-02-11,Delivered,Debit Card
+4364,80,2023-11-07,Returned,Net Banking
+4365,235,2025-12-18,Delivered,Net Banking
+4366,478,2024-08-12,Delivered,COD
+4367,37,2024-04-09,Delivered,Credit Card
+4368,28,2024-06-25,Delivered,COD
+4369,56,2025-02-18,Delivered,Debit Card
+4370,122,2025-07-13,Delivered,Net Banking
+4371,222,2025-04-29,Delivered,COD
+4372,120,2023-03-03,Delivered,Credit Card
+4373,290,2025-06-02,Delivered,Debit Card
+4374,341,2024-09-30,Delivered,Net Banking
+4375,228,2025-04-05,Delivered,Net Banking
+4376,210,2024-07-24,Delivered,UPI
+4377,255,2024-07-19,Delivered,Credit Card
+4378,48,2024-04-28,Delivered,Credit Card
+4379,479,2024-01-25,Delivered,COD
+4380,332,2023-06-24,Delivered,Debit Card
+4381,301,2025-03-27,Delivered,COD
+4382,129,2025-06-14,Delivered,Credit Card
+4383,392,2024-02-21,Delivered,Debit Card
+4384,102,2024-01-09,Returned,COD
+4385,359,2023-12-27,Delivered,COD
+4386,134,2025-02-07,Returned,COD
+4387,271,2023-11-03,Delivered,Credit Card
+4388,285,2025-04-04,Delivered,Debit Card
+4389,470,2025-02-02,Delivered,UPI
+4390,267,2025-03-09,Delivered,Debit Card
+4391,9,2023-11-22,Delivered,Debit Card
+4392,25,2025-03-05,Delivered,Credit Card
+4393,303,2025-04-21,Delivered,Credit Card
+4394,468,2023-09-14,Cancelled,Debit Card
+4395,373,2025-02-13,Delivered,Net Banking
+4396,371,2025-07-04,Delivered,UPI
+4397,133,2025-03-07,Delivered,Debit Card
+4398,447,2025-03-02,Delivered,COD
+4399,295,2023-05-21,Delivered,UPI
+4400,204,2025-01-23,Delivered,UPI
+4401,116,2023-11-30,Delivered,Credit Card
+4402,399,2025-05-16,Delivered,Debit Card
+4403,353,2025-03-19,Delivered,Net Banking
+4404,189,2024-11-04,Delivered,Debit Card
+4405,222,2024-01-23,Delivered,Debit Card
+4406,307,2025-02-01,Delivered,Credit Card
+4407,131,2024-03-25,Delivered,Credit Card
+4408,384,2024-12-01,Delivered,UPI
+4409,441,2023-05-05,Delivered,UPI
+4410,10,2025-06-06,Delivered,COD
+4411,110,2024-07-19,Delivered,Debit Card
+4412,377,2025-08-24,Delivered,Net Banking
+4413,327,2025-05-29,Delivered,COD
+4414,325,2024-10-11,Delivered,UPI
+4415,118,2023-02-06,Delivered,Credit Card
+4416,241,2024-11-22,Delivered,Net Banking
+4417,109,2023-12-08,Delivered,Net Banking
+4418,253,2025-06-20,Delivered,Credit Card
+4419,25,2025-02-07,Delivered,UPI
+4420,222,2024-11-09,Cancelled,Credit Card
+4421,251,2025-03-30,Delivered,Net Banking
+4422,406,2025-01-31,Delivered,COD
+4423,270,2024-12-19,Delivered,Credit Card
+4424,365,2025-05-25,Delivered,COD
+4425,35,2025-02-01,Delivered,Net Banking
+4426,294,2024-03-19,Delivered,Debit Card
+4427,384,2024-12-01,Delivered,Credit Card
+4428,101,2024-08-15,Delivered,Net Banking
+4429,289,2025-03-30,Returned,COD
+4430,70,2025-06-04,Delivered,Net Banking
+4431,259,2024-04-17,Delivered,COD
+4432,175,2024-06-15,Delivered,Net Banking
+4433,358,2023-10-21,Delivered,UPI
+4434,461,2025-02-18,Delivered,Credit Card
+4435,338,2024-07-07,Delivered,Debit Card
+4436,33,2025-03-17,Delivered,Credit Card
+4437,349,2025-02-07,Delivered,COD
+4438,394,2025-04-19,Delivered,COD
+4439,332,2024-05-27,Delivered,Net Banking
+4440,459,2023-09-14,Delivered,Credit Card
+4441,363,2024-08-09,Cancelled,Net Banking
+4442,480,2023-11-20,Delivered,Credit Card
+4443,26,2025-11-02,Delivered,Debit Card
+4444,373,2024-11-13,Delivered,COD
+4445,389,2025-09-22,Delivered,UPI
+4446,198,2024-09-27,Delivered,COD
+4447,328,2024-12-31,Delivered,Credit Card
+4448,470,2025-06-01,Delivered,COD
+4449,323,2024-06-11,Delivered,Debit Card
+4450,202,2023-08-21,Delivered,Credit Card
+4451,229,2024-04-21,Delivered,UPI
+4452,374,2025-08-04,Delivered,Credit Card
+4453,163,2025-04-21,Delivered,Net Banking
+4454,185,2023-08-20,Delivered,Net Banking
+4455,310,2024-12-18,Delivered,Net Banking
+4456,294,2025-01-28,Delivered,UPI
+4457,242,2024-12-08,Delivered,COD
+4458,433,2025-03-25,Delivered,UPI
+4459,312,2023-12-11,Cancelled,Net Banking
+4460,181,2025-03-06,Delivered,UPI
+4461,81,2024-11-29,Delivered,Debit Card
+4462,14,2024-10-17,Delivered,COD
+4463,399,2023-12-26,Delivered,Credit Card
+4464,54,2025-01-02,Delivered,Credit Card
+4465,81,2024-10-13,Delivered,Debit Card
+4466,267,2023-12-30,Delivered,UPI
+4467,207,2024-10-10,Delivered,Debit Card
+4468,56,2024-11-11,Delivered,Net Banking
+4469,302,2024-09-09,Delivered,Net Banking
+4470,125,2025-03-28,Returned,Credit Card
+4471,210,2025-03-17,Cancelled,Credit Card
+4472,112,2023-01-22,Delivered,Credit Card
+4473,85,2024-06-15,Delivered,Debit Card
+4474,385,2024-10-05,Delivered,Net Banking
+4475,139,2024-12-22,Delivered,Net Banking
+4476,273,2023-04-29,Delivered,Debit Card
+4477,119,2025-10-04,Delivered,Debit Card
+4478,154,2024-09-19,Delivered,Net Banking
+4479,314,2025-04-20,Delivered,Debit Card
+4480,125,2025-07-21,Delivered,Debit Card
+4481,143,2024-10-07,Delivered,Credit Card
+4482,190,2024-09-23,Delivered,UPI
+4483,304,2024-07-25,Delivered,Net Banking
+4484,7,2024-06-16,Delivered,Debit Card
+4485,374,2023-06-18,Delivered,Net Banking
+4486,441,2024-08-21,Delivered,COD
+4487,481,2024-03-28,Returned,UPI
+4488,100,2025-06-14,Delivered,Debit Card
+4489,416,2024-08-11,Delivered,Credit Card
+4490,323,2024-10-16,Delivered,COD
+4491,481,2024-09-29,Delivered,UPI
+4492,198,2024-09-10,Delivered,Net Banking
+4493,477,2025-04-27,Delivered,UPI
+4494,339,2025-11-23,Delivered,Credit Card
+4495,364,2025-01-01,Delivered,Credit Card
+4496,149,2024-01-08,Delivered,UPI
+4497,256,2024-07-08,Delivered,COD
+4498,327,2024-05-08,Delivered,UPI
+4499,365,2024-10-20,Delivered,Credit Card
+4500,245,2025-01-05,Delivered,Net Banking
+4501,380,2025-04-01,Delivered,UPI
+4502,311,2023-07-19,Delivered,Credit Card
+4503,125,2024-08-05,Delivered,UPI
+4504,492,2024-05-17,Delivered,Credit Card
+4505,2,2024-10-09,Delivered,COD
+4506,209,2024-03-10,Delivered,Net Banking
+4507,265,2025-08-05,Returned,COD
+4508,212,2024-06-26,Delivered,COD
+4509,402,2024-07-11,Delivered,Debit Card
+4510,388,2025-08-17,Delivered,COD
+4511,151,2025-10-05,Delivered,Debit Card
+4512,230,2024-06-17,Delivered,Debit Card
+4513,77,2024-10-05,Delivered,UPI
+4514,190,2024-05-15,Delivered,COD
+4515,268,2024-07-29,Delivered,COD
+4516,224,2024-08-01,Delivered,Debit Card
+4517,24,2025-01-26,Delivered,Debit Card
+4518,71,2024-11-27,Delivered,COD
+4519,311,2024-08-03,Delivered,Net Banking
+4520,459,2025-02-19,Delivered,Net Banking
+4521,72,2024-05-21,Delivered,Debit Card
+4522,374,2023-07-03,Delivered,Debit Card
+4523,95,2025-01-20,Delivered,Net Banking
+4524,395,2024-12-30,Delivered,UPI
+4525,447,2025-02-22,Returned,Net Banking
+4526,295,2023-04-05,Delivered,COD
+4527,423,2023-09-11,Delivered,Net Banking
+4528,118,2025-06-27,Delivered,Net Banking
+4529,50,2024-02-02,Delivered,UPI
+4530,79,2024-08-03,Delivered,Credit Card
+4531,66,2024-08-30,Delivered,Net Banking
+4532,454,2025-03-24,Delivered,COD
+4533,324,2024-11-28,Delivered,Net Banking
+4534,389,2024-03-15,Delivered,COD
+4535,481,2024-01-24,Returned,UPI
+4536,214,2023-10-04,Delivered,Debit Card
+4537,146,2024-09-05,Cancelled,Net Banking
+4538,132,2025-10-23,Delivered,Net Banking
+4539,305,2023-07-17,Delivered,COD
+4540,99,2024-11-23,Delivered,Net Banking
+4541,419,2025-07-02,Delivered,COD
+4542,62,2025-01-29,Delivered,Debit Card
+4543,145,2024-07-09,Delivered,Debit Card
+4544,221,2025-05-01,Delivered,UPI
+4545,177,2025-02-14,Delivered,UPI
+4546,247,2023-12-18,Delivered,Debit Card
+4547,332,2025-07-07,Delivered,Credit Card
+4548,158,2024-02-10,Delivered,Credit Card
+4549,78,2025-04-09,Delivered,Credit Card
+4550,229,2023-11-28,Returned,COD
+4551,441,2025-04-16,Delivered,Debit Card
+4552,352,2024-05-22,Delivered,Net Banking
+4553,214,2023-09-10,Delivered,COD
+4554,364,2024-10-26,Delivered,UPI
+4555,98,2024-02-09,Delivered,UPI
+4556,22,2024-04-06,Returned,Net Banking
+4557,482,2025-09-27,Returned,UPI
+4558,70,2024-04-12,Delivered,UPI
+4559,466,2024-10-12,Delivered,COD
+4560,412,2024-06-11,Delivered,COD
+4561,31,2024-07-30,Delivered,UPI
+4562,282,2025-01-17,Cancelled,Credit Card
+4563,272,2023-08-27,Delivered,UPI
+4564,70,2023-05-05,Delivered,Net Banking
+4565,445,2024-07-10,Cancelled,Net Banking
+4566,110,2025-10-12,Delivered,UPI
+4567,242,2025-08-30,Cancelled,UPI
+4568,317,2023-05-06,Delivered,Credit Card
+4569,341,2025-04-14,Delivered,COD
+4570,423,2024-05-14,Delivered,COD
+4571,61,2024-03-23,Returned,Credit Card
+4572,233,2023-12-10,Delivered,Credit Card
+4573,189,2025-04-02,Delivered,UPI
+4574,30,2024-11-22,Delivered,Net Banking
+4575,307,2024-08-14,Delivered,Credit Card
+4576,332,2025-01-23,Delivered,Debit Card
+4577,383,2025-03-16,Delivered,UPI
+4578,40,2025-01-12,Delivered,Debit Card
+4579,25,2023-05-07,Delivered,COD
+4580,4,2024-06-18,Delivered,COD
+4581,107,2025-02-14,Delivered,COD
+4582,49,2023-11-16,Delivered,Net Banking
+4583,379,2024-09-30,Delivered,Debit Card
+4584,6,2025-06-30,Delivered,Debit Card
+4585,411,2024-07-13,Delivered,Credit Card
+4586,123,2025-04-20,Delivered,Debit Card
+4587,413,2025-02-24,Returned,Net Banking
+4588,217,2024-06-18,Delivered,Debit Card
+4589,155,2023-09-24,Delivered,Debit Card
+4590,366,2023-12-30,Delivered,Net Banking
+4591,484,2024-11-10,Returned,Net Banking
+4592,55,2024-10-08,Delivered,UPI
+4593,81,2024-04-24,Delivered,Net Banking
+4594,39,2024-09-12,Returned,Credit Card
+4595,136,2025-06-20,Delivered,UPI
+4596,181,2023-08-05,Delivered,UPI
+4597,47,2025-10-11,Returned,COD
+4598,65,2023-10-29,Delivered,Net Banking
+4599,481,2024-01-12,Delivered,Debit Card
+4600,7,2024-08-30,Delivered,Net Banking
+4601,400,2025-05-28,Delivered,UPI
+4602,63,2024-05-19,Delivered,Debit Card
+4603,363,2025-09-08,Cancelled,UPI
+4604,386,2024-05-05,Delivered,Credit Card
+4605,452,2024-09-02,Delivered,UPI
+4606,483,2025-04-24,Delivered,Debit Card
+4607,143,2023-12-27,Returned,COD
+4608,147,2025-03-23,Delivered,Debit Card
+4609,386,2025-08-20,Delivered,Net Banking
+4610,53,2025-05-04,Delivered,Credit Card
+4611,149,2025-01-19,Delivered,Credit Card
+4612,220,2024-10-12,Delivered,Debit Card
+4613,393,2024-11-29,Delivered,UPI
+4614,143,2025-05-30,Delivered,COD
+4615,115,2024-04-28,Delivered,Net Banking
+4616,219,2023-10-14,Delivered,Debit Card
+4617,431,2025-02-02,Delivered,Debit Card
+4618,467,2023-05-08,Delivered,Net Banking
+4619,378,2025-01-20,Delivered,Credit Card
+4620,79,2025-07-24,Delivered,Net Banking
+4621,26,2024-08-13,Delivered,Credit Card
+4622,306,2023-10-16,Delivered,Debit Card
+4623,263,2025-03-15,Delivered,Net Banking
+4624,104,2024-10-25,Delivered,UPI
+4625,171,2025-08-09,Delivered,Net Banking
+4626,42,2024-04-04,Delivered,COD
+4627,363,2025-05-06,Delivered,Net Banking
+4628,143,2023-10-11,Delivered,COD
+4629,359,2024-10-18,Delivered,Debit Card
+4630,370,2025-06-30,Delivered,Net Banking
+4631,247,2024-04-01,Delivered,Debit Card
+4632,441,2024-07-01,Delivered,Net Banking
+4633,463,2025-08-28,Delivered,UPI
+4634,402,2024-05-23,Delivered,Credit Card
+4635,370,2024-03-17,Delivered,COD
+4636,26,2025-01-27,Delivered,COD
+4637,208,2025-06-07,Cancelled,Debit Card
+4638,88,2024-03-22,Returned,Net Banking
+4639,243,2025-05-31,Delivered,Net Banking
+4640,270,2024-10-10,Cancelled,Net Banking
+4641,380,2025-04-30,Delivered,Credit Card
+4642,306,2025-11-22,Delivered,UPI
+4643,432,2025-07-28,Delivered,Debit Card
+4644,333,2025-01-17,Delivered,Credit Card
+4645,295,2025-02-05,Delivered,Credit Card
+4646,439,2023-06-15,Delivered,UPI
+4647,483,2024-06-14,Delivered,Credit Card
+4648,92,2024-11-28,Delivered,Credit Card
+4649,144,2025-07-13,Delivered,Net Banking
+4650,52,2025-04-02,Delivered,Credit Card
+4651,211,2023-04-29,Delivered,COD
+4652,120,2025-03-30,Delivered,Net Banking
+4653,381,2024-06-23,Delivered,Net Banking
+4654,351,2024-02-13,Delivered,COD
+4655,111,2025-04-04,Delivered,Credit Card
+4656,147,2025-06-30,Cancelled,Debit Card
+4657,139,2024-02-04,Delivered,Debit Card
+4658,185,2024-04-06,Delivered,Debit Card
+4659,339,2023-12-09,Delivered,Debit Card
+4660,67,2025-01-15,Delivered,COD
+4661,165,2025-10-01,Delivered,Net Banking
+4662,481,2025-05-31,Returned,Debit Card
+4663,381,2024-09-17,Delivered,Net Banking
+4664,134,2025-09-22,Delivered,Debit Card
+4665,90,2024-12-03,Delivered,COD
+4666,13,2025-07-27,Delivered,Debit Card
+4667,10,2025-01-12,Delivered,Debit Card
+4668,7,2025-10-03,Delivered,Debit Card
+4669,129,2025-05-23,Delivered,COD
+4670,209,2024-01-22,Delivered,Net Banking
+4671,31,2024-09-15,Delivered,Credit Card
+4672,58,2025-10-28,Delivered,UPI
+4673,61,2024-11-29,Delivered,Debit Card
+4674,476,2025-06-06,Delivered,COD
+4675,487,2024-05-05,Delivered,COD
+4676,299,2024-04-10,Delivered,COD
+4677,262,2023-10-23,Delivered,Debit Card
+4678,486,2024-07-19,Delivered,Net Banking
+4679,396,2024-10-29,Delivered,UPI
+4680,365,2024-10-18,Delivered,Credit Card
+4681,272,2024-05-26,Returned,Net Banking
+4682,287,2025-03-20,Delivered,Net Banking
+4683,204,2024-04-07,Delivered,COD
+4684,24,2024-09-21,Delivered,Debit Card
+4685,229,2024-11-17,Delivered,COD
+4686,98,2023-11-21,Returned,Credit Card
+4687,333,2024-12-11,Delivered,UPI
+4688,8,2025-07-31,Delivered,Debit Card
+4689,14,2024-12-10,Delivered,COD
+4690,229,2024-05-07,Delivered,COD
+4691,187,2023-12-10,Cancelled,UPI
+4692,402,2025-01-18,Delivered,Net Banking
+4693,465,2024-04-20,Delivered,Net Banking
+4694,243,2025-02-04,Delivered,COD
+4695,95,2024-05-02,Delivered,Debit Card
+4696,352,2025-04-08,Delivered,COD
+4697,285,2024-10-28,Delivered,Net Banking
+4698,121,2024-08-16,Delivered,COD
+4699,136,2025-06-12,Delivered,Net Banking
+4700,182,2023-10-27,Delivered,COD
+4701,301,2025-11-19,Delivered,Credit Card
+4702,19,2024-01-28,Delivered,Net Banking
+4703,320,2023-08-21,Delivered,Credit Card
+4704,101,2024-11-08,Delivered,Debit Card
+4705,294,2025-10-26,Delivered,Credit Card
+4706,345,2025-02-19,Delivered,Debit Card
+4707,21,2025-07-04,Delivered,UPI
+4708,183,2024-09-08,Delivered,UPI
+4709,331,2025-02-10,Delivered,Credit Card
+4710,346,2024-02-11,Delivered,COD
+4711,154,2024-11-12,Delivered,COD
+4712,5,2025-03-13,Delivered,Credit Card
+4713,82,2023-09-13,Delivered,Debit Card
+4714,75,2025-01-05,Delivered,Debit Card
+4715,368,2025-08-30,Delivered,COD
+4716,270,2024-01-23,Cancelled,COD
+4717,276,2024-10-22,Delivered,Net Banking
+4718,447,2024-07-30,Delivered,Credit Card
+4719,249,2025-03-17,Delivered,Net Banking
+4720,361,2024-04-25,Returned,COD
+4721,475,2023-08-10,Delivered,Debit Card
+4722,114,2025-01-06,Delivered,Debit Card
+4723,33,2024-03-03,Delivered,UPI
+4724,245,2025-04-28,Delivered,UPI
+4725,48,2024-12-05,Returned,COD
+4726,484,2023-03-19,Delivered,COD
+4727,416,2024-12-22,Delivered,UPI
+4728,484,2025-01-30,Delivered,Credit Card
+4729,372,2024-01-09,Delivered,Debit Card
+4730,196,2024-03-03,Delivered,Net Banking
+4731,161,2025-07-18,Delivered,Debit Card
+4732,242,2024-05-07,Delivered,Net Banking
+4733,383,2025-06-28,Delivered,UPI
+4734,78,2025-05-10,Delivered,Net Banking
+4735,214,2024-12-29,Delivered,Debit Card
+4736,242,2023-12-28,Delivered,Debit Card
+4737,30,2024-04-22,Delivered,Debit Card
+4738,451,2025-05-26,Delivered,Net Banking
+4739,154,2025-04-16,Delivered,UPI
+4740,344,2024-12-05,Delivered,Debit Card
+4741,252,2024-01-22,Delivered,COD
+4742,320,2025-03-19,Cancelled,Debit Card
+4743,359,2024-11-17,Delivered,UPI
+4744,263,2024-09-11,Delivered,Credit Card
+4745,131,2024-05-21,Delivered,Net Banking
+4746,338,2025-10-02,Delivered,COD
+4747,296,2024-09-02,Delivered,Credit Card
+4748,129,2023-07-23,Delivered,COD
+4749,353,2023-04-21,Delivered,COD
+4750,468,2025-07-02,Delivered,Debit Card
+4751,53,2024-09-24,Delivered,COD
+4752,409,2025-03-08,Delivered,Net Banking
+4753,78,2024-12-20,Delivered,Credit Card
+4754,114,2024-10-13,Delivered,COD
+4755,414,2024-12-21,Delivered,Debit Card
+4756,397,2024-01-28,Delivered,COD
+4757,20,2024-11-30,Delivered,COD
+4758,32,2024-04-04,Delivered,Debit Card
+4759,224,2025-03-23,Delivered,Credit Card
+4760,125,2025-04-08,Cancelled,COD
+4761,142,2024-06-18,Delivered,Net Banking
+4762,491,2024-02-27,Returned,Net Banking
+4763,457,2025-06-23,Delivered,UPI
+4764,142,2025-03-25,Delivered,Credit Card
+4765,290,2024-08-02,Delivered,Credit Card
+4766,453,2024-05-12,Delivered,UPI
+4767,336,2023-11-29,Delivered,UPI
+4768,97,2024-07-21,Delivered,UPI
+4769,320,2023-11-18,Delivered,Debit Card
+4770,196,2024-06-02,Delivered,Credit Card
+4771,7,2024-03-18,Delivered,Credit Card
+4772,411,2023-09-23,Delivered,Net Banking
+4773,63,2025-03-04,Delivered,Net Banking
+4774,421,2025-03-20,Delivered,Credit Card
+4775,474,2024-04-20,Delivered,Debit Card
+4776,79,2025-04-21,Delivered,Net Banking
+4777,470,2024-12-08,Delivered,COD
+4778,78,2024-12-05,Delivered,Credit Card
+4779,42,2023-07-19,Delivered,UPI
+4780,331,2023-10-03,Delivered,UPI
+4781,153,2024-02-12,Delivered,COD
+4782,462,2025-01-28,Delivered,Debit Card
+4783,279,2023-06-16,Delivered,UPI
+4784,123,2025-04-08,Cancelled,UPI
+4785,108,2025-04-27,Delivered,Credit Card
+4786,167,2025-04-01,Delivered,Credit Card
+4787,126,2025-04-06,Delivered,Net Banking
+4788,22,2024-01-01,Delivered,COD
+4789,258,2024-02-26,Delivered,Credit Card
+4790,298,2024-12-30,Delivered,Debit Card
+4791,355,2023-10-22,Returned,Credit Card
+4792,236,2024-02-10,Delivered,Credit Card
+4793,397,2023-04-20,Returned,COD
+4794,345,2024-01-23,Delivered,Debit Card
+4795,69,2024-09-19,Delivered,Debit Card
+4796,112,2024-09-14,Delivered,Net Banking
+4797,317,2025-03-07,Delivered,Debit Card
+4798,131,2024-04-09,Delivered,Debit Card
+4799,52,2023-08-17,Delivered,Net Banking
+4800,473,2023-08-10,Delivered,Net Banking
+4801,272,2025-01-18,Delivered,Net Banking
+4802,473,2024-11-08,Cancelled,Debit Card
+4803,448,2025-03-13,Delivered,COD
+4804,164,2025-04-11,Delivered,UPI
+4805,146,2025-03-01,Delivered,UPI
+4806,101,2024-04-14,Delivered,COD
+4807,423,2024-11-10,Delivered,COD
+4808,227,2023-11-14,Delivered,COD
+4809,463,2023-11-28,Delivered,Debit Card
+4810,313,2024-09-22,Delivered,Net Banking
+4811,216,2025-10-16,Delivered,Debit Card
+4812,397,2024-06-08,Delivered,Credit Card
+4813,412,2025-01-04,Delivered,Net Banking
+4814,217,2025-06-17,Delivered,COD
+4815,185,2023-08-18,Delivered,COD
+4816,103,2025-07-16,Delivered,UPI
+4817,3,2025-01-10,Delivered,UPI
+4818,442,2024-09-04,Delivered,COD
+4819,43,2025-07-10,Delivered,Net Banking
+4820,447,2025-02-02,Delivered,Debit Card
+4821,336,2024-08-14,Delivered,COD
+4822,421,2024-06-08,Delivered,Debit Card
+4823,491,2024-10-22,Delivered,UPI
+4824,205,2025-04-04,Delivered,UPI
+4825,342,2024-11-13,Delivered,UPI
+4826,12,2023-06-21,Delivered,Credit Card
+4827,159,2024-04-19,Delivered,Debit Card
+4828,183,2025-02-13,Delivered,Debit Card
+4829,181,2024-12-09,Delivered,Net Banking
+4830,379,2024-12-03,Delivered,Debit Card
+4831,413,2024-03-23,Delivered,COD
+4832,151,2025-02-24,Delivered,Debit Card
+4833,177,2025-02-22,Delivered,Net Banking
+4834,145,2025-01-20,Delivered,UPI
+4835,326,2023-12-03,Delivered,COD
+4836,53,2025-04-04,Delivered,UPI
+4837,294,2023-06-17,Delivered,Debit Card
+4838,34,2024-12-07,Delivered,Debit Card
+4839,179,2024-07-11,Cancelled,COD
+4840,425,2025-03-31,Delivered,Debit Card
+4841,60,2024-07-07,Delivered,Credit Card
+4842,446,2023-08-10,Delivered,UPI
+4843,123,2025-08-13,Delivered,Net Banking
+4844,11,2024-06-18,Delivered,Credit Card
+4845,78,2024-06-03,Delivered,Net Banking
+4846,284,2024-10-20,Delivered,Credit Card
+4847,228,2025-05-28,Delivered,Debit Card
+4848,92,2024-09-15,Returned,Credit Card
+4849,394,2023-02-23,Delivered,Net Banking
+4850,319,2024-10-11,Cancelled,Credit Card
+4851,84,2025-02-01,Delivered,Credit Card
+4852,56,2024-12-04,Delivered,Debit Card
+4853,301,2025-02-09,Delivered,Credit Card
+4854,470,2024-08-28,Delivered,Debit Card
+4855,279,2025-05-26,Delivered,COD
+4856,110,2025-04-15,Delivered,COD
+4857,384,2025-05-11,Delivered,COD
+4858,11,2023-11-10,Delivered,UPI
+4859,395,2025-01-31,Delivered,Net Banking
+4860,65,2023-11-21,Returned,Credit Card
+4861,359,2023-10-17,Delivered,Credit Card
+4862,424,2024-12-10,Delivered,COD
+4863,203,2024-02-09,Returned,Net Banking
+4864,179,2025-03-19,Delivered,Debit Card
+4865,309,2024-06-17,Delivered,UPI
+4866,138,2025-01-26,Delivered,UPI
+4867,498,2024-12-10,Delivered,COD
+4868,495,2024-05-08,Delivered,Credit Card
+4869,341,2025-07-26,Delivered,Net Banking
+4870,57,2024-06-13,Returned,Credit Card
+4871,99,2023-06-13,Delivered,Net Banking
+4872,54,2024-07-11,Delivered,Debit Card
+4873,207,2024-08-20,Delivered,COD
+4874,1,2024-05-03,Delivered,UPI
+4875,452,2025-03-19,Delivered,Credit Card
+4876,267,2023-02-18,Delivered,UPI
+4877,457,2025-04-10,Delivered,Credit Card
+4878,215,2023-05-24,Delivered,COD
+4879,1,2024-11-20,Cancelled,Net Banking
+4880,32,2024-12-12,Returned,COD
+4881,432,2023-11-09,Delivered,COD
+4882,446,2024-09-07,Delivered,Debit Card
+4883,346,2024-12-30,Delivered,Net Banking
+4884,237,2023-07-26,Delivered,COD
+4885,365,2024-11-03,Delivered,Net Banking
+4886,207,2024-07-06,Cancelled,COD
+4887,447,2024-03-28,Delivered,UPI
+4888,182,2024-06-23,Delivered,Credit Card
+4889,196,2025-05-13,Delivered,Net Banking
+4890,41,2024-04-03,Delivered,Debit Card
+4891,111,2025-04-26,Delivered,Debit Card
+4892,33,2025-05-09,Delivered,Net Banking
+4893,226,2024-05-06,Delivered,Debit Card
+4894,395,2024-04-23,Delivered,Net Banking
+4895,80,2024-04-17,Delivered,Net Banking
+4896,433,2025-01-08,Cancelled,UPI
+4897,459,2023-09-23,Delivered,COD
+4898,312,2023-12-31,Delivered,UPI
+4899,16,2024-11-29,Delivered,Net Banking
+4900,246,2025-01-08,Delivered,Net Banking
+4901,267,2025-03-19,Delivered,UPI
+4902,352,2025-04-03,Delivered,Debit Card
+4903,495,2024-05-01,Delivered,Net Banking
+4904,207,2025-06-01,Delivered,Debit Card
+4905,296,2024-11-13,Delivered,Credit Card
+4906,185,2025-01-29,Delivered,Debit Card
+4907,47,2025-04-12,Delivered,UPI
+4908,142,2024-08-18,Delivered,Debit Card
+4909,105,2025-07-08,Delivered,UPI
+4910,418,2025-07-01,Delivered,Credit Card
+4911,379,2023-12-22,Delivered,Debit Card
+4912,102,2023-03-17,Returned,Debit Card
+4913,395,2025-02-16,Delivered,Net Banking
+4914,314,2024-11-04,Returned,UPI
+4915,188,2024-07-29,Delivered,Net Banking
+4916,232,2025-03-11,Delivered,COD
+4917,189,2024-11-07,Delivered,Credit Card
+4918,192,2025-11-14,Delivered,UPI
+4919,383,2025-08-14,Delivered,Credit Card
+4920,358,2024-07-30,Delivered,COD
+4921,303,2025-10-26,Delivered,COD
+4922,277,2024-10-27,Returned,Net Banking
+4923,200,2025-06-07,Delivered,Debit Card
+4924,331,2024-02-18,Delivered,COD
+4925,168,2024-01-08,Returned,Credit Card
+4926,138,2024-04-18,Delivered,Credit Card
+4927,348,2023-09-14,Returned,COD
+4928,334,2024-12-21,Delivered,Net Banking
+4929,271,2025-01-28,Delivered,Credit Card
+4930,95,2024-06-01,Delivered,Debit Card
+4931,325,2025-01-24,Delivered,COD
+4932,315,2024-12-14,Delivered,Credit Card
+4933,281,2025-09-16,Returned,Net Banking
+4934,90,2024-12-23,Returned,Credit Card
+4935,286,2025-01-24,Delivered,Debit Card
+4936,250,2025-04-21,Delivered,UPI
+4937,401,2025-06-03,Cancelled,UPI
+4938,358,2025-06-26,Delivered,Net Banking
+4939,17,2025-03-26,Delivered,Net Banking
+4940,494,2023-11-25,Delivered,Net Banking
+4941,55,2025-02-13,Delivered,COD
+4942,439,2023-12-17,Delivered,Net Banking
+4943,13,2024-08-25,Delivered,UPI
+4944,46,2025-06-13,Delivered,Net Banking
+4945,22,2023-10-19,Delivered,UPI
+4946,116,2024-06-16,Delivered,Credit Card
+4947,230,2024-03-10,Cancelled,Credit Card
+4948,3,2024-12-23,Delivered,Debit Card
+4949,418,2025-02-24,Delivered,COD
+4950,381,2023-06-28,Delivered,UPI
+4951,454,2025-02-13,Delivered,Credit Card
+4952,140,2025-05-12,Delivered,UPI
+4953,374,2023-09-13,Returned,UPI
+4954,227,2024-12-20,Delivered,Net Banking
+4955,349,2024-12-05,Delivered,Debit Card
+4956,116,2025-04-17,Delivered,Net Banking
+4957,408,2023-04-12,Delivered,UPI
+4958,48,2024-07-15,Delivered,COD
+4959,401,2025-09-15,Delivered,Net Banking
+4960,262,2025-05-18,Delivered,Debit Card
+4961,51,2024-01-11,Delivered,Net Banking
+4962,179,2023-10-16,Delivered,Net Banking
+4963,437,2024-12-21,Delivered,Debit Card
+4964,83,2024-12-12,Delivered,COD
+4965,454,2024-08-15,Delivered,Credit Card
+4966,451,2024-09-01,Delivered,Net Banking
+4967,485,2025-05-20,Delivered,COD
+4968,174,2025-04-09,Delivered,COD
+4969,74,2024-05-20,Delivered,COD
+4970,33,2024-06-27,Delivered,Debit Card
+4971,460,2025-01-11,Delivered,COD
+4972,131,2025-07-14,Delivered,COD
+4973,313,2025-08-30,Delivered,Net Banking
+4974,22,2024-05-24,Delivered,Credit Card
+4975,402,2024-10-18,Delivered,Credit Card
+4976,104,2025-07-11,Delivered,UPI
+4977,96,2024-08-30,Delivered,Net Banking
+4978,348,2024-07-23,Delivered,COD
+4979,138,2025-04-02,Delivered,Net Banking
+4980,313,2025-03-24,Delivered,Net Banking
+4981,334,2024-12-16,Delivered,Debit Card
+4982,431,2023-08-19,Returned,Debit Card
+4983,246,2025-08-15,Delivered,COD
+4984,181,2024-04-23,Delivered,UPI
+4985,8,2024-10-02,Returned,Net Banking
+4986,129,2025-05-12,Delivered,Credit Card
+4987,481,2024-04-09,Returned,Net Banking
+4988,406,2025-05-16,Delivered,UPI
+4989,100,2025-06-01,Delivered,COD
+4990,116,2025-02-05,Delivered,Credit Card
+4991,406,2024-10-06,Delivered,Credit Card
+4992,7,2023-05-04,Delivered,UPI
+4993,143,2025-08-08,Delivered,COD
+4994,107,2024-09-08,Delivered,Debit Card
+4995,212,2025-04-20,Delivered,Net Banking
+4996,194,2024-01-14,Delivered,COD
+4997,136,2024-01-18,Returned,COD
+4998,392,2024-08-21,Delivered,UPI
+4999,439,2024-11-04,Delivered,Net Banking
+5000,221,2025-01-14,Delivered,Debit Card

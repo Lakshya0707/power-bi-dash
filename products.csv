@@ -1,0 +1,31 @@
+product_id,product_name,category,cost_price,unit_price
+1,Headphones,Electronics,5388,6526
+2,Smartwatch,Electronics,2403,3087
+3,Power Bank,Electronics,1293,2011
+4,Bluetooth Speaker,Electronics,5693,8866
+5,Webcam,Electronics,4617,5530
+6,Keyboard,Electronics,3606,4210
+7,Mouse,Electronics,917,1165
+8,Tablet Stand,Electronics,4289,6352
+9,Office Chair,Furniture,4747,5978
+10,Study Table,Furniture,5473,8405
+11,Bookshelf,Furniture,3586,4559
+12,Monitor Stand,Furniture,4977,6485
+13,Sofa Cushion Set,Furniture,203,318
+14,Formal Shirt,Clothing,1457,2235
+15,Jeans,Clothing,2937,3826
+16,Hoodie,Clothing,1913,3207
+17,Sports Tee,Clothing,2907,3506
+18,Jacket,Clothing,3262,3925
+19,Kurta,Clothing,2967,4397
+20,Mixer Grinder,Home & Kitchen,505,783
+21,Air Fryer,Home & Kitchen,4542,5535
+22,Water Bottle,Home & Kitchen,3250,3878
+23,Cookware Set,Home & Kitchen,2551,4097
+24,Dinner Set,Home & Kitchen,5216,8539
+25,Vacuum Cleaner,Home & Kitchen,3112,4567
+26,Yoga Mat,Sports,5921,7036
+27,Dumbbell Set,Sports,5567,7100
+28,Football,Sports,2520,4264
+29,Badminton Racket,Sports,2057,3346
+30,Cycling Gloves,Sports,3263,4251
